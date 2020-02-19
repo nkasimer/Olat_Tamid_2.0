@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2020.1.25)  16 FEB 2020 15:11
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2020.1.25)  18 FEB 2020 21:01
 entering extended mode
 **./olat_tamid_converted.tex
 (olat_tamid_converted.tex
@@ -2931,7 +2931,7 @@ Underfull \hbox (badness 1831) in paragraph at lines 294--296
 
 Underfull \hbox (badness 2393) in paragraph at lines 294--296
  []\TU/Shlomo(1)/bx/n/10.95 וְאֶת־הָאָֽרֶץ׃ []אֶת־הַיָּם֙ וְאֶת־כׇּל־אֲשֶׁר־בָּ
-֔ם׃ וּמִי בְּכָל־מַעֲשֵׂה יָדֶֽיךָ[] 
+֔ם׃ וּמִי בְּכׇל־מַעֲשֵׂה יָדֶֽיךָ[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -3062,6 +3062,35 @@ Requested font "Shlomo/OT" at 8.99997pt
 Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
  [7]
+Underfull \hbox (badness 1122) in paragraph at lines 366--367
+ []\TU/Shlomo(1)/bx/n/10.95 מַתָּנוֹת שֶׁהֵן אַרְבַּע: וְנֶאֱכָלִין לִפְנִים מִן הַ
+קְּֿלָעִים לְזִכְרֵי כְהֻנָּה[] 
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 370--371
+ [][]\TU/Shlomo(1)/bx/n/10.95 (ז) שְׁלָמִים קׇדָשִׁים קַלִּים: שְׁחִיטָתָן בְּכׇל־מָ
+קוֹם בָּעֲזָרָה וְדָמָן[] 
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 370--371
+ []\TU/Shlomo(1)/bx/n/10.95 טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע: וְנֶאֱכָלִין בְּכ
+ׇל־הָעִיר לְכׇל־אָדָם[] 
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 372--373
+ []\TU/Shlomo(1)/bx/n/10.95 בְּכׇל־הָעִיר בְּכׇל־מַאֲכׇל־לִשְׁנֵי יָמִים וְלַֽיְלָ
+ה אֶחָד: הַפֶּֽסַח אֵינוֹ[] 
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 372--373
+ []\TU/Shlomo(1)/bx/n/10.95 נֶאֱכׇל־אֶלָּא בַלַּֽיְלָה וְאֵינוֹ נֶאֱכׇל־אֶלָּא עַד־
+חֲצוֹת וְאֵינוֹ נֶאֱכׇל־אֶלָּא[] 
+ []
+
 Requested font "Shlomo/OT" at 10.94997pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
@@ -3070,7 +3099,6 @@ Requested font "Shlomo/OT" at 8.99997pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
-
 [8]
 
 Package scrbase Warning: Usage of deprecated command `\ifthispageodd'.
@@ -3166,20 +3194,30 @@ Requested font "Shlomo/OT" at 10.94997pt
 Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--500
- [][] 
- []
+Package scrbase Warning: Usage of deprecated command `\ifthispageodd'.
+(scrbase)                The command has been renamed because of a
+(scrbase)                recommendation of The LaTeX Project Team.
+(scrbase)                Please replace `\ifthispageodd' by `\Ifthispageodd' on
+ input line 500.
 
+
+Package scrextend Warning: odd/even page label number 22 undefined on input lin
+e 500.
+
+Requested font "Shlomo/OT" at 10.94997pt
+ -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
+Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
+ -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Package scrbase Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbase)                The command has been renamed because of a
 (scrbase)                recommendation of The LaTeX Project Team.
 (scrbase)                Please replace `\ifthispageodd' by `\Ifthispageodd' on
- input line 502.
+ input line 503.
 
 
-Package scrextend Warning: odd/even page label number 22 undefined on input lin
-e 502.
+Package scrextend Warning: odd/even page label number 23 undefined on input lin
+e 503.
 
 Requested font "Shlomo/OT" at 10.94997pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
@@ -3193,7 +3231,7 @@ Package scrbase Warning: Usage of deprecated command `\ifthispageodd'.
  input line 505.
 
 
-Package scrextend Warning: odd/even page label number 23 undefined on input lin
+Package scrextend Warning: odd/even page label number 24 undefined on input lin
 e 505.
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -3208,7 +3246,7 @@ Package scrbase Warning: Usage of deprecated command `\ifthispageodd'.
  input line 507.
 
 
-Package scrextend Warning: odd/even page label number 24 undefined on input lin
+Package scrextend Warning: odd/even page label number 25 undefined on input lin
 e 507.
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -3216,22 +3254,7 @@ Requested font "Shlomo/OT" at 10.94997pt
 Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
-Package scrbase Warning: Usage of deprecated command `\ifthispageodd'.
-(scrbase)                The command has been renamed because of a
-(scrbase)                recommendation of The LaTeX Project Team.
-(scrbase)                Please replace `\ifthispageodd' by `\Ifthispageodd' on
- input line 508.
-
-
-Package scrextend Warning: odd/even page label number 25 undefined on input lin
-e 508.
-
-Requested font "Shlomo/OT" at 10.94997pt
- -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
-Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
- -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
-
-Underfull \hbox (badness 10000) in paragraph at lines 501--511
+Underfull \hbox (badness 10000) in paragraph at lines 498--511
  [][] 
  []
 
@@ -3287,7 +3310,7 @@ you'd better type `E' or `X' now and fix your file.
 Here is how much of TeX's memory you used:
  46463 strings out of 427232
  948430 string characters out of 3140718
- 1412062 words of memory out of 3000000
+ 1412033 words of memory out of 3000000
  50370 multiletter control sequences out of 15000+200000
  538276 words of font info for 121 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
