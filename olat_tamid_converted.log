@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2020.1.25)  18 FEB 2020 21:55
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2020.1.25)  24 FEB 2020 19:44
 entering extended mode
 **./olat_tamid_converted.tex
 (olat_tamid_converted.tex
@@ -3153,8 +3153,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1259) in paragraph at lines 274--280
- []\TU/Shlomo(1)/bx/n/10.95 בְּכוֹרֶֽךָ שֶׁמֵּאַהֲבָתְֿךָ שֶׁאָהַֽבְתָּ אֹתוֹ וּמִשִּׂמְח
-ָתְֿךָ שֶׁשָּׂמַֽחְתָּ בּוֹ קָרָֽאתָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 בְּֿכוֹרֶֽךָ שֶׁמֵּאַהֲבָתְֿךָ שֶׁאָהַֽבְתָּ אֹתוֹ וּמִשִּׂמְ
+חָתְֿךָ שֶׁשָּׂמַֽחְתָּ בּוֹ קָרָֽאתָ[] 
  []
 
 Requested font "Shlomo Bold/OT:script=hebr;language=DFLT;mapping=tex-text;" at 
@@ -3218,14 +3218,14 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1831) in paragraph at lines 294--296
- []\TU/Shlomo(1)/bx/n/10.95 הָאֱלֹהִים֙ לְבַדְּךָ֔ לְכֹ֖ל מַמְלְכ֣וֹת הָאָ֑רֶץ 
-אַתָּ֣ה עָשִׂ֔יתָ אֶת־הַשָּׁמַ֖יִם[] 
+ []\TU/Shlomo(1)/bx/n/10.95 הָאֱלֹהִים֙ לְֿבַדְּךָ֔ לְֿכֹ֖ל מַמְלְכ֣וֹת הָאָ֑רֶ
+ץ אַתָּ֣ה עָשִׂ֔יתָ אֶת־הַשָּׁמַ֖יִם[] 
  []
 
 
 Underfull \hbox (badness 2393) in paragraph at lines 294--296
- []\TU/Shlomo(1)/bx/n/10.95 וְאֶת־הָאָֽרֶץ׃ []אֶת־הַיָּם֙ וְאֶת־כׇּל־אֲשֶׁר־בָּ
-֔ם׃ וּמִי בְּכׇל־מַעֲשֵׂה יָדֶֽיךָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿאֶת־הָאָֽרֶץ׃ []אֶת־הַיָּם֙ וְֿאֶת־כׇּל־אֲשֶׁר־ב
+ָּ֔ם׃ וּמִי בְּֿכׇל־מַעֲשֵׂה יָדֶֽיךָ[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -3357,32 +3357,32 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
  [7]
 Underfull \hbox (badness 1122) in paragraph at lines 366--367
- []\TU/Shlomo(1)/bx/n/10.95 מַתָּנוֹת שֶׁהֵן אַרְבַּע: וְנֶאֱכָלִין לִפְנִים מִן הַ
-קְּֿלָעִים לְזִכְרֵי כְהֻנָּה[] 
+ []\TU/Shlomo(1)/bx/n/10.95 מַתָּנוֹת שֶׁהֵן אַרְבַּע: וְֿנֶאֱכָלִין לִפְנִים מִן ה
+ַקְּֿלָעִים לְֿזִכְרֵי כְֿהֻנָּה[] 
  []
 
 
 Underfull \hbox (badness 1584) in paragraph at lines 370--371
- [][]\TU/Shlomo(1)/bx/n/10.95 (ז) שְׁלָמִים קׇדָשִׁים קַלִּים: שְׁחִיטָתָן בְּכׇל־מָ
-קוֹם בָּעֲזָרָה וְדָמָן[] 
+ [][]\TU/Shlomo(1)/bx/n/10.95 (ז) שְֿׁלָמִים קׇדָשִׁים קַלִּים: שְֿׁחִיטָתָן בְּֿכׇל
+־מָקוֹם בָּעֲזָרָה וְֿדָמָן[] 
  []
 
 
 Underfull \hbox (badness 1365) in paragraph at lines 370--371
- []\TU/Shlomo(1)/bx/n/10.95 טָעוּן שְׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע: וְנֶאֱכָלִין בְּכ
-ׇל־הָעִיר לְכׇל־אָדָם[] 
+ []\TU/Shlomo(1)/bx/n/10.95 טָעוּן שְֿׁתֵּי מַתָּנוֹת שֶׁהֵן אַרְבַּע: וְֿנֶאֱכָלִין בּ
+ְֿכׇל־הָעִיר לְֿכׇל־אָדָם[] 
  []
 
 
 Underfull \hbox (badness 2644) in paragraph at lines 372--373
- []\TU/Shlomo(1)/bx/n/10.95 בְּכׇל־הָעִיר בְּכׇל־מַאֲכׇל־לִשְׁנֵי יָמִים וְלַֽיְלָ
-ה אֶחָד: הַפֶּֽסַח אֵינוֹ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 בְּֿכׇל־הָעִיר בְּֿכׇל־מַאֲכׇל־לִשְׁנֵי יָמִים וְֿלַֽי
+ְֿלָה אֶחָד: הַפֶּֽסַח אֵינוֹ[] 
  []
 
 
 Underfull \hbox (badness 1107) in paragraph at lines 372--373
- []\TU/Shlomo(1)/bx/n/10.95 נֶאֱכׇל־אֶלָּא בַלַּֽיְלָה וְאֵינוֹ נֶאֱכׇל־אֶלָּא עַד־
-חֲצוֹת וְאֵינוֹ נֶאֱכׇל־אֶלָּא[] 
+ []\TU/Shlomo(1)/bx/n/10.95 נֶאֱכׇל־אֶלָּא בַלַּֽיְֿלָה וְֿאֵינוֹ נֶאֱכׇל־אֶלָּא עַ
+ד־חֲצוֹת וְֿאֵינוֹ נֶאֱכׇל־אֶלָּא[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -4220,7 +4220,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 10000) in paragraph at lines 798--798
- [][][]\TU/Shlomo(1)/bx/n/9 יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר[] 
+ [][][]\TU/Shlomo(1)/bx/n/9 יִתְבָּרַךְ וְֿיִשְׁתַּבַּח וְֿיִתְפָּאַר[] 
  []
 
 
@@ -4504,22 +4504,22 @@ Underfull \hbox (badness 5711) in paragraph at lines 1379--1379
 
 
 Underfull \hbox (badness 2119) in paragraph at lines 1379--1379
- []\TU/Shlomo(1)/bx/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
+ []\TU/Shlomo(1)/bx/n/10 בְּֿרֵאשִׁית: בְּֿרָכוֹת וְֿהוֹדָאוֹת[] 
  []
 
 
 Underfull \hbox (badness 3291) in paragraph at lines 1379--1379
- []\TU/Shlomo(1)/bx/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿשִׁמְךָ הַגָּדוֹל וְֿהַקָּדוֹשׁ עַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1379--1379
- []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְֿתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1379--1379
- []\TU/Shlomo(1)/bx/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿלַעֲשׂוֹת רְֿצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
@@ -4530,12 +4530,13 @@ Underfull \hbox (badness 1571) in paragraph at lines 1379--1379
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1379--1379
- []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְעַל נִפְלְֿאוֹתֶֽיךָ וְטוֹבוֹתֶֽיךָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְֿעַל נִפְלְֿאוֹתֶֽיךָ וְֿטוֹבוֹתֶֽיךָ[] 
  []
 
 
 Underfull \hbox (badness 7203) in paragraph at lines 1379--1379
- []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
+ []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְֿצׇׇׇׇׇׇׇׇָהֳרָֽיִם:
+[] 
  []
 
 
@@ -4546,38 +4547,41 @@ Underfull \hbox (badness 1817) in paragraph at lines 1381--1381
 
 
 Underfull \hbox (badness 1005) in paragraph at lines 1381--1381
- []\TU/Shlomo(1)/bx/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
+ []\TU/Shlomo(1)/bx/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּֿשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
+
  []
 
 
 Underfull \hbox (badness 2343) in paragraph at lines 1381--1381
- []\TU/Shlomo(1)/bx/n/10 הָרַבִּים עָמַֽדְתָּ לָהֶם בְּעֵת צָרָתָם רַֽבְתָּ[] 
+ []\TU/Shlomo(1)/bx/n/10 הָרַבִּים עָמַֽדְתָּ לָהֶם בְּֿעֵת צָרָתָם רַֽבְתָּ[] 
  []
 
 
 Underfull \hbox (badness 1107) in paragraph at lines 1381--1381
- []\TU/Shlomo(1)/bx/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד[] 
+ []\TU/Shlomo(1)/bx/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּֿיַד חַלָּשִׁים וְֿרַבִּים בְּֿיַד[] 
+
  []
 
 
 Underfull \hbox (badness 1320) in paragraph at lines 1381--1381
- []\TU/Shlomo(1)/bx/n/10 אֶת־הֵיכָלֶֽךָ וְטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְהִדְלִֽיקוּ[]
- 
+ []\TU/Shlomo(1)/bx/n/10 אֶת־הֵיכָלֶֽךָ וְֿטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְֿהִדְלִֽיקוּ
+[] 
  []
 
 
 Underfull \hbox (badness 4096) in paragraph at lines 1381--1381
- [][]\TU/FreeSans(0)/m/n/8 בפורים:  \TU/Shlomo(1)/bx/n/10 בִּימֵי מָרְדֳּכַי[] 
+ [][]\TU/FreeSans(0)/m/n/8 בפורים:  \TU/Shlomo(1)/bx/n/10 בִּימֵי מׇׇׇׇׇׇָרְֿדֳּכ
+ַי[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
- []\TU/Shlomo(1)/bx/n/10 וְִאֶסְתֵּר בְּשׁוּשַׁן הַבִּירָה[] 
+ []\TU/Shlomo(1)/bx/n/10 וְִֿאֶסְתֵּר בְּֿשׁוּשַׁן הַבִּירָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
- []\TU/Shlomo(1)/bx/n/10 כְּשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
+ []\TU/Shlomo(1)/bx/n/10 כְּֿשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
  []
 
 
@@ -4587,7 +4591,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
- []\TU/Shlomo(1)/bx/n/10 לְהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
  []
 
 
@@ -4597,12 +4601,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
 
 
 Underfull \hbox (badness 1077) in paragraph at lines 1381--1381
- []\TU/Shlomo(1)/bx/n/10 וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿעַד־זָקֵ֨ן טַ֤ף וְֿנָשִׁים֙ בְּֿי֣וֹם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
- []\TU/Shlomo(1)/bx/n/10 שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
+ []\TU/Shlomo(1)/bx/n/10 שְֿׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
  []
 
 
@@ -4612,7 +4616,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
- []\TU/Shlomo(1)/bx/n/10 וְאַתָּה בְּרַחֲמֶֽיךָ הָרַבִּים[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿאַתָּה בְּֿרַחֲמֶֽיךָ הָרַבִּים[] 
  []
 
 
@@ -4651,7 +4655,7 @@ Underfull \hbox (badness 2401) in paragraph at lines 1385--1385
 
 
 Underfull \hbox (badness 1817) in paragraph at lines 1385--1385
- []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
+ []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּֿע֨וֹן קׇדְשְׁךָ֜[] 
  []
 
 
@@ -4805,8 +4809,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1509) in paragraph at lines 1421--1431
- []\TU/Shlomo(1)/bx/n/10.95 אַפְּֿךָ֙ וַֽחֲמָ֣תְךָ֔ מֵעִֽירְֿךָ֥ יְרֽוּשָׁלַ֖ם הַר
-־קָדְשֶׁ֑ךָ כִּ֤י בַֽחֲטָאֵ֨ינוּ֙ וּבַֽעֲוֹנ֣וֹת[] 
+ []\TU/Shlomo(1)/bx/n/10.95 אַפְּֿךָ֙ וַֽחֲמָ֣תְֿךָ֔ מֵעִֽירְֿךָ֥ יְֿרֽוּשָׁלַ֖ם ה
+ַר־קָדְֿשֶׁ֑ךָ כִּ֤י בַֽחֲטָאֵ֨ינוּ֙ וּבַֽעֲוֹנ֣וֹת[] 
  []
 
 
@@ -4847,8 +4851,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 2368) in paragraph at lines 1433--1437
- [][]\TU/Shlomo(1)/bx/n/12 הַטֵּ֨ה[] \TU/Shlomo(1)/bx/n/10.95 אֱלֹהַ֥י אָזְנְֿךָ
-֘ וּֽשֲׁמָע֒ פְּקַ֣חה עֵינֶ֗יךָ וּרְאֵה֙ שֹֽׁמְֿמֹתֵ֔ינוּ וְהָעִ֕יר[] 
+ [][]\TU/Shlomo(1)/bx/n/12 הַטֵּ֨ה[] \TU/Shlomo(1)/bx/n/10.95 אֱלֹהַ֥י אָזְֿנְֿך
+ָ֘ וּֽשֲׁמָע֒ פְּֿקַ֣חה עֵינֶ֗יךָ וּרְאֵה֙ שֹֽׁמְֿמֹתֵ֔ינוּ וְֿהָעִ֕יר[] 
  []
 
 
@@ -4955,8 +4959,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1490--1490
 
 
 Underfull \hbox (badness 1946) in paragraph at lines 1536--1537
-[][]|\TU/Shlomo(1)/bx/n/10.95 קוֹלֵנוּ תִשְׁמַע וְתָחֹן וְאַל תִּטְּֿשֵׁנוּ בְּיַד אוֹיְ
-ֿבֵינוּ לִמְחוֹת[]
+[][]|\TU/Shlomo(1)/bx/n/10.95 קוֹלֵנוּ תִשְׁמַע וְֿתָחֹן וְֿאַל תִּטְּֿשֵׁנוּ בְּֿיַד א
+וֹיְֿבֵינוּ לִמְחוֹת[]
  []
 
 
@@ -5228,27 +5232,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 1731--1733
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1731--1733
- []\TU/Shlomo(1)/bx/n/10 וִיחַיֶּֽהָ וְיַצִּילֶֽהָ,[] 
+ []\TU/Shlomo(1)/bx/n/10 וִיחַיֶּֽהָ וְֿיַצִּילֶֽהָ,[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1731--1733
- []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְצוּקָה[] 
+ []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְֿצוּקָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1731--1733
- []\TU/Shlomo(1)/bx/n/10 שְׁלֵמָה לְכׇל־אֵבָרָיהָ[] 
+ []\TU/Shlomo(1)/bx/n/10 שְֿׁלֵמָה לְֿכׇל־אֵבָרָיהָ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1731--1733
- []\TU/Shlomo(1)/bx/n/10 וְגִידֶֽיהָ וּלְכׇל־גּוּפָהּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿגִידֶֽיהָ וּלְכׇל־גּוּפָהּ[] 
  []
 
 
 Underfull \hbox (badness 1902) in paragraph at lines 1731--1733
- []\TU/Shlomo(1)/bx/n/10 וְנַפְשָׁהּ, וְיָנֽוּחוּ עָלְֶיהָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿנַפְשָׁהּ, וְֿיָנֽוּחוּ עָלְֶיהָ[] 
  []
 
 
@@ -5258,7 +5262,7 @@ Underfull \hbox (badness 2556) in paragraph at lines 1731--1733
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1731--1733
- []\TU/Shlomo(1)/bx/n/10 מֵעָלֶֽיהָ כָּל־גְּזֵרוׂת[] 
+ []\TU/Shlomo(1)/bx/n/10 מֵעָלֶֽיהָ כָּל־גְּֿֿזֵרוׂת[] 
  []
 
 
@@ -5273,12 +5277,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1731--1733
 
 
 Underfull \hbox (badness 1946) in paragraph at lines 1731--1733
- []\TU/Shlomo(1)/bx/n/10 לְטוׂבָה, וְיַצְמִֽיחַ לָהּ[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿטוׂבָה, וְֿיַצְמִֽיחַ לָהּ[] 
  []
 
 
 Underfull \hbox (badness 3118) in paragraph at lines 1731--1733
- []\TU/Shlomo(1)/bx/n/10 וּלְכׇל־יִשְׂרָאֵל יְשׁוּעָה[] 
+ []\TU/Shlomo(1)/bx/n/10 וּלְכׇל־יִשְׂרָאֵל יְֿשׁוּעָה[] 
  []
 
 
@@ -5293,27 +5297,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
- []\TU/Shlomo(1)/bx/n/10 וִיחַיֵּֽהוּ וְיַצִּילֵֽהוּ,[] 
+ []\TU/Shlomo(1)/bx/n/10 וִיחַיֵּֽהוּ וְֿיַצִּילֵֽהוּ,[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
- []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְצוּקָה[] 
+ []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְֿצוּקָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
- []\TU/Shlomo(1)/bx/n/10 שְׁלֵמָה לְכׇל־אֵבָרָיו[] 
+ []\TU/Shlomo(1)/bx/n/10 שְֿׁלֵמָה לְֿכׇל־אֵבָרָיו[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
- []\TU/Shlomo(1)/bx/n/10 וְגִידָיו וּלְכׇל־גּוּפוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿגִידָיו וּלְכׇל־גּוּפוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
- []\TU/Shlomo(1)/bx/n/10 וְנַפְשׁוׂ, וְיָנֽוּחוּ עָלָיו[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿנַפְשׁוׂ, וְֿיָנֽוּחוּ עָלָיו[] 
  []
 
 
@@ -5323,7 +5327,7 @@ Underfull \hbox (badness 2556) in paragraph at lines 1734--1736
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
- []\TU/Shlomo(1)/bx/n/10 מֵעָלָיו כָּל־גְּזֵרוׂת[] 
+ []\TU/Shlomo(1)/bx/n/10 מֵעָלָיו כָּל־גְּֿֿזֵרוׂת[] 
  []
 
 
@@ -5338,12 +5342,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1734--1736
 
 
 Underfull \hbox (badness 4353) in paragraph at lines 1734--1736
- []\TU/Shlomo(1)/bx/n/10 לְטוׂבָה, וְיַצְמִֽיחַ לוׂ[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿטוׂבָה, וְֿיַצְמִֽיחַ לוׂ[] 
  []
 
 
 Underfull \hbox (badness 3118) in paragraph at lines 1734--1736
- []\TU/Shlomo(1)/bx/n/10 וּלְכׇל־יִשְׂרָאֵל יְשׁוּעָה[] 
+ []\TU/Shlomo(1)/bx/n/10 וּלְכׇל־יִשְׂרָאֵל יְֿשׁוּעָה[] 
  []
 
 
@@ -5358,17 +5362,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
- []\TU/Shlomo(1)/bx/n/10 וִיחַיֶּֽם וְיַצִּילֶֽם,[] 
+ []\TU/Shlomo(1)/bx/n/10 וִיחַיֶּֽם וְֿיַצִּילֶֽם,[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
- []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְצוּקָה[] 
+ []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְֿצוּקָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
- []\TU/Shlomo(1)/bx/n/10 וְגִידֶֽיהֶם וּלְכׇל־גּוּפָם[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿגִידֶֽיהֶם וּלְכׇל־גּוּפָם[] 
  []
 
 
@@ -5383,7 +5387,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
- []\TU/Shlomo(1)/bx/n/10 כָּל־גְּזֵרוׂת קָשׁוׂת,[] 
+ []\TU/Shlomo(1)/bx/n/10 כָּל־גְּֿֿזֵרוׂת קָשׁוׂת,[] 
  []
 
 
@@ -5393,12 +5397,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1737--1739
- []\TU/Shlomo(1)/bx/n/10 לְהֶם וּלְכׇל־יִשְׂרָאֵל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿהֶם וּלְכׇל־יִשְׂרָאֵל[] 
  []
 
 
 Underfull \hbox (badness 5147) in paragraph at lines 1737--1739
- []\TU/Shlomo(1)/bx/n/10 יְשׁוּעָה בְּקָרוׂב, וְכֵן[] 
+ []\TU/Shlomo(1)/bx/n/10 יְֿשׁוּעָה בְּֿקָרוׂב, וְֿכֵן[] 
  []
 
 
@@ -6146,8 +6150,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 2662) in paragraph at lines 2087--2091
- []\TU/Shlomo(1)/bx/n/10 בַּל־עָלֶֽיךָ׃ לִ֭קְדוֹשִׁים אֲשֶׁר־בָּאָ֣רֶץ הֵ֑מָּה וְ֝אַדּ
-ִירֵ֗י כׇּל־חֶפְצִי־בָֽם׃ יִרְבּ֥וּ[] 
+ []\TU/Shlomo(1)/bx/n/10 בַּל־עָלֶֽיךָ׃ לִ֭קְדוֹשִׁים אֲשֶׁר־בָּאָ֣רֶץ הֵ֑מָּה וְֿ֝אַ
+דִּירֵ֗י כׇּל־חֶפְצִי־בָֽם׃ יִרְבּ֥וּ[] 
  []
 
 
@@ -6361,8 +6365,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1803) in paragraph at lines 2282--2283
- [][]\TU/Shlomo(1)/bx/n/12 יְהַלֲלֽוּךָ \TU/Shlomo(1)/bx/n/10.95 יְיָ אֱלֹהֵֽינוּ
- כׇּל־מַעֲשֶֽׂיךָ וַחֲסִידֶֽיךָ צַדִּיקִים עוֹשֵׂי רְצֹנֶֽךָ[] 
+ [][]\TU/Shlomo(1)/bx/n/12 יְֿהַלֲלֽוּךָ \TU/Shlomo(1)/bx/n/10.95 יְיָ אֱלֹהֵֽינ
+וּ כׇּל־מַעֲשֶֽׂיךָ וַחֲסִידֶֽיךָ צַדִּיקִים עוֹשֵׂי רְֿצֹנֶֽךָ[] 
  []
 
 
@@ -6450,8 +6454,8 @@ Overfull \hbox (16.02376pt too wide) in paragraph at lines 2327--2352
 
 
 Underfull \hbox (badness 1057) in paragraph at lines 2360--2362
- [][]\TU/Shlomo(1)/bx/n/12 רָאשֵׁי חֳדָשִׁים \TU/Shlomo(1)/bx/n/10.95 לְעַמְּֿךָ נ
-ָתַתָּ זְמַן כַּפָּרָה לְכׇל־תּוֹלְֿדוֹתָם בִּהְיוֹתָם[] 
+ [][]\TU/Shlomo(1)/bx/n/12 רָאשֵׁי חֳדָשִׁים \TU/Shlomo(1)/bx/n/10.95 לְֿעַמְּֿךָ 
+נָתַתָּ זְֿמַן כַּפָּרָה לְֿכׇל־תּוֹלְֿדוֹתָם בִּהְיוֹתָם[] 
  []
 
 
@@ -6490,22 +6494,22 @@ Underfull \hbox (badness 5711) in paragraph at lines 2377--2377
 
 
 Underfull \hbox (badness 2119) in paragraph at lines 2377--2377
- []\TU/Shlomo(1)/bx/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
+ []\TU/Shlomo(1)/bx/n/10 בְּֿרֵאשִׁית: בְּֿרָכוֹת וְֿהוֹדָאוֹת[] 
  []
 
 
 Underfull \hbox (badness 3291) in paragraph at lines 2377--2377
- []\TU/Shlomo(1)/bx/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿשִׁמְךָ הַגָּדוֹל וְֿהַקָּדוֹשׁ עַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2377--2377
- []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְֿתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2377--2377
- []\TU/Shlomo(1)/bx/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿלַעֲשׂוֹת רְֿצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
@@ -6516,12 +6520,13 @@ Underfull \hbox (badness 1571) in paragraph at lines 2377--2377
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2377--2377
- []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְעַל נִפְלְֿאוֹתֶֽיךָ וְטוֹבוֹתֶֽיךָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְֿעַל נִפְלְֿאוֹתֶֽיךָ וְֿטוֹבוֹתֶֽיךָ[] 
  []
 
 
 Underfull \hbox (badness 7203) in paragraph at lines 2377--2377
- []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
+ []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְֿצׇׇׇׇׇׇׇׇָהֳרָֽיִם:
+[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -6536,14 +6541,14 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
 
 ]
 Underfull \hbox (badness 2035) in paragraph at lines 2393--2396
- [][]\TU/Shlomo(1)/bx/n/12 וְעַל כֻּלָּם \TU/Shlomo(1)/bx/n/10.95 יִתְבָּרַךְ וְיִ
-תְרוֹמַם שִׁמְךָ מַלְכֵּֽנוּ תָּמִיד לְעוֹלָם וָעֶד:[] 
+ [][]\TU/Shlomo(1)/bx/n/12 וְעַל כֻּלָּם \TU/Shlomo(1)/bx/n/10.95 יִתְבָּרַךְ וְֿי
+ִתְרוֹמַם שִׁמְךָ מַלְכֵּֽנוּ תָּמִיד לְֿעוֹלָם וָעֶד:[] 
  []
 
 
 Underfull \hbox (badness 1337) in paragraph at lines 2393--2396
- []\TU/Shlomo(1)/bx/n/10.95 וְכׇל־הַחַיִּים יוֹדֽוּךָ סֶּֽלָה וִיהַלֲלוּ אֶת־שִׁמְךָ 
-בֶּאֱמֶת הָאֵל יְשׁוּעָתֵֽנוּ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿכׇל־הַחַיִּים יוֹדֽוּךָ סֶּֽלָה וִיהַלֲלוּ אֶת־שִׁמְךָ
+ בֶּאֱמֶת הָאֵל יְֿשׁוּעָתֵֽנוּ[] 
  []
 
 
@@ -6564,7 +6569,7 @@ Underfull \hbox (badness 2401) in paragraph at lines 2397--2397
 
 
 Underfull \hbox (badness 1817) in paragraph at lines 2397--2397
- []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
+ []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּֿע֨וֹן קׇדְשְׁךָ֜[] 
  []
 
 
@@ -6887,22 +6892,22 @@ Underfull \hbox (badness 5711) in paragraph at lines 2578--2578
 
 
 Underfull \hbox (badness 2119) in paragraph at lines 2578--2578
- []\TU/Shlomo(1)/bx/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
+ []\TU/Shlomo(1)/bx/n/10 בְּֿרֵאשִׁית: בְּֿרָכוֹת וְֿהוֹדָאוֹת[] 
  []
 
 
 Underfull \hbox (badness 3291) in paragraph at lines 2578--2578
- []\TU/Shlomo(1)/bx/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿשִׁמְךָ הַגָּדוֹל וְֿהַקָּדוֹשׁ עַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2578--2578
- []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְֿתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2578--2578
- []\TU/Shlomo(1)/bx/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿלַעֲשׂוֹת רְֿצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
@@ -6919,12 +6924,13 @@ Underfull \hbox (badness 1571) in paragraph at lines 2578--2578
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2578--2578
- []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְעַל נִפְלְֿאוֹתֶֽיךָ וְטוֹבוֹתֶֽיךָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְֿעַל נִפְלְֿאוֹתֶֽיךָ וְֿטוֹבוֹתֶֽיךָ[] 
  []
 
 
 Underfull \hbox (badness 7203) in paragraph at lines 2578--2578
- []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
+ []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְֿצׇׇׇׇׇׇׇׇָהֳרָֽיִם:
+[] 
  []
 
 
@@ -6959,38 +6965,41 @@ Underfull \hbox (badness 1817) in paragraph at lines 2582--2582
 
 
 Underfull \hbox (badness 1005) in paragraph at lines 2582--2582
- []\TU/Shlomo(1)/bx/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
+ []\TU/Shlomo(1)/bx/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּֿשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
+
  []
 
 
 Underfull \hbox (badness 2343) in paragraph at lines 2582--2582
- []\TU/Shlomo(1)/bx/n/10 הָרַבִּים עָמַֽדְתָּ לָהֶם בְּעֵת צָרָתָם רַֽבְתָּ[] 
+ []\TU/Shlomo(1)/bx/n/10 הָרַבִּים עָמַֽדְתָּ לָהֶם בְּֿעֵת צָרָתָם רַֽבְתָּ[] 
  []
 
 
 Underfull \hbox (badness 1107) in paragraph at lines 2582--2582
- []\TU/Shlomo(1)/bx/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד[] 
+ []\TU/Shlomo(1)/bx/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּֿיַד חַלָּשִׁים וְֿרַבִּים בְּֿיַד[] 
+
  []
 
 
 Underfull \hbox (badness 1320) in paragraph at lines 2582--2582
- []\TU/Shlomo(1)/bx/n/10 אֶת־הֵיכָלֶֽךָ וְטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְהִדְלִֽיקוּ[]
- 
+ []\TU/Shlomo(1)/bx/n/10 אֶת־הֵיכָלֶֽךָ וְֿטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְֿהִדְלִֽיקוּ
+[] 
  []
 
 
 Underfull \hbox (badness 4096) in paragraph at lines 2582--2582
- [][]\TU/FreeSans(0)/m/n/8 בפורים:  \TU/Shlomo(1)/bx/n/10 בִּימֵי מָרְדֳּכַי[] 
+ [][]\TU/FreeSans(0)/m/n/8 בפורים:  \TU/Shlomo(1)/bx/n/10 בִּימֵי מׇׇׇׇׇׇָרְֿדֳּכ
+ַי[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
- []\TU/Shlomo(1)/bx/n/10 וְִאֶסְתֵּר בְּשׁוּשַׁן הַבִּירָה[] 
+ []\TU/Shlomo(1)/bx/n/10 וְִֿאֶסְתֵּר בְּֿשׁוּשַׁן הַבִּירָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
- []\TU/Shlomo(1)/bx/n/10 כְּשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
+ []\TU/Shlomo(1)/bx/n/10 כְּֿשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
  []
 
 
@@ -7000,7 +7009,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
- []\TU/Shlomo(1)/bx/n/10 לְהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
  []
 
 
@@ -7010,12 +7019,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
 
 
 Underfull \hbox (badness 1077) in paragraph at lines 2582--2582
- []\TU/Shlomo(1)/bx/n/10 וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿעַד־זָקֵ֨ן טַ֤ף וְֿנָשִׁים֙ בְּֿי֣וֹם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
- []\TU/Shlomo(1)/bx/n/10 שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
+ []\TU/Shlomo(1)/bx/n/10 שְֿׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
  []
 
 
@@ -7025,7 +7034,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
- []\TU/Shlomo(1)/bx/n/10 וְאַתָּה בְּרַחֲמֶֽיךָ הָרַבִּים[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿאַתָּה בְּֿרַחֲמֶֽיךָ הָרַבִּים[] 
  []
 
 
@@ -7062,7 +7071,7 @@ Underfull \hbox (badness 2401) in paragraph at lines 2588--2588
 
 
 Underfull \hbox (badness 1817) in paragraph at lines 2588--2588
- []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
+ []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּֿע֨וֹן קׇדְשְׁךָ֜[] 
  []
 
 
@@ -7097,7 +7106,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2598--2600
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2598--2600
- []\TU/Shlomo(1)/bx/n/10.95 תָּשִׂים לְעוֹלָם[] 
+ []\TU/Shlomo(1)/bx/n/10.95 תָּשִׂים לְֿעוֹלָם[] 
  []
 
 
@@ -7474,7 +7483,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 6510) in paragraph at lines 2704--2704
- [][][]\TU/Shlomo(1)/bx/n/9 יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר[] 
+ [][][]\TU/Shlomo(1)/bx/n/9 יִתְבָּרַךְ וְֿיִשְׁתַּבַּח וְֿיִתְפָּאַר[] 
  []
 
 
@@ -7874,38 +7883,41 @@ Underfull \hbox (badness 1817) in paragraph at lines 2845--2845
 
 
 Underfull \hbox (badness 1005) in paragraph at lines 2845--2845
- []\TU/Shlomo(1)/bx/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
+ []\TU/Shlomo(1)/bx/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּֿשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
+
  []
 
 
 Underfull \hbox (badness 2343) in paragraph at lines 2845--2845
- []\TU/Shlomo(1)/bx/n/10 הָרַבִּים עָמַֽדְתָּ לָהֶם בְּעֵת צָרָתָם רַֽבְתָּ[] 
+ []\TU/Shlomo(1)/bx/n/10 הָרַבִּים עָמַֽדְתָּ לָהֶם בְּֿעֵת צָרָתָם רַֽבְתָּ[] 
  []
 
 
 Underfull \hbox (badness 1107) in paragraph at lines 2845--2845
- []\TU/Shlomo(1)/bx/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד[] 
+ []\TU/Shlomo(1)/bx/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּֿיַד חַלָּשִׁים וְֿרַבִּים בְּֿיַד[] 
+
  []
 
 
 Underfull \hbox (badness 1320) in paragraph at lines 2845--2845
- []\TU/Shlomo(1)/bx/n/10 אֶת־הֵיכָלֶֽךָ וְטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְהִדְלִֽיקוּ[]
- 
+ []\TU/Shlomo(1)/bx/n/10 אֶת־הֵיכָלֶֽךָ וְֿטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְֿהִדְלִֽיקוּ
+[] 
  []
 
 
 Underfull \hbox (badness 4096) in paragraph at lines 2845--2845
- [][]\TU/FreeSans(0)/m/n/8 בפורים:  \TU/Shlomo(1)/bx/n/10 בִּימֵי מָרְדֳּכַי[] 
+ [][]\TU/FreeSans(0)/m/n/8 בפורים:  \TU/Shlomo(1)/bx/n/10 בִּימֵי מׇׇׇׇׇׇָרְֿדֳּכ
+ַי[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2845--2845
- []\TU/Shlomo(1)/bx/n/10 וְִאֶסְתֵּר בְּשׁוּשַׁן הַבִּירָה[] 
+ []\TU/Shlomo(1)/bx/n/10 וְִֿאֶסְתֵּר בְּֿשׁוּשַׁן הַבִּירָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2845--2845
- []\TU/Shlomo(1)/bx/n/10 כְּשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
+ []\TU/Shlomo(1)/bx/n/10 כְּֿשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
  []
 
 
@@ -7915,7 +7927,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2845--2845
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2845--2845
- []\TU/Shlomo(1)/bx/n/10 לְהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
  []
 
 
@@ -7925,12 +7937,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2845--2845
 
 
 Underfull \hbox (badness 1077) in paragraph at lines 2845--2845
- []\TU/Shlomo(1)/bx/n/10 וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿעַד־זָקֵ֨ן טַ֤ף וְֿנָשִׁים֙ בְּֿי֣וֹם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2845--2845
- []\TU/Shlomo(1)/bx/n/10 שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
+ []\TU/Shlomo(1)/bx/n/10 שְֿׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
  []
 
 
@@ -7940,7 +7952,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2845--2845
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2845--2845
- []\TU/Shlomo(1)/bx/n/10 וְאַתָּה בְּרַחֲמֶֽיךָ הָרַבִּים[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿאַתָּה בְּֿרַחֲמֶֽיךָ הָרַבִּים[] 
  []
 
 
@@ -7960,8 +7972,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
 
 ]
 Underfull \hbox (badness 1852) in paragraph at lines 2849--2853
- []\TU/Shlomo(1)/bx/n/10.95 לְכׇל־הַשָּׁלוֹם: וְטוֹב בְּעֵינֶֽיךָ לְבָרֵךְ אֶת־עַמְּֿ
-ךָ יִשְׂרָאֵל בְּכׇל־עֵת[] 
+ []\TU/Shlomo(1)/bx/n/10.95 לְֿכׇל־הַשָּׁלוֹם: וְֿטוֹב בְּֿעֵינֶֽיךָ לְֿבָרֵךְ אֶת־ע
+ַמְּֿךָ יִשְׂרָאֵל בְּֿכׇל־עֵת[] 
  []
 
 
@@ -8340,7 +8352,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 6510) in paragraph at lines 3211--3211
- [][][]\TU/Shlomo(1)/bx/n/9 יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר[] 
+ [][][]\TU/Shlomo(1)/bx/n/9 יִתְבָּרַךְ וְֿיִשְׁתַּבַּח וְֿיִתְפָּאַר[] 
  []
 
 
@@ -8538,8 +8550,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1297) in paragraph at lines 3296--3298
- [][]\TU/Shlomo(1)/bx/n/12 וַיְכֻלּ֛וּ[] \TU/Shlomo(1)/bx/n/10.95 הַשָּׁמַ֥יִם וְהָ
-אָ֖רֶץ וְכׇל־צְבָאָֽם׃ וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּֿׁבִיעִ֔י[] 
+ [][]\TU/Shlomo(1)/bx/n/12 וַיְֿכֻלּ֛וּ[] \TU/Shlomo(1)/bx/n/10.95 הַשָּׁמַ֥יִם וְֿ
+הָאָ֖רֶץ וְֿכׇל־צְבָאָֽם׃ וַיְֿכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּֿׁבִיעִ֔י[] 
  []
 
 
@@ -8566,8 +8578,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
  [104]
 Underfull \hbox (badness 1852) in paragraph at lines 3313--3317
- []\TU/Shlomo(1)/bx/n/10.95 לְכׇל־הַשָּׁלוֹם: וְטוֹב בְּעֵינֶֽיךָ לְבָרֵךְ אֶת־עַמְּֿ
-ךָ יִשְׂרָאֵל בְּכׇל־עֵת[] 
+ []\TU/Shlomo(1)/bx/n/10.95 לְֿכׇל־הַשָּׁלוֹם: וְֿטוֹב בְּֿעֵינֶֽיךָ לְֿבָרֵךְ אֶת־ע
+ַמְּֿךָ יִשְׂרָאֵל בְּֿכׇל־עֵת[] 
  []
 
 
@@ -8641,8 +8653,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1297) in paragraph at lines 3335--3338
- []\TU/Shlomo(1)/bx/n/12 וַיְכֻלּ֛וּ []\TU/Shlomo(1)/bx/n/10.95 הַשָּׁמַ֥יִם וְהָאָ
-֖רֶץ וְכׇל־צְבָאָֽם׃ וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּֿׁבִיעִ֔י[] 
+ []\TU/Shlomo(1)/bx/n/12 וַיְֿכֻלּ֛וּ []\TU/Shlomo(1)/bx/n/10.95 הַשָּׁמַ֥יִם וְֿהָ
+אָ֖רֶץ וְֿכׇל־צְבָאָֽם׃ וַיְֿכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּֿׁבִיעִ֔י[] 
  []
 
 Requested font "Shlomo Bold/OT:script=hebr;language=DFLT;mapping=tex-text;" at 
@@ -9949,8 +9961,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 2818) in paragraph at lines 4088--4095
- []\TU/Shlomo(1)/bx/n/10.95 וְהָאַחֲרוֹנִים אֱלֽוֹהַּ כׇּל־בְּרִיּוֹת אֲדוֹן כׇּל־תּוֹלָדוֹ
-ת הַמְֿהֻלָּל בְּרֹב[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿהָאַחֲרוֹנִים אֱלֽוֹהַּ כׇּל־בְּֿרִיּוֹת אֲדוֹן כׇּל־תּוֹלָ
+דוֹת הַמְֿהֻלָּל בְּֿרֹב[] 
  []
 
 
@@ -10100,8 +10112,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1546) in paragraph at lines 4184--4185
- []\TU/Shlomo(1)/bx/n/10.95 לְהָבִין וּלְהַשְׂכִּיל לִשְׁמֹֽעַ לִלְמֹד וּלְלַמֵּד לִשׁ
-ְמֹר וְלַעֲשׂוֹת וּלְקַיֵּם[] 
+ []\TU/Shlomo(1)/bx/n/10.95 לְֿהָבִין וּלְהַשְׂכִּיל לִשְׁמֹֽעַ לִלְמֹד וּלְלַמֵּד לִ
+שְׁמֹר וְֿלַעֲשׂוֹת וּלְקַיֵּם[] 
  []
 
 
@@ -10129,7 +10141,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 14.4pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 2512) in paragraph at lines 4186--4187
- []\TU/Shlomo(1)/bx/n/14.4 שְׁמַ֖ע יִשְׂרָאֵ֑ל יְיָ֥[] 
+ []\TU/Shlomo(1)/bx/n/14.4 שְֿׁמַ֖ע יִשְׂרָאֵ֑ל יְיָ֥[] 
  []
 
 
@@ -10181,27 +10193,27 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 3525) in paragraph at lines 4200--4206
- []\TU/Shlomo(1)/bx/n/10.95 וְיָשָׁר וְנֶאֱמָן וְטוֹב וְיָפֶה[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿיָשָׁר וְֿנֶאֱמָן וְֿטוֹב וְֿיָפֶה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4200--4206
- []\TU/Shlomo(1)/bx/n/10.95 וְעָלֵינוּ עַל בָּנֵֽינוּ וְעַל[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿעָלֵינוּ עַל בָּנֵֽינוּ וְֿעַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4200--4206
- []\TU/Shlomo(1)/bx/n/10.95 עַל הָרִאשׁוֹנִים וְעַל[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עַל הָרִאשׁוֹנִים וְֿעַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4200--4206
- []\TU/Shlomo(1)/bx/n/10.95 הָאַחֲרוֹנִים לְעוֹלָם וָעֶד[] 
+ []\TU/Shlomo(1)/bx/n/10.95 הָאַחֲרוֹנִים לְֿעוֹלָם וָעֶד[] 
  []
 
 
 Underfull \hbox (badness 3354) in paragraph at lines 4200--4206
- []\TU/Shlomo(1)/bx/n/10.95 חֹק וְלֹא יַעֲבוֹר: אֱמֶת[] 
+ []\TU/Shlomo(1)/bx/n/10.95 חֹק וְֿלֹא יַעֲבוֹר: אֱמֶת[] 
  []
 
 
@@ -10211,7 +10223,7 @@ Underfull \hbox (badness 6396) in paragraph at lines 4200--4206
 
 
 Underfull \hbox (badness 8132) in paragraph at lines 4200--4206
- []\TU/Shlomo(1)/bx/n/10.95 וֵאלֹהֵי אֲבוֹתֵֽינוּ לְעוֹלָם[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וֵאלֹהֵי אֲבוֹתֵֽינוּ לְֿעוֹלָם[] 
  []
 
 
@@ -10227,28 +10239,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 2310) in paragraph at lines 4209--4209
- []\TU/Shlomo(1)/bx/n/10.95 וְאָהוּב וְחָבִיב וְנֶחְמָד וְנָעִים וְנוֹרָא[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿאָהוּב וְֿחָבִיב וְֿנֶחְמָד וְֿנָעִים וְֿנוֹרָא[] 
+
  []
 
 
 Underfull \hbox (badness 4291) in paragraph at lines 4209--4209
- []\TU/Shlomo(1)/bx/n/10.95 וְאַדִּיר וּמְתֻקָּן וּמְקֻבָּל וְטוֹב וְיָפֶה[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿאַדִּיר וּמְתֻקָּן וּמְקֻבָּל וְֿטוֹב וְֿיָפֶה[] 
  []
 
 
 Underfull \hbox (badness 1127) in paragraph at lines 4209--4209
- []\TU/Shlomo(1)/bx/n/10.95 וְכִסְאוֹ נָכוֹן וּמַלְכוּתוֹ וֶאֱמוּנָתוֹ לָעַד[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿכִסְאוֹ נָכוֹן וּמַלְכוּתוֹ וֶאֱמוּנָתוֹ לָעַד[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4209--4209
- []\U/OrnementsADF/m/n/10.95 ^^N \TU/Shlomo(1)/bx/n/10.95 עַל־אֲבוֹתֵֽינוּ וְעָלֵ
-ֽינוּ עַל־בָּנֵֽינוּ[] 
+ []\U/OrnementsADF/m/n/10.95 ^^N \TU/Shlomo(1)/bx/n/10.95 עַל־אֲבוֹתֵֽינוּ וְֿעָל
+ֵֽינוּ עַל־בָּנֵֽינוּ[] 
  []
 
 
 Underfull \hbox (badness 1924) in paragraph at lines 4209--4209
- []\TU/Shlomo(1)/bx/n/10.95 וְעַל־דּוֹרוֹתֵֽינוּ וְעַל כׇּל־דּוֹרוֹת זֶֽרַע[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿעַל־דּוֹרוֹתֵֽינוּ וְֿעַל כׇּל־דּוֹרוֹת זֶֽרַע[] 
  []
 
 
@@ -10381,22 +10394,22 @@ Underfull \hbox (badness 5711) in paragraph at lines 4282--4282
 
 
 Underfull \hbox (badness 2119) in paragraph at lines 4282--4282
- []\TU/Shlomo(1)/bx/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
+ []\TU/Shlomo(1)/bx/n/10 בְּֿרֵאשִׁית: בְּֿרָכוֹת וְֿהוֹדָאוֹת[] 
  []
 
 
 Underfull \hbox (badness 3291) in paragraph at lines 4282--4282
- []\TU/Shlomo(1)/bx/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿשִׁמְךָ הַגָּדוֹל וְֿהַקָּדוֹשׁ עַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4282--4282
- []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְֿתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4282--4282
- []\TU/Shlomo(1)/bx/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿלַעֲשׂוֹת רְֿצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
@@ -10407,12 +10420,13 @@ Underfull \hbox (badness 1571) in paragraph at lines 4282--4282
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4282--4282
- []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְעַל נִפְלְֿאוֹתֶֽיךָ וְטוֹבוֹתֶֽיךָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְֿעַל נִפְלְֿאוֹתֶֽיךָ וְֿטוֹבוֹתֶֽיךָ[] 
  []
 
 
 Underfull \hbox (badness 7203) in paragraph at lines 4282--4282
- []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
+ []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְֿצׇׇׇׇׇׇׇׇָהֳרָֽיִם:
+[] 
  []
 
 
@@ -10445,7 +10459,7 @@ Underfull \hbox (badness 2401) in paragraph at lines 4288--4288
 
 
 Underfull \hbox (badness 1817) in paragraph at lines 4288--4288
- []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
+ []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּֿע֨וֹן קׇדְשְׁךָ֜[] 
  []
 
 
@@ -10709,8 +10723,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1803) in paragraph at lines 4334--4335
- [][]\TU/Shlomo(1)/bx/n/12 יְהַלֲלֽוּךָ \TU/Shlomo(1)/bx/n/10.95 יְיָ אֱלֹהֵֽינוּ
- כׇּל־מַעֲשֶֽׂיךָ וַחֲסִידֶֽיךָ צַדִּיקִים עוֹשֵׂי רְצֹנֶֽךָ[] 
+ [][]\TU/Shlomo(1)/bx/n/12 יְֿהַלֲלֽוּךָ \TU/Shlomo(1)/bx/n/10.95 יְיָ אֱלֹהֵֽינ
+וּ כׇּל־מַעֲשֶֽׂיךָ וַחֲסִידֶֽיךָ צַדִּיקִים עוֹשֵׂי רְֿצֹנֶֽךָ[] 
  []
 
 
@@ -11008,27 +11022,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 4481--4483
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4481--4483
- []\TU/Shlomo(1)/bx/n/10 וִיחַיֶּֽהָ וְיַצִּילֶֽהָ,[] 
+ []\TU/Shlomo(1)/bx/n/10 וִיחַיֶּֽהָ וְֿיַצִּילֶֽהָ,[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4481--4483
- []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְצוּקָה[] 
+ []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְֿצוּקָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4481--4483
- []\TU/Shlomo(1)/bx/n/10 שְׁלֵמָה לְכׇל־אֵבָרָיהָ[] 
+ []\TU/Shlomo(1)/bx/n/10 שְֿׁלֵמָה לְֿכׇל־אֵבָרָיהָ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4481--4483
- []\TU/Shlomo(1)/bx/n/10 וְגִידֶֽיהָ וּלְכׇל־גּוּפָהּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿגִידֶֽיהָ וּלְכׇל־גּוּפָהּ[] 
  []
 
 
 Underfull \hbox (badness 1902) in paragraph at lines 4481--4483
- []\TU/Shlomo(1)/bx/n/10 וְנַפְשָׁהּ, וְיָנֽוּחוּ עָלְֶיהָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿנַפְשָׁהּ, וְֿיָנֽוּחוּ עָלְֶיהָ[] 
  []
 
 
@@ -11038,7 +11052,7 @@ Underfull \hbox (badness 2556) in paragraph at lines 4481--4483
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4481--4483
- []\TU/Shlomo(1)/bx/n/10 מֵעָלֶֽיהָ כָּל־גְּזֵרוׂת[] 
+ []\TU/Shlomo(1)/bx/n/10 מֵעָלֶֽיהָ כָּל־גְּֿֿזֵרוׂת[] 
  []
 
 
@@ -11053,12 +11067,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 4481--4483
 
 
 Underfull \hbox (badness 1946) in paragraph at lines 4481--4483
- []\TU/Shlomo(1)/bx/n/10 לְטוׂבָה, וְיַצְמִֽיחַ לָהּ[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿטוׂבָה, וְֿיַצְמִֽיחַ לָהּ[] 
  []
 
 
 Underfull \hbox (badness 3118) in paragraph at lines 4481--4483
- []\TU/Shlomo(1)/bx/n/10 וּלְכׇל־יִשְׂרָאֵל יְשׁוּעָה[] 
+ []\TU/Shlomo(1)/bx/n/10 וּלְכׇל־יִשְׂרָאֵל יְֿשׁוּעָה[] 
  []
 
 
@@ -11079,27 +11093,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 4484--4486
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4484--4486
- []\TU/Shlomo(1)/bx/n/10 וִיחַיֵּֽהוּ וְיַצִּילֵֽהוּ,[] 
+ []\TU/Shlomo(1)/bx/n/10 וִיחַיֵּֽהוּ וְֿיַצִּילֵֽהוּ,[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4484--4486
- []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְצוּקָה[] 
+ []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְֿצוּקָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4484--4486
- []\TU/Shlomo(1)/bx/n/10 שְׁלֵמָה לְכׇל־אֵבָרָיו[] 
+ []\TU/Shlomo(1)/bx/n/10 שְֿׁלֵמָה לְֿכׇל־אֵבָרָיו[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4484--4486
- []\TU/Shlomo(1)/bx/n/10 וְגִידָיו וּלְכׇל־גּוּפוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿגִידָיו וּלְכׇל־גּוּפוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4484--4486
- []\TU/Shlomo(1)/bx/n/10 וְנַפְשׁוׂ, וְיָנֽוּחוּ עָלָיו[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿנַפְשׁוׂ, וְֿיָנֽוּחוּ עָלָיו[] 
  []
 
 
@@ -11109,7 +11123,7 @@ Underfull \hbox (badness 2556) in paragraph at lines 4484--4486
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4484--4486
- []\TU/Shlomo(1)/bx/n/10 מֵעָלָיו כָּל־גְּזֵרוׂת[] 
+ []\TU/Shlomo(1)/bx/n/10 מֵעָלָיו כָּל־גְּֿֿזֵרוׂת[] 
  []
 
 
@@ -11124,12 +11138,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 4484--4486
 
 
 Underfull \hbox (badness 4353) in paragraph at lines 4484--4486
- []\TU/Shlomo(1)/bx/n/10 לְטוׂבָה, וְיַצְמִֽיחַ לוׂ[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿטוׂבָה, וְֿיַצְמִֽיחַ לוׂ[] 
  []
 
 
 Underfull \hbox (badness 3118) in paragraph at lines 4484--4486
- []\TU/Shlomo(1)/bx/n/10 וּלְכׇל־יִשְׂרָאֵל יְשׁוּעָה[] 
+ []\TU/Shlomo(1)/bx/n/10 וּלְכׇל־יִשְׂרָאֵל יְֿשׁוּעָה[] 
  []
 
 
@@ -11150,17 +11164,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 4487--4489
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4487--4489
- []\TU/Shlomo(1)/bx/n/10 וִיחַיֶּֽם וְיַצִּילֶֽם,[] 
+ []\TU/Shlomo(1)/bx/n/10 וִיחַיֶּֽם וְֿיַצִּילֶֽם,[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4487--4489
- []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְצוּקָה[] 
+ []\TU/Shlomo(1)/bx/n/10 מִכׇּל־צָרָה וְֿצוּקָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4487--4489
- []\TU/Shlomo(1)/bx/n/10 וְגִידֶֽיהֶם וּלְכׇל־גּוּפָם[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿגִידֶֽיהֶם וּלְכׇל־גּוּפָם[] 
  []
 
 
@@ -11175,7 +11189,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4487--4489
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4487--4489
- []\TU/Shlomo(1)/bx/n/10 כָּל־גְּזֵרוׂת קָשׁוׂת,[] 
+ []\TU/Shlomo(1)/bx/n/10 כָּל־גְּֿֿזֵרוׂת קָשׁוׂת,[] 
  []
 
 
@@ -11185,12 +11199,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 4487--4489
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4487--4489
- []\TU/Shlomo(1)/bx/n/10 לְהֶם וּלְכׇל־יִשְׂרָאֵל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿהֶם וּלְכׇל־יִשְׂרָאֵל[] 
  []
 
 
 Underfull \hbox (badness 5147) in paragraph at lines 4487--4489
- []\TU/Shlomo(1)/bx/n/10 יְשׁוּעָה בְּקָרוׂב, וְכֵן[] 
+ []\TU/Shlomo(1)/bx/n/10 יְֿשׁוּעָה בְּֿקָרוׂב, וְֿכֵן[] 
  []
 
 
@@ -11793,22 +11807,22 @@ Underfull \hbox (badness 5711) in paragraph at lines 4812--4812
 
 
 Underfull \hbox (badness 2119) in paragraph at lines 4812--4812
- []\TU/Shlomo(1)/bx/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
+ []\TU/Shlomo(1)/bx/n/10 בְּֿרֵאשִׁית: בְּֿרָכוֹת וְֿהוֹדָאוֹת[] 
  []
 
 
 Underfull \hbox (badness 3291) in paragraph at lines 4812--4812
- []\TU/Shlomo(1)/bx/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿשִׁמְךָ הַגָּדוֹל וְֿהַקָּדוֹשׁ עַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4812--4812
- []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְֿתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4812--4812
- []\TU/Shlomo(1)/bx/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿלַעֲשׂוֹת רְֿצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
@@ -11819,12 +11833,13 @@ Underfull \hbox (badness 1571) in paragraph at lines 4812--4812
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 4812--4812
- []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְעַל נִפְלְֿאוֹתֶֽיךָ וְטוֹבוֹתֶֽיךָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְֿעַל נִפְלְֿאוֹתֶֽיךָ וְֿטוֹבוֹתֶֽיךָ[] 
  []
 
 
 Underfull \hbox (badness 7203) in paragraph at lines 4812--4812
- []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
+ []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְֿצׇׇׇׇׇׇׇׇָהֳרָֽיִם:
+[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -11864,12 +11879,12 @@ Underfull \hbox (badness 1184) in paragraph at lines 4843--4845
 
 
 Underfull \hbox (badness 1184) in paragraph at lines 4848--4850
- []\TU/Shlomo(1)/bx/n/10 שָׁלוֹם: יְהִי רָצוֹן שֶׁתָּשִׂים[] 
+ []\TU/Shlomo(1)/bx/n/10 שָׁלוֹם: יְֿהִי רָצוֹן שֶׁתָּשִׂים[] 
  []
 
 
 Underfull \hbox (badness 2781) in paragraph at lines 4848--4850
- []\TU/Shlomo(1)/bx/n/10 עָלֵֽינוּ וְעַל כׇּל־עַמְּךָ בֵּית[] 
+ []\TU/Shlomo(1)/bx/n/10 עָלֵֽינוּ וְֿעַל כׇּל־עַמְּֿךָ בֵּית[] 
  []
 
 
@@ -12987,22 +13002,22 @@ Underfull \hbox (badness 5711) in paragraph at lines 5204--5204
 
 
 Underfull \hbox (badness 2119) in paragraph at lines 5204--5204
- []\TU/Shlomo(1)/bx/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
+ []\TU/Shlomo(1)/bx/n/10 בְּֿרֵאשִׁית: בְּֿרָכוֹת וְֿהוֹדָאוֹת[] 
  []
 
 
 Underfull \hbox (badness 3291) in paragraph at lines 5204--5204
- []\TU/Shlomo(1)/bx/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿשִׁמְךָ הַגָּדוֹל וְֿהַקָּדוֹשׁ עַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5204--5204
- []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְֿתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5204--5204
- []\TU/Shlomo(1)/bx/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿלַעֲשׂוֹת רְֿצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
@@ -13019,12 +13034,13 @@ Underfull \hbox (badness 1571) in paragraph at lines 5204--5204
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5204--5204
- []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְעַל נִפְלְֿאוֹתֶֽיךָ וְטוֹבוֹתֶֽיךָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְֿעַל נִפְלְֿאוֹתֶֽיךָ וְֿטוֹבוֹתֶֽיךָ[] 
  []
 
 
 Underfull \hbox (badness 7203) in paragraph at lines 5204--5204
- []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
+ []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְֿצׇׇׇׇׇׇׇׇָהֳרָֽיִם:
+[] 
  []
 
 
@@ -13213,14 +13229,14 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 3838) in paragraph at lines 5228--5229
- []\TU/Shlomo(1)/bx/n/10.95 רְכוּב֑וֹ הַֽ֝מְֿהַלֵּ֗ךְ עַל־כַּנְפֵי־רֽוּחַ׃ עֹשֶׂ֣ה מַ
-לְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרֲתָ֗יו[] 
+ []\TU/Shlomo(1)/bx/n/10.95 רְֿכוּב֑וֹ הַֽ֝מְֿהַלֵּ֗ךְ עַל־כַּנְפֵי־רֽוּחַ׃ עֹשֶׂ֣ה מ
+ַלְאָכָ֣יו רוּח֑וֹת מְֿ֝שָׁרֲתָ֗יו[] 
  []
 
 
 Underfull \hbox (badness 1742) in paragraph at lines 5228--5229
  []\TU/Shlomo(1)/bx/n/10.95 אֵ֣שׁ לֹהֵֽט׃ יָ֣סַד אֶ֖רֶץ עַל־מְכוֹנֶ֑יהָ בַּל־תִּ֝מּ֗
-וֹט עוֹלָ֥ם וָעֶֽד׃ תְּ֭הוֹם[] 
+וֹט עוֹלָ֥ם וָעֶֽד׃ תְּֿ֭הוֹם[] 
  []
 
 
@@ -13315,8 +13331,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1603) in paragraph at lines 5241--5242
- [][]\TU/Shlomo(1)/bx/n/10.95 שִׁ֗יר []הַֽמַּֽ֫עֲל֥וֹת הַבּֽוֹטְֿחִ֥ים בַּֽיְיָ֑ כְּהַ
-ר־צִיּ֥וֹן לֹֽא־יִ֝מּ֗וֹט לְעוֹלָ֥ם יֵשֵֽׁב׃[] 
+ [][]\TU/Shlomo(1)/bx/n/10.95 שִׁ֗יר []הַֽמַּֽ֫עֲל֥וֹת הַבּֽוֹטְֿחִ֥ים בַּֽיְֿיָ֑ כְּֿ
+הַר־צִיּ֥וֹן לֹֽא־יִ֝מּ֗וֹט לְֿעוֹלָ֥ם יֵשֵֽׁב׃[] 
  []
 
 
@@ -13423,7 +13439,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
 
 Underfull \hbox (badness 2111) in paragraph at lines 5255--5256
  []\TU/Shlomo(1)/bx/n/10.95 עֻזֶּֽךָ׃ כֹּֽהֲנֶ֥יךָ יִלְבְּֿשׁוּ־צֶ֑דֶק וַֽחֲסִידֶ֥יך
-ָ יְרַנֵּֽנוּ׃ בַּֽעֲב֣וּר דָּוִ֣ד עַבְדֶּ֑ךָ[] 
+ָ יְֿרַנֵּֽנוּ׃ בַּֽעֲב֣וּר דָּוִ֣ד עַבְדֶּ֑ךָ[] 
  []
 
 
@@ -13712,8 +13728,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 2635) in paragraph at lines 5440--5443
- []\TU/Shlomo(1)/bx/n/10.95 וְעוֹסְֿקִין בַּתּוֹרָה, שְׁכִינָה שְׁרוּיָה בֵּינֵ
-יהֶם, שֶׁנֶּאֱמַר []אֱלֹהִ֗ים נִצָּ֥ב[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿעוֹסְֿקִין בַּתּוֹרָה, שְֿׁכִינָה שְֿׁרוּיָה בֵּ
+ינֵיהֶם, שֶׁנֶּאֱמַר []אֱלֹהִ֗ים נִצָּ֥ב[] 
  []
 
 
@@ -13762,8 +13778,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
  [200]
 Underfull \hbox (badness 1184) in paragraph at lines 5467--5469
- []\TU/Shlomo(1)/bx/n/10.95 וְשִׂיחַת הַיְלָדִים, וִישִׁיבַת בָּתֵּי כְנֵסִיּוֹ
-ת שֶׁל עַמֵּי הָאָרֶץ, מוֹצִיאִין[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿשִׂיחַת הַיְֿלָדִים, וִישִׁיבַת בָּתֵּי כְֿנֵסִי
+ּוֹת שֶׁל עַמֵּי הָאָרֶץ, מוֹצִיאִין[] 
  []
 
 
@@ -14197,8 +14213,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 2359) in paragraph at lines 5764--5766
- []\TU/Shlomo(1)/bx/n/10.95 וּשְׁמוֹנָה דְבָרִים, וְאֵֽלוּ הֵן, בְּתַלְמוּד, בִּשְׁמִיע
-ַת הָאֹֽזֶן, בַּעֲרִיכַת[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וּשְׁמוֹנָה דְֿבָרִים, וְֿאֵֽלוּ הֵן, בְּֿתַלְמוּד, בִּשְׁמ
+ִיעַת הָאֹֽזֶן, בַּעֲרִיכַת[] 
  []
 
 
@@ -14534,14 +14550,14 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1112) in paragraph at lines 5783--5785
- []\TU/Shlomo(1)/bx/n/10.95 לִכְבוֹדוֹ, שֶׁנֶּאֱמַר: []כֹּ֚ל הַנִּקְרָ֣א בִשְׁמִ֔י וְל
-ִכְבוֹדִ֖י בְּרָאתִ֑יו יְצַרְתִּ֖יו[] 
+ []\TU/Shlomo(1)/bx/n/10.95 לִכְבוֹדוֹ, שֶׁנֶּאֱמַר: []כֹּ֚ל הַנִּקְרָ֣א בִשְׁמִ֔י וְֿ
+לִכְבוֹדִ֖י בְּֿרָאתִ֑יו יְֿצַרְתִּ֖יו[] 
  []
 
 
 Underfull \hbox (badness 1005) in paragraph at lines 5789--5792
  [][]\TU/Shlomo(1)/bx/n/10.95 רַבִּי חֲנַנְיָה בֶּן עֲקַשְׁיָא אוֹמֵר: רָצָה הַ
-קָּדוֹשׁ בָּרוּךְ הוּא לְזַכּוֹת[] 
+קָּדוֹשׁ בָּרוּךְ הוּא לְֿזַכּוֹת[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -14611,7 +14627,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 6510) in paragraph at lines 5845--5845
- [][][]\TU/Shlomo(1)/bx/n/9 יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר[] 
+ [][][]\TU/Shlomo(1)/bx/n/9 יִתְבָּרַךְ וְֿיִשְׁתַּבַּח וְֿיִתְפָּאַר[] 
  []
 
 
@@ -15015,38 +15031,41 @@ Underfull \hbox (badness 1817) in paragraph at lines 5914--5914
 
 
 Underfull \hbox (badness 1005) in paragraph at lines 5914--5914
- []\TU/Shlomo(1)/bx/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
+ []\TU/Shlomo(1)/bx/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּֿשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
+
  []
 
 
 Underfull \hbox (badness 2343) in paragraph at lines 5914--5914
- []\TU/Shlomo(1)/bx/n/10 הָרַבִּים עָמַֽדְתָּ לָהֶם בְּעֵת צָרָתָם רַֽבְתָּ[] 
+ []\TU/Shlomo(1)/bx/n/10 הָרַבִּים עָמַֽדְתָּ לָהֶם בְּֿעֵת צָרָתָם רַֽבְתָּ[] 
  []
 
 
 Underfull \hbox (badness 1107) in paragraph at lines 5914--5914
- []\TU/Shlomo(1)/bx/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד[] 
+ []\TU/Shlomo(1)/bx/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּֿיַד חַלָּשִׁים וְֿרַבִּים בְּֿיַד[] 
+
  []
 
 
 Underfull \hbox (badness 1320) in paragraph at lines 5914--5914
- []\TU/Shlomo(1)/bx/n/10 אֶת־הֵיכָלֶֽךָ וְטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְהִדְלִֽיקוּ[]
- 
+ []\TU/Shlomo(1)/bx/n/10 אֶת־הֵיכָלֶֽךָ וְֿטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְֿהִדְלִֽיקוּ
+[] 
  []
 
 
 Underfull \hbox (badness 4096) in paragraph at lines 5914--5914
- [][]\TU/FreeSans(0)/m/n/8 בפורים:  \TU/Shlomo(1)/bx/n/10 בִּימֵי מָרְדֳּכַי[] 
+ [][]\TU/FreeSans(0)/m/n/8 בפורים:  \TU/Shlomo(1)/bx/n/10 בִּימֵי מׇׇׇׇׇׇָרְֿדֳּכ
+ַי[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5914--5914
- []\TU/Shlomo(1)/bx/n/10 וְִאֶסְתֵּר בְּשׁוּשַׁן הַבִּירָה[] 
+ []\TU/Shlomo(1)/bx/n/10 וְִֿאֶסְתֵּר בְּֿשׁוּשַׁן הַבִּירָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5914--5914
- []\TU/Shlomo(1)/bx/n/10 כְּשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
+ []\TU/Shlomo(1)/bx/n/10 כְּֿשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
  []
 
 
@@ -15056,7 +15075,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5914--5914
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5914--5914
- []\TU/Shlomo(1)/bx/n/10 לְהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
  []
 
 
@@ -15066,12 +15085,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5914--5914
 
 
 Underfull \hbox (badness 1077) in paragraph at lines 5914--5914
- []\TU/Shlomo(1)/bx/n/10 וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿעַד־זָקֵ֨ן טַ֤ף וְֿנָשִׁים֙ בְּֿי֣וֹם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5914--5914
- []\TU/Shlomo(1)/bx/n/10 שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
+ []\TU/Shlomo(1)/bx/n/10 שְֿׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
  []
 
 
@@ -15081,7 +15100,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5914--5914
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5914--5914
- []\TU/Shlomo(1)/bx/n/10 וְאַתָּה בְּרַחֲמֶֽיךָ הָרַבִּים[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿאַתָּה בְּֿרַחֲמֶֽיךָ הָרַבִּים[] 
  []
 
 
@@ -15102,8 +15121,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
  [223]
 Underfull \hbox (badness 1852) in paragraph at lines 5920--5925
- []\TU/Shlomo(1)/bx/n/10.95 לְכׇל־הַשָּׁלוֹם: וְטוֹב בְּעֵינֶֽיךָ לְבָרֵךְ אֶת־עַמְּֿ
-ךָ יִשְׂרָאֵל בְּכׇל־עֵת[] 
+ []\TU/Shlomo(1)/bx/n/10.95 לְֿכׇל־הַשָּׁלוֹם: וְֿטוֹב בְּֿעֵינֶֽיךָ לְֿבָרֵךְ אֶת־ע
+ַמְּֿךָ יִשְׂרָאֵל בְּֿכׇל־עֵת[] 
  []
 
 
@@ -15497,7 +15516,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
 
 Underfull \hbox (badness 1521) in paragraph at lines 6059--6062
  []\TU/Shlomo(1)/bx/n/10.95 הוֹרַ֔י עַֽד־תַּֽאֲוַ֖ת גִּבְעֹ֣ת עוֹלָ֑ם תִּֽהְיֶ֨יןָ֙ 
-לְרֹ֣אשׁ יוֹסֵ֔ף וּלְקָדְקֹ֖ד נְזִ֥יר[] 
+לְֿרֹ֣אשׁ יוֹסֵ֔ף וּלְקָדְקֹ֖ד נְֿזִ֥יר[] 
  []
 
 
@@ -15818,6 +15837,12 @@ Requested font "Shlomo/OT" at 10.94997pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
+
+Underfull \hbox (badness 3579) in paragraph at lines 6128--6133
+ []\TU/Shlomo(1)/bx/n/10.95 לִישׁוּעָֽה׃ וּשְׁאַבְתֶּם־מַ֖יִם בְּֿשָׂשׂ֑וֹן מִמַּֽעַיְֿנֵ
+֖י הַיְֿשׁוּעָֽה׃ לַֽיְֿיָ֥ []הַיְֿשׁוּעָ֑ה[] 
+ []
+
 Requested font "Shlomo/OT" at 10.94997pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
@@ -15858,14 +15883,14 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 3260) in paragraph at lines 6154--6162
- []\TU/Shlomo(1)/bx/n/10.95 הַֽלֲלוּ֙יָהּ []הַֽלֲל֣וּ אֶת־יְ֖יָ מִן־הַשָּׁמַ֑יִם הַ֝
-ֽלֲל֗וּהוּ בַּמְּֿרוֹמִֽים׃ ֭הַֽלֲל֥וּהוּ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 הַֽלֲלוּ֙יָהּ []הַֽלֲל֣וּ אֶת־יְֿ֖יָ מִן־הַשָּׁמַ֑יִם ה֝
+ַֽלֲל֗וּהוּ בַּמְּֿרוֹמִֽים׃ ֭הַֽלֲל֥וּהוּ[] 
  []
 
 
 Underfull \hbox (badness 3568) in paragraph at lines 6154--6162
  []\TU/Shlomo(1)/bx/n/10.95 כׇּל־מַלְאָכָ֑יו הַֽ֝לֲל֗וּהוּ כׇּל־צְבָאָֽו׃ ֖הַֽלֲלֽוּ
-הוּ שֶׁ֣מֶשׁ וְיָרֵ֑חַ הַֽ֝לֲל֗וּהוּ[] 
+הוּ שֶׁ֣מֶשׁ וְֿיָרֵ֑חַ הַֽ֝לֲל֗וּהוּ[] 
  []
 
 
@@ -16178,22 +16203,22 @@ Underfull \hbox (badness 5711) in paragraph at lines 6418--6418
 
 
 Underfull \hbox (badness 2119) in paragraph at lines 6418--6418
- []\TU/Shlomo(1)/bx/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
+ []\TU/Shlomo(1)/bx/n/10 בְּֿרֵאשִׁית: בְּֿרָכוֹת וְֿהוֹדָאוֹת[] 
  []
 
 
 Underfull \hbox (badness 3291) in paragraph at lines 6418--6418
- []\TU/Shlomo(1)/bx/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿשִׁמְךָ הַגָּדוֹל וְֿהַקָּדוֹשׁ עַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6418--6418
- []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְֿתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6418--6418
- []\TU/Shlomo(1)/bx/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿלַעֲשׂוֹת רְֿצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
@@ -16204,24 +16229,25 @@ Underfull \hbox (badness 1571) in paragraph at lines 6418--6418
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6418--6418
- []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְעַל נִפְלְֿאוֹתֶֽיךָ וְטוֹבוֹתֶֽיךָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְֿעַל נִפְלְֿאוֹתֶֽיךָ וְֿטוֹבוֹתֶֽיךָ[] 
  []
 
 
 Underfull \hbox (badness 7203) in paragraph at lines 6418--6418
- []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
+ []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְֿצׇׇׇׇׇׇׇׇָהֳרָֽיִם:
+[] 
  []
 
 
 Underfull \hbox (badness 2503) in paragraph at lines 6420--6422
- [][]\TU/Shlomo(1)/bx/n/12 וְעַל \TU/Shlomo(1)/bx/n/10.95 כֻּלָּם יִתְבָּרַךְ וְיִ
-תְרוֹמַם שִׁמְךָ מַלְכֵּֽנוּ תָּמִיד לְעוֹלָם וָעֶד:[] 
+ [][]\TU/Shlomo(1)/bx/n/12 וְעַל \TU/Shlomo(1)/bx/n/10.95 כֻּלָּם יִתְבָּרַךְ וְֿי
+ִתְרוֹמַם שִׁמְךָ מַלְכֵּֽנוּ תָּמִיד לְֿעוֹלָם וָעֶד:[] 
  []
 
 
 Underfull \hbox (badness 1337) in paragraph at lines 6420--6422
- []\TU/Shlomo(1)/bx/n/10.95 וְכׇל־הַחַיִּים יוֹדֽוּךָ סֶּֽלָה וִיהַלֲלוּ אֶת־שִׁמְךָ 
-בֶּאֱמֶת הָאֵל יְשׁוּעָתֵֽנוּ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿכׇל־הַחַיִּים יוֹדֽוּךָ סֶּֽלָה וִיהַלֲלוּ אֶת־שִׁמְךָ
+ בֶּאֱמֶת הָאֵל יְֿשׁוּעָתֵֽנוּ[] 
  []
 
 
@@ -16253,7 +16279,7 @@ Underfull \hbox (badness 2401) in paragraph at lines 6425--6425
 
 
 Underfull \hbox (badness 1817) in paragraph at lines 6425--6425
- []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
+ []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּֿע֨וֹן קׇדְשְׁךָ֜[] 
  []
 
 
@@ -16440,8 +16466,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 7869) in paragraph at lines 6626--6629
- []\TU/Shlomo(1)/bx/n/10.95 וּבְי֣וֹם []הַבִּכּוּרִ֗ים בְּהַקְרִ֨יבְֿכֶ֜ם מִנְחָ֤ה חֲ
-דָשָׁה֙ לַֽיְיָ֔ בְּשָֽׁבֻעֹ֖תֵיכֶ֑ם[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וּבְי֣וֹם []הַבִּכּוּרִ֗ים בְּֿהַקְרִ֨יבְֿכֶ֜ם מִנְחָ֤ה ח
+ֲדָשָׁה֙ לַֽיְֿיָ֔ בְּֿשָֽׁבֻעֹ֖תֵיכֶ֑ם[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -16559,8 +16585,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1194) in paragraph at lines 6682--6685
- []\TU/Shlomo(1)/bx/n/10.95 לָאָֽיִל וְעִשָּׂרוֹן לַכֶּֽבֶשׂ וְיַֽיִן כְּנִסְכּוֹ: וְשָׂ
-עִיר לְכַפֵּר וּשְׁנֵי תְמִידִים[] 
+ []\TU/Shlomo(1)/bx/n/10.95 לָאָֽיִל וְֿעִשָּׂרוֹן לַכֶּֽבֶשׂ וְֿיַֽיִן כְּֿנִסְכּוֹ: ו
+ְֿשָׂעִיר לְֿכַפֵּר וּשְׁנֵי תְֿמִידִים[] 
  []
 
 
@@ -16576,8 +16602,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 1838) in paragraph at lines 6694--6696
- []\TU/Shlomo(1)/bx/n/10.95 וְהָשֵׁב כֹּהֲנִים לַעֲבוֹדָתָם וּלְוִיִּם לְשִׁירָם וּלְז
-ִמְרָם וְהָשֵׁב יִשְׂרָאֵל[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿהָשֵׁב כֹּהֲנִים לַעֲבוֹדָתָם וּלְוִיִּם לְֿשִׁירָם וּל
+ְזִמְרָם וְֿהָשֵׁב יִשְׂרָאֵל[] 
  []
 
 
@@ -16598,22 +16624,22 @@ Underfull \hbox (badness 5711) in paragraph at lines 6706--6706
 
 
 Underfull \hbox (badness 2119) in paragraph at lines 6706--6706
- []\TU/Shlomo(1)/bx/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
+ []\TU/Shlomo(1)/bx/n/10 בְּֿרֵאשִׁית: בְּֿרָכוֹת וְֿהוֹדָאוֹת[] 
  []
 
 
 Underfull \hbox (badness 3291) in paragraph at lines 6706--6706
- []\TU/Shlomo(1)/bx/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿשִׁמְךָ הַגָּדוֹל וְֿהַקָּדוֹשׁ עַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6706--6706
- []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְֿתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6706--6706
- []\TU/Shlomo(1)/bx/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿלַעֲשׂוֹת רְֿצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
@@ -16624,12 +16650,13 @@ Underfull \hbox (badness 1571) in paragraph at lines 6706--6706
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6706--6706
- []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְעַל נִפְלְֿאוֹתֶֽיךָ וְטוֹבוֹתֶֽיךָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְֿעַל נִפְלְֿאוֹתֶֽיךָ וְֿטוֹבוֹתֶֽיךָ[] 
  []
 
 
 Underfull \hbox (badness 7203) in paragraph at lines 6706--6706
- []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
+ []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְֿצׇׇׇׇׇׇׇׇָהֳרָֽיִם:
+[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -16642,14 +16669,14 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [249]
 Underfull \hbox (badness 2035) in paragraph at lines 6712--6714
- [][]\TU/Shlomo(1)/bx/n/12 וְעַל כֻּלָּם \TU/Shlomo(1)/bx/n/10.95 יִתְבָּרַךְ וְיִ
-תְרוֹמַם שִׁמְךָ מַלְכֵּֽנוּ תָּמִיד לְעוֹלָם וָעֶד:[] 
+ [][]\TU/Shlomo(1)/bx/n/12 וְעַל כֻּלָּם \TU/Shlomo(1)/bx/n/10.95 יִתְבָּרַךְ וְֿי
+ִתְרוֹמַם שִׁמְךָ מַלְכֵּֽנוּ תָּמִיד לְֿעוֹלָם וָעֶד:[] 
  []
 
 
 Underfull \hbox (badness 1337) in paragraph at lines 6712--6714
- []\TU/Shlomo(1)/bx/n/10.95 וְכׇל־הַחַיִּים יוֹדֽוּךָ סֶּֽלָה וִיהַלֲלוּ אֶת־שִׁמְךָ 
-בֶּאֱמֶת הָאֵל יְשׁוּעָתֵֽנוּ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿכׇל־הַחַיִּים יוֹדֽוּךָ סֶּֽלָה וִיהַלֲלוּ אֶת־שִׁמְךָ
+ בֶּאֱמֶת הָאֵל יְֿשׁוּעָתֵֽנוּ[] 
  []
 
 
@@ -16670,7 +16697,7 @@ Underfull \hbox (badness 2401) in paragraph at lines 6716--6716
 
 
 Underfull \hbox (badness 1817) in paragraph at lines 6716--6716
- []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
+ []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּֿע֨וֹן קׇדְשְׁךָ֜[] 
  []
 
 
@@ -16753,22 +16780,22 @@ Underfull \hbox (badness 5711) in paragraph at lines 6758--6758
 
 
 Underfull \hbox (badness 2119) in paragraph at lines 6758--6758
- []\TU/Shlomo(1)/bx/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
+ []\TU/Shlomo(1)/bx/n/10 בְּֿרֵאשִׁית: בְּֿרָכוֹת וְֿהוֹדָאוֹת[] 
  []
 
 
 Underfull \hbox (badness 3291) in paragraph at lines 6758--6758
- []\TU/Shlomo(1)/bx/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿשִׁמְךָ הַגָּדוֹל וְֿהַקָּדוֹשׁ עַל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6758--6758
- []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
+ []\TU/Shlomo(1)/bx/n/10 וּתְקַיְּֿמֵֽנוּ וְֿתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6758--6758
- []\TU/Shlomo(1)/bx/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿלַעֲשׂוֹת רְֿצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
@@ -16779,24 +16806,25 @@ Underfull \hbox (badness 1571) in paragraph at lines 6758--6758
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6758--6758
- []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְעַל נִפְלְֿאוֹתֶֽיךָ וְטוֹבוֹתֶֽיךָ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עִמָּֽנוּ וְֿעַל נִפְלְֿאוֹתֶֽיךָ וְֿטוֹבוֹתֶֽיךָ[] 
  []
 
 
 Underfull \hbox (badness 7203) in paragraph at lines 6758--6758
- []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
+ []\TU/Shlomo(1)/bx/n/10.95 שֶׁבְּֿכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְֿצׇׇׇׇׇׇׇׇָהֳרָֽיִם:
+[] 
  []
 
 
 Underfull \hbox (badness 2035) in paragraph at lines 6760--6762
- [][]\TU/Shlomo(1)/bx/n/12 וְעַל כֻּלָּם \TU/Shlomo(1)/bx/n/10.95 יִתְבָּרַךְ וְיִ
-תְרוֹמַם שִׁמְךָ מַלְכֵּֽנוּ תָּמִיד לְעוֹלָם וָעֶד:[] 
+ [][]\TU/Shlomo(1)/bx/n/12 וְעַל כֻּלָּם \TU/Shlomo(1)/bx/n/10.95 יִתְבָּרַךְ וְֿי
+ִתְרוֹמַם שִׁמְךָ מַלְכֵּֽנוּ תָּמִיד לְֿעוֹלָם וָעֶד:[] 
  []
 
 
 Underfull \hbox (badness 1337) in paragraph at lines 6760--6762
- []\TU/Shlomo(1)/bx/n/10.95 וְכׇל־הַחַיִּים יוֹדֽוּךָ סֶּֽלָה וִיהַלֲלוּ אֶת־שִׁמְךָ 
-בֶּאֱמֶת הָאֵל יְשׁוּעָתֵֽנוּ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 וְֿכׇל־הַחַיִּים יוֹדֽוּךָ סֶּֽלָה וִיהַלֲלוּ אֶת־שִׁמְךָ
+ בֶּאֱמֶת הָאֵל יְֿשׁוּעָתֵֽנוּ[] 
  []
 
 
@@ -16879,7 +16907,7 @@ Underfull \hbox (badness 2401) in paragraph at lines 6860--6862
 
 
 Underfull \hbox (badness 1817) in paragraph at lines 6860--6862
- []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
+ []\TU/Shlomo(1)/bx/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּֿע֨וֹן קׇדְשְׁךָ֜[] 
  []
 
 
@@ -16934,8 +16962,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
 
 ]
 Underfull \hbox (badness 1527) in paragraph at lines 6951--6953
-[][]|\TU/Shlomo(1)/bx/n/10.95 יַעֲסִיס צוּף הָרִים: טְעֵם בִּמְאׂדֶֽךָ מֻבְחָרִ
-ים:[]
+[][]|\TU/Shlomo(1)/bx/n/10.95 יַעֲסִיס צוּף הָרִים: טְֿעֵם בִּמְאׂדֶֽךָ מֻבְחָר
+ִים:[]
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -17562,7 +17590,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
 
 Underfull \hbox (badness 2635) in paragraph at lines 7646--7650
  []\TU/Shlomo(1)/bx/n/12 יִזְכּוֹר אֱלֹהִים \TU/Shlomo(1)/bx/n/10.95 נִשְׁמוׂת 
-הַקְּֿדוׂשִׁים וְהַטְּֿהוׂרִים שֶׁהוּמָתוּ וְשֶנֶּהֶרְגוּ[] 
+הַקְּֿדוׂשִׁים וְֿהַטְּֿהוׂרִים שֶׁהוּמָתוּ וְֿשֶנֶּהֶרְגוּ[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -17613,14 +17641,14 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 3471) in paragraph at lines 7700--7701
- [][]\TU/Shlomo(1)/bx/n/10.95 אַתָּה יוֹדֵֽעַ רָזֵי עוֹלָם וְתַעֲלוּמוֹת סִתְרֵי כׇּל
-־חָי: אַתָּה חֹ֝פֵ֗שׂ[] 
+ [][]\TU/Shlomo(1)/bx/n/10.95 אַתָּה יוֹדֵֽעַ רָזֵי עוֹלָם וְֿתַעֲלוּמוֹת סִתְרֵי כׇּ
+ל־חָי: אַתָּה חֹ֝פֵ֗שׂ[] 
  []
 
 
 Underfull \hbox (badness 1668) in paragraph at lines 7700--7701
- []\TU/Shlomo(1)/bx/n/10.95 כׇּל־חַדְרֵי־בָֽטֶן: וּבֹּחֵ֥ן כְּלָי֖וֹת וָלֵ֑ב אֵין דָּ
-בָר נֶעֱלָּם מִמֶּֽךָּ וְאֵין[] 
+ []\TU/Shlomo(1)/bx/n/10.95 כׇּל־חַדְרֵי־בָֽטֶן: וּבֹּחֵ֥ן כְּֿלָי֖וֹת וָלֵ֑ב אֵין דּ
+ָבָר נֶעֱלָּם מִמֶּֽךָּ וְֿאֵין[] 
  []
 
 
@@ -17668,8 +17696,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
  [280]
 Underfull \hbox (badness 1132) in paragraph at lines 7755--7757
- [][]\TU/Shlomo(1)/bx/n/10.95 כִּי אַתָּה סָלְחָן לְיִשְׂרָאֵל וּמָחֳלָן לְשִׁבְטֵי 
-יְשֻׁרוּן בְּכׇל־דּוֹר וָדוֹר[] 
+ [][]\TU/Shlomo(1)/bx/n/10.95 כִּי אַתָּה סָלְֿחָן לְֿיִשְׂרָאֵל וּמׇׇׇׇָחֳלָן לְֿשׁ
+ִבְטֵי יְֿשֻׁרוּן בְּֿכׇל־דּוֹר וָדוֹר[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -17908,49 +17936,49 @@ LaTeX Warning: Marginpar on page 289 moved.
 
 
 Underfull \hbox (badness 2865) in paragraph at lines 7987--7990
- []\TU/Shlomo(1)/bx/n/10.95 בְּ֝זָכְרֵ֗נוּ אֶת־צִיּֽוֹן׃ עַֽל־עֲרָבִ֥ים בְּתוֹכ
-ָ֑הּ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 בְּֿ֝זָכְֿרֵ֗נוּ אֶת־צִיּֽוֹן׃ עַֽל־עֲרָבִ֥ים בְּֿת
+וֹכָ֑הּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 7987--7990
- []\TU/Shlomo(1)/bx/n/10.95 יְמִינִֽי׃ תִּדְבַּ֥ק־לְשׁוֹנִ֨י לְחִכִּי֮ אִם־לֹ֪א
-[] 
+ []\TU/Shlomo(1)/bx/n/10.95 יְֿמִינִֽי׃ תִּדְבַּ֥ק־לְשׁוֹנִ֨י לְֿחִכִּי֮ אִם־לֹ
+֪א[] 
  []
 
 
 Underfull \hbox (badness 6032) in paragraph at lines 7987--7990
- []\TU/Shlomo(1)/bx/n/10.95 אֶ֫זְכְּֿרֵ֥כִי אִם־לֹ֣א אַ֭עֲלֶה אֶת־יְרוּשָׁלִַ֑ם
-[] 
+ []\TU/Shlomo(1)/bx/n/10.95 אֶ֫זְכְּֿרֵ֥כִי אִם־לֹ֣א אַ֭עֲלֶה אֶת־יְֿרוּשָׁלִַ֑
+ם[] 
  []
 
 
 Underfull \hbox (badness 4913) in paragraph at lines 7987--7990
- []\TU/Shlomo(1)/bx/n/10.95 עַ֝֗ד הַיְס֥וֹד בָּֽהּ׃ בַּת־בָּבֶ֗ל הַשְּׁד֫וּדָ֥ה
-[] 
+ []\TU/Shlomo(1)/bx/n/10.95 עַ֝֗ד הַיְֿס֥וֹד בָּֽהּ׃ בַּת־בָּבֶ֗ל הַשְּׁד֫וּדָ֥
+ה[] 
  []
 
 
 Underfull \hbox (badness 1515) in paragraph at lines 7987--7990
- []\TU/Shlomo(1)/bx/n/10.95 אַשְׁרֵ֥י שֶׁיְשַׁלֶּם־לָ֑ךְ אֶת־גְּ֝מוּלֵ֗ךְ שֶׁגּ
-ָמַ֥לְתְּ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 אַשְׁרֵ֥י שֶׁיְֿשַׁלֶּם־לָ֑ךְ אֶת־גְּֿ֝מוּלֵ֗ךְ שֶׁ
+גָּמַ֥לְתְּ[] 
  []
 
 
 Underfull \hbox (badness 3872) in paragraph at lines 7987--7990
- []\TU/Shlomo(1)/bx/n/10.95 לָֽנוּ׃ אַשְׁרֵ֤י שֶׁיֹּאחֵ֓ז וְנִפֵּ֬ץ אֶֽת־עֹ֝לָל
-ַ֗יִךְ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 לָֽנוּ׃ אַשְׁרֵ֤י שֶׁיֹּאחֵ֓ז וְֿנִפֵּ֬ץ אֶֽת־עֹ֝לָ
+לַ֗יִךְ[] 
  []
 
 
 Underfull \hbox (badness 2865) in paragraph at lines 7992--7995
- []\TU/Shlomo(1)/bx/n/12 שִׁ֗יר הַֽמַּֽ֫עֲל֥וֹת \TU/Shlomo(1)/bx/n/10.95 בְּשׁ֣וּב[] 
-
+ []\TU/Shlomo(1)/bx/n/12 שִׁ֗יר הַֽמַּֽ֫עֲל֥וֹת \TU/Shlomo(1)/bx/n/10.95 בְּֿשׁ֣וּב[]
+ 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 7992--7995
- []\TU/Shlomo(1)/bx/n/10.95 כְּחֹלְֿמִֽים׃ אָ֤ז יִמָּלֵ֢א[] 
+ []\TU/Shlomo(1)/bx/n/10.95 כְּֿחֹלְֿמִֽים׃ אָ֤ז יִמָּלֵ֢א[] 
  []
 
 
@@ -17965,7 +17993,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7992--7995
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 7992--7995
- []\TU/Shlomo(1)/bx/n/10.95 בְּרִנָּ֥ה יִקְצֹֽרוּ׃ הָ֘ל֤וֹךְ[] 
+ []\TU/Shlomo(1)/bx/n/10.95 בְּֿרִנָּ֥ה יִקְצֹֽרוּ׃ הָ֘ל֤וֹךְ[] 
  []
 
 
@@ -18009,38 +18037,41 @@ Underfull \hbox (badness 1817) in paragraph at lines 8029--8029
 
 
 Underfull \hbox (badness 1005) in paragraph at lines 8029--8029
- []\TU/Shlomo(1)/bx/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
+ []\TU/Shlomo(1)/bx/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּֿשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
+
  []
 
 
 Underfull \hbox (badness 2343) in paragraph at lines 8029--8029
- []\TU/Shlomo(1)/bx/n/10 הָרַבִּים עָמַֽדְתָּ לָהֶם בְּעֵת צָרָתָם רַֽבְתָּ[] 
+ []\TU/Shlomo(1)/bx/n/10 הָרַבִּים עָמַֽדְתָּ לָהֶם בְּֿעֵת צָרָתָם רַֽבְתָּ[] 
  []
 
 
 Underfull \hbox (badness 1107) in paragraph at lines 8029--8029
- []\TU/Shlomo(1)/bx/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד[] 
+ []\TU/Shlomo(1)/bx/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּֿיַד חַלָּשִׁים וְֿרַבִּים בְּֿיַד[] 
+
  []
 
 
 Underfull \hbox (badness 1320) in paragraph at lines 8029--8029
- []\TU/Shlomo(1)/bx/n/10 אֶת־הֵיכָלֶֽךָ וְטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְהִדְלִֽיקוּ[]
- 
+ []\TU/Shlomo(1)/bx/n/10 אֶת־הֵיכָלֶֽךָ וְֿטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְֿהִדְלִֽיקוּ
+[] 
  []
 
 
 Underfull \hbox (badness 4096) in paragraph at lines 8029--8029
- [][]\TU/FreeSans(0)/m/n/8 בפורים:  \TU/Shlomo(1)/bx/n/10 בִּימֵי מָרְדֳּכַי[] 
+ [][]\TU/FreeSans(0)/m/n/8 בפורים:  \TU/Shlomo(1)/bx/n/10 בִּימֵי מׇׇׇׇׇׇָרְֿדֳּכ
+ַי[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8029--8029
- []\TU/Shlomo(1)/bx/n/10 וְִאֶסְתֵּר בְּשׁוּשַׁן הַבִּירָה[] 
+ []\TU/Shlomo(1)/bx/n/10 וְִֿאֶסְתֵּר בְּֿשׁוּשַׁן הַבִּירָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8029--8029
- []\TU/Shlomo(1)/bx/n/10 כְּשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
+ []\TU/Shlomo(1)/bx/n/10 כְּֿשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
  []
 
 
@@ -18050,7 +18081,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8029--8029
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8029--8029
- []\TU/Shlomo(1)/bx/n/10 לְהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
+ []\TU/Shlomo(1)/bx/n/10 לְֿהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
  []
 
 
@@ -18060,12 +18091,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 8029--8029
 
 
 Underfull \hbox (badness 1077) in paragraph at lines 8029--8029
- []\TU/Shlomo(1)/bx/n/10 וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿעַד־זָקֵ֨ן טַ֤ף וְֿנָשִׁים֙ בְּֿי֣וֹם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8029--8029
- []\TU/Shlomo(1)/bx/n/10 שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
+ []\TU/Shlomo(1)/bx/n/10 שְֿׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
  []
 
 
@@ -18075,7 +18106,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8029--8029
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8029--8029
- []\TU/Shlomo(1)/bx/n/10 וְאַתָּה בְּרַחֲמֶֽיךָ הָרַבִּים[] 
+ []\TU/Shlomo(1)/bx/n/10 וְֿאַתָּה בְּֿרַחֲמֶֽיךָ הָרַבִּים[] 
  []
 
 
@@ -18144,14 +18175,14 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
  [293]
 Underfull \hbox (badness 1571) in paragraph at lines 8162--8163
-[][]|\TU/Shlomo(1)/bx/n/10.95 הָרַחֲמָן הוּא יְחַדֵּשׁ עָלֵֽינוּ אֶת־הַחֹֽדֶשׁ הַזֶּה
- לְטוֹבָה[]
+[][]|\TU/Shlomo(1)/bx/n/10.95 הָרַחֲמָן הוּא יְֿחַדֵּשׁ עָלֵֽינוּ אֶת־הַחֹֽדֶשׁ הַזֶּ
+ה לְֿטוֹבָה[]
  []
 
 
 Underfull \hbox (badness 1147) in paragraph at lines 8168--8169
-[][]|\TU/Shlomo(1)/bx/n/10.95 הָרַחֲמָן הוּא יְחַדֵּשׁ עָלֵֽינוּ אֶת־הַשָּׁנָה הַזֹּאת
- לְטוֹבָה[]
+[][]|\TU/Shlomo(1)/bx/n/10.95 הָרַחֲמָן הוּא יְֿחַדֵּשׁ עָלֵֽינוּ אֶת־הַשָּׁנָה הַזֹּא
+ת לְֿטוֹבָה[]
  []
 
 
@@ -18239,7 +18270,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
 
 Underfull \hbox (badness 1997) in paragraph at lines 8178--8183
  []\TU/Shlomo(1)/bx/n/10.95 עַד־עוֹלָֽם׃ עֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו הוּא יַעֲשֶׂה שָׁלוֹ
-ם עָלֵֽינוּ וְעַל[] 
+ם עָלֵֽינוּ וְֿעַל[] 
  []
 
 
@@ -18327,8 +18358,8 @@ Requested font "Shlomo/OT" at 10.94997pt
 Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
-Underfull \hbox (badness 6445) in paragraph at lines 8326--8331
- []\TU/Shlomo(1)/bx/n/9 וַֽיְהִי־אֽוֹר׃ וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר[] 
+Underfull \hbox (badness 6910) in paragraph at lines 8326--8331
+ []\TU/Shlomo(1)/bx/n/9 וַֽיְֿהִי־אֽוֹר׃ וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר[] 
  []
 
 
@@ -18337,8 +18368,8 @@ Underfull \hbox (badness 5147) in paragraph at lines 8326--8331
  []
 
 
-Underfull \hbox (badness 7814) in paragraph at lines 8326--8331
- []\TU/Shlomo(1)/bx/n/9 כִּי־טֽוֹב׃ וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם[] 
+Underfull \hbox (badness 8094) in paragraph at lines 8326--8331
+ []\TU/Shlomo(1)/bx/n/9 עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּֿרִ֞י עֹ֤שֶׂה[] 
  []
 
 
@@ -18348,27 +18379,27 @@ Underfull \hbox (badness 7963) in paragraph at lines 8332--8334
 
 
 Underfull \hbox (badness 6493) in paragraph at lines 8332--8334
- []\TU/Shlomo(1)/bx/n/9 אֶת־הַמַּבּ֥וּל מַ֨יִם֙ עַל־הָאָ֔רֶץ לְשַׁחֵ֣ת[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־הַמַּבּ֥וּל מַ֨יִם֙ עַל־הָאָ֔רֶץ לְֿשַׁחֵ֣ת[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8332--8334
- []\TU/Shlomo(1)/bx/n/9 אֶת־בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל־הַתֵּ֔בָה[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־בְּֿרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל־הַתֵּ֔בָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8332--8334
- []\TU/Shlomo(1)/bx/n/9 וּמִכׇּל־הָ֠חַ֠י מִֽכׇּל־בָּשָׂ֞ר שְׁנַ֧יִם מִכֹּ֛ל[] 
+ []\TU/Shlomo(1)/bx/n/9 וּמִכׇּל־הָ֠חַ֠י מִֽכׇּל־בָּשָׂ֞ר שְֿׁנַ֧יִם מִכֹּ֛ל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8335--8338
- []\TU/Shlomo(1)/bx/n/9 שָׁנָ֔ה בְּצֵאת֖וֹ מֵֽחָרָֽן׃ וַיִּקַּ֣ח אַבְרָם֩[] 
+ []\TU/Shlomo(1)/bx/n/9 שָׁנָ֔ה בְּֿצֵאת֖וֹ מֵֽחָרָֽן׃ וַיִּקַּ֣ח אַבְרָם֩[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8335--8338
- []\TU/Shlomo(1)/bx/n/9 אֶת־שָׂרַ֨י אִשְׁתּ֜וֹ וְאֶת־ל֣וֹט בֶּן־אָחִ֗יו[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־שָׂרַ֨י אִשְׁתּ֜וֹ וְֿאֶת־ל֣וֹט בֶּן־אָחִ֗יו[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18384,7 +18415,7 @@ Underfull \hbox (badness 5359) in paragraph at lines 8339--8345
 
 
 Underfull \hbox (badness 6842) in paragraph at lines 8339--8345
- []\TU/Shlomo(1)/bx/n/9 אִם־נָ֨א מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ אַל־נָ֥א[] 
+ []\TU/Shlomo(1)/bx/n/9 אִם־נָ֨א מָצָ֤אתִי חֵן֙ בְּֿעֵינֶ֔יךָ אַל־נָ֥א[] 
  []
 
 
@@ -18395,17 +18426,17 @@ Underfull \hbox (badness 6542) in paragraph at lines 8339--8345
 
 
 Underfull \hbox (badness 6332) in paragraph at lines 8339--8345
- []\TU/Shlomo(1)/bx/n/9 ל֖וּשִׁי וַֽעֲשִׂ֥י עֻגֽוֹת׃ וְאֶל־הַבָּקָ֖ר רָ֣ץ[] 
+ []\TU/Shlomo(1)/bx/n/9 ל֖וּשִׁי וַֽעֲשִׂ֥י עֻגֽוֹת׃ וְֿאֶל־הַבָּקָ֖ר רָ֣ץ[] 
  []
 
 
 Underfull \hbox (badness 6284) in paragraph at lines 8346--8348
- []\TU/Shlomo(1)/bx/n/9 קְבָרֵ֔ינוּ קְבֹ֖ר אֶת־מֵתֶ֑ךָ אִ֣ישׁ מִמֶּ֔נּוּ[] 
+ []\TU/Shlomo(1)/bx/n/9 קְֿבָרֵ֔ינוּ קְֿבֹ֖ר אֶת־מֵתֶ֑ךָ אִ֣ישׁ מִמֶּ֔נּוּ[] 
  []
 
 
 Underfull \hbox (badness 5985) in paragraph at lines 8346--8348
- []\TU/Shlomo(1)/bx/n/9 וַיָּ֧קָם אַבְרָהָ֛ם וַיִּשְׁתַּ֥חוּ לְעַם־הָאָ֖רֶץ[] 
+ []\TU/Shlomo(1)/bx/n/9 וַיָּ֧קָם אַבְרָהָ֛ם וַיִּשְׁתַּ֥חוּ לְֿעַם־הָאָ֖רֶץ[] 
  []
 
 
@@ -18415,7 +18446,7 @@ Underfull \hbox (badness 5622) in paragraph at lines 8346--8348
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8346--8348
- []\TU/Shlomo(1)/bx/n/9 מִלְּפָנַ֔י שְׁמָע֕וּנִי וּפִגְעוּ־לִ֖י בְּעֶפְר֥וֹן[] 
+ []\TU/Shlomo(1)/bx/n/9 מִלְּֿפָנַ֔י שְֿׁמָע֕וּנִי וּפִגְעוּ־לִ֖י בְּֿעֶפְר֥וֹן[] 
  []
 
 
@@ -18433,12 +18464,12 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [299]
 Underfull \hbox (badness 10000) in paragraph at lines 8349--8352
- []\TU/Shlomo(1)/bx/n/9 וְאֵ֛לֶּה תּֽוֹלְדֹ֥ת יִצְחָ֖ק בֶּן־אַבְרָהָ֑ם[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֵ֛לֶּה תּֽוֹלְֿדֹ֥ת יִצְחָ֖ק בֶּן־אַבְרָהָ֑ם[] 
  []
 
 
 Underfull \hbox (badness 6380) in paragraph at lines 8349--8352
- []\TU/Shlomo(1)/bx/n/9 מִלְּבַד֙ הָֽרָעָ֣ב הָֽרִאשׁ֔וֹן אֲשֶׁ֥ר הָיָ֖ה[] 
+ []\TU/Shlomo(1)/bx/n/9 מִלְּֿבַד֙ הָֽרָעָ֣ב הָֽרִאשׁ֔וֹן אֲשֶׁ֥ר הָיָ֖ה[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18452,12 +18483,13 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
 [300]
 Underfull \hbox (badness 6396) in paragraph at lines 8353--8355
  []\TU/Shlomo(1)/bx/n/9 בּֽוֹ׃  \TU/FreeSans(0)/m/n/8 (\TU/FreeSans(0)/bx/n/8 לוי
-\TU/FreeSans(0)/m/n/8 )  \TU/Shlomo(1)/bx/n/9 וְהִנֵּ֨ה יְיָ֜ נִצָּ֣ב עָלָיו֘[] 
+\TU/FreeSans(0)/m/n/8 )  \TU/Shlomo(1)/bx/n/9 וְֿהִנֵּ֨ה יְיָ֜ נִצָּ֣ב עָלָיו֘[] 
+
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8356--8358
- []\TU/Shlomo(1)/bx/n/9 אֹתָם֙ לֵאמֹ֔ר כֹּ֣ה תֹֽאמְר֔וּן לַֽאדֹנִ֖י[] 
+ []\TU/Shlomo(1)/bx/n/9 אֹתָם֙ לֵאמֹ֔ר כֹּ֣ה תֹֽאמְֿר֔וּן לַֽאדֹנִ֖י[] 
  []
 
 
@@ -18467,12 +18499,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 8356--8358
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8356--8358
- []\TU/Shlomo(1)/bx/n/9 אֲשֶׁר־אִתּ֗וֹ וְאֶת־הַצֹּ֧אן וְאֶת־הַבָּקָ֛ר[] 
+ []\TU/Shlomo(1)/bx/n/9 אֲשֶׁר־אִתּ֗וֹ וְֿאֶת־הַצֹּ֧אן וְֿאֶת־הַבָּקָ֛ר[] 
  []
 
 
 Underfull \hbox (badness 7030) in paragraph at lines 8356--8358
- []\TU/Shlomo(1)/bx/n/9 וּלְמֽוֹלַדְתְּךָ֖ וְאֵיטִ֥יבָה עִמָּֽךְ׃ קָטֹ֝נְתִּי[] 
+ []\TU/Shlomo(1)/bx/n/9 וּלְמֽוֹלַדְתְּךָ֖ וְֿאֵיטִ֥יבָה עִמָּֽךְ׃ קָטֹ֝נְֿתִּי[] 
  []
 
 
@@ -18490,12 +18522,12 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [301]
 Underfull \hbox (badness 10000) in paragraph at lines 8360--8362
- []\TU/Shlomo(1)/bx/n/9 וַיֵּ֣שֶׁב יַֽעֲקֹ֔ב בְּאֶ֖רֶץ מְגוּרֵ֣י אָבִ֑יו[] 
+ []\TU/Shlomo(1)/bx/n/9 וַיֵּ֣שֶׁב יַֽעֲקֹ֔ב בְּֿאֶ֖רֶץ מְֿגוּרֵ֣י אָבִ֑יו[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8360--8362
- []\TU/Shlomo(1)/bx/n/9 בְּאֶ֖רֶץ כְּנָֽעַן׃ אֵ֣לֶּה תֹּֽלְד֣וֹת יַֽעֲקֹ֗ב[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿאֶ֖רֶץ כְּֿנָֽעַן׃ אֵ֣לֶּה תֹּֽלְֿד֣וֹת יַֽעֲקֹ֗ב[] 
  []
 
 
@@ -18505,32 +18537,32 @@ Underfull \hbox (badness 6978) in paragraph at lines 8360--8362
 
 
 Underfull \hbox (badness 5652) in paragraph at lines 8360--8362
- []\TU/Shlomo(1)/bx/n/9 אֶל־אָבִיו֘ וְאֶל־אֶחָיו֒ וַיִּגְעַר־בּ֣וֹ אָבִ֔יו[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶל־אָבִיו֘ וְֿאֶל־אֶחָיו֒ וַיִּגְעַר־בּ֣וֹ אָבִ֔יו[] 
  []
 
 
 Underfull \hbox (badness 6876) in paragraph at lines 8363--8365
- []\TU/Shlomo(1)/bx/n/9 הַפָּר֖וֹת עַל־שְׂפַ֥ת הַיְאֹֽר׃ וַתֹּאכַ֣לְנָה[] 
+ []\TU/Shlomo(1)/bx/n/9 הַפָּר֖וֹת עַל־שְׂפַ֥ת הַיְֿאֹֽר׃ וַתֹּאכַ֣לְנָה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8363--8365
- []\TU/Shlomo(1)/bx/n/9 שֵׁנִ֑ית וְהִנֵּ֣ה שֶׁ֣בַע שִׁבֳּלִ֗ים עֹל֛וֹת[] 
+ []\TU/Shlomo(1)/bx/n/9 שֵׁנִ֑ית וְֿהִנֵּ֣ה שֶׁ֣בַע שִׁבֳּלִ֗ים עֹל֛וֹת[] 
  []
 
 
 Underfull \hbox (badness 5652) in paragraph at lines 8363--8365
- []\TU/Shlomo(1)/bx/n/9 וַיִּקְרָ֣א אֶת־יוֹסֵ֔ף וַיְרִיצֻ֖הוּ מִן־הַבּ֑וֹר[] 
+ []\TU/Shlomo(1)/bx/n/9 וַיִּקְרָ֣א אֶת־יוֹסֵ֔ף וַיְֿרִיצֻ֖הוּ מִן־הַבּ֑וֹר[] 
  []
 
 
 Underfull \hbox (badness 7168) in paragraph at lines 8366--8368
- []\TU/Shlomo(1)/bx/n/9 וְאַל־יִ֥חַר אַפְּךָ֖ בְּעַבְדֶּ֑ךָ כִּ֥י כָמ֖וֹךָ[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאַל־יִ֥חַר אַפְּֿךָ֖ בְּֿעַבְדֶּ֑ךָ כִּ֥י כָמ֖וֹךָ[] 
  []
 
 
 Underfull \hbox (badness 6825) in paragraph at lines 8366--8368
- []\TU/Shlomo(1)/bx/n/9 הֽוֹרִדֻ֖הוּ אֵלָ֑י וְאָשִׂ֥ימָה עֵינִ֖י עָלָֽיו׃[] 
+ []\TU/Shlomo(1)/bx/n/9 הֽוֹרִדֻ֖הוּ אֵלָ֑י וְֿאָשִׂ֥ימָה עֵינִ֖י עָלָֽיו׃[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18543,7 +18575,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [302]
 Underfull \hbox (badness 10000) in paragraph at lines 8369--8373
- []\TU/Shlomo(1)/bx/n/9 בָנָיו֙ עִמּ֔וֹ אֶת־מְנַשֶּׁ֖ה וְאֶת־אֶפְרָֽיִם׃[] 
+ []\TU/Shlomo(1)/bx/n/9 בָנָיו֙ עִמּ֔וֹ אֶת־מְנַשֶּׁ֖ה וְֿאֶת־אֶפְרָֽיִם׃[] 
  []
 
 
@@ -18558,27 +18590,27 @@ Underfull \hbox (badness 6893) in paragraph at lines 8369--8373
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8374--8378
- []\TU/Shlomo(1)/bx/n/9 וְאֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל הַבָּאִ֖ים[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֵ֗לֶּה שְֿׁמוֹת֙ בְּֿנֵ֣י יִשְׂרָאֵ֔ל הַבָּאִ֖ים[] 
  []
 
 
 Underfull \hbox (badness 5681) in paragraph at lines 8374--8378
- []\TU/Shlomo(1)/bx/n/9 וְכׇל־אֶחָ֔יו וְכֹ֖ל הַדּ֥וֹר הַהֽוּא׃ וּבְנֵ֣י[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿכׇל־אֶחָ֔יו וְֿכֹ֖ל הַדּ֥וֹר הַהֽוּא׃ וּבְנֵ֣י[] 
  []
 
 
 Underfull \hbox (badness 6725) in paragraph at lines 8374--8378
- []\TU/Shlomo(1)/bx/n/9 הִנֵּ֗ה עַ֚ם בְּנֵ֣י יִשְׂרָאֵ֔ל רַ֥ב וְעָצ֖וּם[] 
+ []\TU/Shlomo(1)/bx/n/9 הִנֵּ֗ה עַ֚ם בְּֿנֵ֣י יִשְׂרָאֵ֔ל רַ֥ב וְֿעָצ֖וּם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8374--8378
- []\TU/Shlomo(1)/bx/n/9 וְהָיָ֞ה כִּֽי־תִקְרֶ֤אנָה מִלְחָמָה֙ וְנוֹסַ֤ף[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿהָיָ֞ה כִּֽי־תִקְרֶ֤אנָה מִלְחָמָה֙ וְֿנוֹסַ֤ף[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8374--8378
- []\TU/Shlomo(1)/bx/n/9 אֶת־חַיֵּיהֶ֜ם בַּֽעֲבֹדָ֣ה קָשָׁ֗ה בְּחֹ֨מֶר֙[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־חַיֵּיהֶ֜ם בַּֽעֲבֹדָ֣ה קָשָׁ֗ה בְּֿחֹ֨מֶר֙[] 
  []
 
 
@@ -18588,12 +18620,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 8374--8378
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8374--8378
- []\TU/Shlomo(1)/bx/n/9 אֹת֔וֹ וְאִם־בַּ֥ת הִ֖וא וָחָֽיָה׃ וַתִּירֶ֤אןָ[] 
+ []\TU/Shlomo(1)/bx/n/9 אֹת֔וֹ וְֿאִם־בַּ֥ת הִ֖וא וָחָֽיָה׃ וַתִּירֶ֤אןָ[] 
  []
 
 
 Underfull \hbox (badness 6001) in paragraph at lines 8374--8378
- []\TU/Shlomo(1)/bx/n/9 דִּבֶּ֥ר אֲלֵיהֶ֖ן מֶ֣לֶךְ מִצְרָ֑יִם וַתְּחַיֶּ֖יןָ[] 
+ []\TU/Shlomo(1)/bx/n/9 דִּבֶּ֥ר אֲלֵיהֶ֖ן מֶ֣לֶךְ מִצְרָ֑יִם וַתְּֿחַיֶּ֖יןָ[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18611,17 +18643,18 @@ Underfull \hbox (badness 5133) in paragraph at lines 8379--8384
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8379--8384
- []\TU/Shlomo(1)/bx/n/9 וְאֶֽל־אַֽהֲרֹן֒ וַיְצַוֵּם֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶֽל־אַֽהֲרֹן֒ וַיְֿצַוֵּם֙ אֶל־בְּֿנֵ֣י יִשְׂרָאֵ֔ל[] 
+
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8379--8384
- []\TU/Shlomo(1)/bx/n/9 וְאֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם לְהוֹצִ֥יא[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם לְֿהוֹצִ֥יא[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8385--8387
- []\TU/Shlomo(1)/bx/n/9 כִּֽי־אֲנִ֞י הִכְבַּ֤דְתִּי אֶת־לִבּוֹ֙ וְאֶת־לֵ֣ב[] 
+ []\TU/Shlomo(1)/bx/n/9 כִּֽי־אֲנִ֞י הִכְבַּ֤דְתִּי אֶת־לִבּוֹ֙ וְֿאֶת־לֵ֣ב[] 
  []
 
 
@@ -18644,27 +18677,28 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [304]
 Underfull \hbox (badness 10000) in paragraph at lines 8389--8398
- []\TU/Shlomo(1)/bx/n/9 בִּרְאֹתָ֥ם מִלְחָמָ֖ה וְשָׁ֥בוּ מִצְרָֽיְמָה׃[] 
+ []\TU/Shlomo(1)/bx/n/9 בִּרְאֹתָ֥ם מִלְחָמָ֖ה וְֿשָׁ֥בוּ מִצְרָֽיְֿמָה׃[] 
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 8389--8398
+ []\TU/Shlomo(1)/bx/n/9 לֵאמֹ֔ר פָּקֹ֨ד יִפְקֹ֤ד אֱלֹהִים֙ אֶתְכֶ֔ם[] 
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 8389--8398
+ []\TU/Shlomo(1)/bx/n/9 דַּבֵּר֘ אֶל־בְּֿנֵ֣י יִשְׂרָאֵל֒ וְֿיָשֻׁ֗בוּ וְֿיַֽחֲנוּ֙[] 
+
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 8389--8398
+ []\TU/Shlomo(1)/bx/n/9 בְּֿפַרְעֹה֙ וּבְכׇל־חֵיל֔וֹ וְֿיָֽדְֿע֥וּ מִצְרַ֖יִם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8389--8398
- []\TU/Shlomo(1)/bx/n/9 יַם־ס֑וּף וַֽחֲמֻשִׁ֛ים עָל֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8389--8398
- []\TU/Shlomo(1)/bx/n/9 אֶתְכֶ֔ם וְהַֽעֲלִיתֶ֧ם אֶת־עַצְמֹתַ֛י מִזֶּ֖ה[] 
- []
-
-
-Underfull \hbox (badness 6825) in paragraph at lines 8389--8398
- []\TU/Shlomo(1)/bx/n/9 בְּפַרְעֹה֙ וּבְכׇל־חֵיל֔וֹ וְיָֽדְע֥וּ מִצְרַ֖יִם[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8389--8398
- []\TU/Shlomo(1)/bx/n/9 וַיֹּֽאמְרוּ֙ מַה־זֹּ֣את עָשִׂ֔ינוּ כִּֽי־שִׁלַּ֥חְנוּ[] 
+ []\TU/Shlomo(1)/bx/n/9 וַיֹּֽאמְֿרוּ֙ מַה־זֹּ֣את עָשִׂ֔ינוּ כִּֽי־שִׁלַּ֥חְנוּ[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18677,17 +18711,17 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [305]
 Underfull \hbox (badness 6910) in paragraph at lines 8402--8404
- []\TU/Shlomo(1)/bx/n/9 וִֽילָדֶ֗יהָ תִּֽהְיֶה֙ לַֽאדֹנֶ֔יהָ וְה֖וּא יֵצֵ֥א[] 
+ []\TU/Shlomo(1)/bx/n/9 וִֽילָדֶ֗יהָ תִּֽהְיֶה֙ לַֽאדֹנֶ֔יהָ וְֿה֖וּא יֵצֵ֥א[] 
  []
 
 
 Underfull \hbox (badness 7326) in paragraph at lines 8402--8404
- []\TU/Shlomo(1)/bx/n/9 חָפְשִֽׁי׃ וְהִגִּישׁ֤וֹ אֲדֹנָיו֙ אֶל־הָ֣אֱלֹהִ֔ים[] 
+ []\TU/Shlomo(1)/bx/n/9 חָפְֿשִֽׁי׃ וְֿהִגִּישׁ֤וֹ אֲדֹנָיו֙ אֶל־הָ֣אֱלֹהִ֔ים[] 
  []
 
 
 Underfull \hbox (badness 6220) in paragraph at lines 8402--8404
- []\TU/Shlomo(1)/bx/n/9 לְאָמָ֑ה לֹ֥א תֵצֵ֖א כְּצֵ֥את הָֽעֲבָדִֽים׃[] 
+ []\TU/Shlomo(1)/bx/n/9 לְֿאָמָ֑ה לֹ֥א תֵצֵ֖א כְּֿצֵ֥את הָֽעֲבָדִֽים׃[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18700,27 +18734,27 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [306]
 Underfull \hbox (badness 5985) in paragraph at lines 8408--8417
- []\TU/Shlomo(1)/bx/n/9 ר֣וּחַ חָכְמָ֑ה וְעָשׂ֞וּ אֶת־בִּגְדֵ֧י אַֽהֲרֹ֛ן[] 
+ []\TU/Shlomo(1)/bx/n/9 ר֣וּחַ חָכְֿמָ֑ה וְֿעָשׂ֞וּ אֶת־בִּגְדֵ֧י אַֽהֲרֹ֛ן[] 
  []
 
 
 Underfull \hbox (badness 5622) in paragraph at lines 8418--8422
- []\TU/Shlomo(1)/bx/n/9 אִ֣ישׁ כֹּ֧פֶר נַפְשׁ֛וֹ לַֽיְיָ֖ בִּפְקֹ֣ד אֹתָ֑ם[] 
+ []\TU/Shlomo(1)/bx/n/9 אִ֣ישׁ כֹּ֧פֶר נַפְשׁ֛וֹ לַֽיְֿיָ֖ בִּפְקֹ֣ד אֹתָ֑ם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8418--8422
- []\TU/Shlomo(1)/bx/n/9 הַכִּפֻּרִ֗ים מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְנָֽתַתָּ֣[] 
+ []\TU/Shlomo(1)/bx/n/9 הַכִּפֻּרִ֗ים מֵאֵת֙ בְּֿנֵ֣י יִשְׂרָאֵ֔ל וְֿנָֽתַתָּ֣[] 
  []
 
 
 Underfull \hbox (badness 7522) in paragraph at lines 8418--8422
- []\TU/Shlomo(1)/bx/n/9 אֹת֔וֹ עַל־עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְהָיָה֩[] 
+ []\TU/Shlomo(1)/bx/n/9 אֹת֔וֹ עַל־עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְֿהָיָה֩[] 
  []
 
 
-Underfull \hbox (badness 5817) in paragraph at lines 8418--8422
- []\TU/Shlomo(1)/bx/n/9 יִרְחֲצוּ־מַ֖יִם וְלֹ֣א יָמֻ֑תוּ א֣וֹ בְגִשְׁתָּ֤ם[] 
+Underfull \hbox (badness 5985) in paragraph at lines 8418--8422
+ []\TU/Shlomo(1)/bx/n/9 יִרְחֲצוּ־מַ֖יִם וְֿלֹ֣א יָמֻ֑תוּ א֣וֹ בְֿגִשְׁתָּ֤ם[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18733,12 +18767,12 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [307]
 Underfull \hbox (badness 5231) in paragraph at lines 8423--8429
- []\TU/Shlomo(1)/bx/n/9 קֹ֛דֶשׁ שַׁבַּ֥ת שַׁבָּת֖וֹן לַֽיְיָ֑ כׇּל־הָֽעֹשֶׂ֥ה[] 
+ []\TU/Shlomo(1)/bx/n/9 קֹ֛דֶשׁ שַׁבַּ֥ת שַׁבָּת֖וֹן לַֽיְֿיָ֑ כׇּל־הָֽעֹשֶׂ֥ה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8423--8429
- []\TU/Shlomo(1)/bx/n/9 בְּכֹ֖ל מֽשְׁבֹֽתֵיכֶ֑ם בְּי֖וֹם הַשַּׁבָּֽת׃ פ[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿכֹ֖ל מֽשְׁבֹֽתֵיכֶ֑ם בְּֿי֖וֹם הַשַּׁבָּֽת׃ פ[] 
  []
 
 
@@ -18749,37 +18783,37 @@ U/Shlomo(1)/bx/n/9 וַיֹּ֣אמֶר מֹשֶׁ֔ה אֶל־כׇּל־עֲדַ֥
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8423--8429
- []\TU/Shlomo(1)/bx/n/9 וְאֶת־מִכְסֵ֑הוּ אֶת־קְרָסָיו֙ וְאֶת־קְרָשָׁ֔יו[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶת־מִכְסֵ֑הוּ אֶת־קְרָסָיו֙ וְֿאֶת־קְרָשָׁ֔יו[] 
  []
 
 
 Underfull \hbox (badness 7221) in paragraph at lines 8423--8429
- []\TU/Shlomo(1)/bx/n/9 אֶת־בְּרִיחָ֕ו [ק’ בְּרִיחָ֕יו] אֶת־עַמֻּדָ֖יו[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־בְּֿרִיחָ֕ו [ק’ בְּֿרִיחָ֕יו] אֶת־עַמֻּדָ֖יו[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8423--8429
- []\TU/Shlomo(1)/bx/n/9 וְאֶת־אֲדָנָֽיו׃ אֶת־הָֽאָרֹ֥ן וְאֶת־בַּדָּ֖יו[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶת־אֲדָנָֽיו׃ אֶת־הָֽאָרֹ֥ן וְֿאֶת־בַּדָּ֖יו[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8423--8429
- []\TU/Shlomo(1)/bx/n/9 אֶת־הַכַּפֹּ֑רֶת וְאֵ֖ת פָּרֹ֥כֶת הַמָּסָֽךְ׃[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־הַכַּפֹּ֑רֶת וְֿאֵ֖ת פָּרֹ֥כֶת הַמָּסָֽךְ׃[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8423--8429
- []\TU/Shlomo(1)/bx/n/9 וְאֶת־כֵּלֶ֖יהָ וְאֶת־נֵֽרֹתֶ֑יהָ וְאֵ֖ת שֶׁ֥מֶן[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶת־כֵּלֶ֖יהָ וְֿאֶת־נֵֽרֹתֶ֑יהָ וְֿאֵ֖ת שֶׁ֥מֶן[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8423--8429
- []\TU/Shlomo(1)/bx/n/9 וְאֶת־מָסַ֥ךְ הַפֶּ֖תַח לְפֶ֥תַח הַמִּשְׁכָּֽן׃[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶת־מָסַ֥ךְ הַפֶּ֖תַח לְֿפֶ֥תַח הַמִּשְׁכָּֽן׃[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8423--8429
- []\TU/Shlomo(1)/bx/n/9 אֲשֶׁר־ל֔וֹ אֶת־בַּדָּ֖יו וְאֶת־כׇּל־כֵּלָ֑יו[] 
+ []\TU/Shlomo(1)/bx/n/9 אֲשֶׁר־ל֔וֹ אֶת־בַּדָּ֖יו וְֿאֶת־כׇּל־כֵּלָ֑יו[] 
  []
 
 
@@ -18789,17 +18823,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 8430--8432
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8430--8432
- []\TU/Shlomo(1)/bx/n/9 וּבְצַלְאֵ֛ל בֶּן־אוּרִ֥י בֶן־ח֖וּר לְמַטֵּ֣ה[] 
+ []\TU/Shlomo(1)/bx/n/9 וּבְצַלְאֵ֛ל בֶּן־אוּרִ֥י בֶן־ח֖וּר לְֿמַטֵּ֣ה[] 
  []
 
 
 Underfull \hbox (badness 5064) in paragraph at lines 8430--8432
- []\TU/Shlomo(1)/bx/n/9 יְהוּדָ֑ה עָשָׂ֕ה אֵ֛ת כׇּל־אֲשֶׁר־צִוָּ֥ה יְיָ֖[] 
+ []\TU/Shlomo(1)/bx/n/9 יְֿהוּדָ֑ה עָשָׂ֕ה אֵ֛ת כׇּל־אֲשֶׁר־צִוָּ֥ה יְיָ֖[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8430--8432
- []\TU/Shlomo(1)/bx/n/9 כׇּל־יִתְדֹ֧ת הַמִּשְׁכָּ֛ן וְאֶת־כׇּל־יִתְדֹ֥ת[] 
+ []\TU/Shlomo(1)/bx/n/9 כׇּל־יִתְדֹ֧ת הַמִּשְׁכָּ֛ן וְֿאֶת־כׇּל־יִתְדֹ֥ת[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18812,42 +18846,42 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [308]
 Underfull \hbox (badness 10000) in paragraph at lines 8433--8439
- []\TU/Shlomo(1)/bx/n/9 קָרְבָּ֖ן לַֽיְיָ֑ מִן־הַבְּהֵמָ֗ה מִן־הַבָּקָר֙[] 
+ []\TU/Shlomo(1)/bx/n/9 קָרְֿבָּ֖ן לַֽיְֿיָ֑ מִן־הַבְּֿהֵמָ֗ה מִן־הַבָּקָר֙[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8433--8439
- []\TU/Shlomo(1)/bx/n/9 וּמִן־הַצֹּ֔אן תַּקְרִ֖יבוּ אֶת־קָרְבַּנְכֶֽם׃[] 
+ []\TU/Shlomo(1)/bx/n/9 וּמִן־הַצֹּ֔אן תַּקְרִ֖יבוּ אֶת־קָרְֿבַּנְכֶֽם׃[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8433--8439
- []\TU/Shlomo(1)/bx/n/9 וְזָֽרְק֨וּ אֶת־הַדָּ֤ם עַל־הַמִּזְבֵּ֨חַ֙ סָבִ֔יב[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿזָֽרְֿק֨וּ אֶת־הַדָּ֤ם עַל־הַמִּזְבֵּ֨חַ֙ סָבִ֔יב[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8433--8439
- []\TU/Shlomo(1)/bx/n/9 אֲשֶׁר־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ וְהִפְשִׁ֖יט[] 
+ []\TU/Shlomo(1)/bx/n/9 אֲשֶׁר־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ וְֿהִפְשִׁ֖יט[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8433--8439
- []\TU/Shlomo(1)/bx/n/9 בְּנֵ֨י אַֽהֲרֹ֧ן הַכֹּהֵ֛ן אֵ֖שׁ עַל־הַמִּזְבֵּ֑חַ[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿנֵ֨י אַֽהֲרֹ֧ן הַכֹּהֵ֛ן אֵ֖שׁ עַל־הַמִּזְבֵּ֑חַ[] 
  []
 
 
 Underfull \hbox (badness 5548) in paragraph at lines 8433--8439
- []\TU/Shlomo(1)/bx/n/9 וְאֶת־רֹאשׁ֖וֹ וְאֶת־פִּדְר֑וֹ וְעָרַ֤ךְ הַכֹּהֵן֙[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶת־רֹאשׁ֖וֹ וְֿאֶת־פִּדְר֑וֹ וְֿעָרַ֤ךְ הַכֹּהֵן֙[] 
  []
 
 
 Underfull \hbox (badness 5504) in paragraph at lines 8440--8442
- []\TU/Shlomo(1)/bx/n/9 תּ֥וּקַד בּֽוֹ׃ וְלָבַ֨שׁ הַכֹּהֵ֜ן מִדּ֣וֹ בַ֗ד[] 
+ []\TU/Shlomo(1)/bx/n/9 תּ֥וּקַד בּֽוֹ׃ וְֿלָבַ֨שׁ הַכֹּהֵ֜ן מִדּ֣וֹ בַ֗ד[] 
  []
 
 
 Underfull \hbox (badness 7722) in paragraph at lines 8440--8442
- []\TU/Shlomo(1)/bx/n/9 אַֽהֲרֹ֣ן וּבָנָ֑יו מַצּ֤וֹת תֵּֽאָכֵל֙ בְּמָק֣וֹם[] 
+ []\TU/Shlomo(1)/bx/n/9 אַֽהֲרֹ֣ן וּבָנָ֑יו מַצּ֤וֹת תֵּֽאָכֵל֙ בְּֿמָק֣וֹם[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18865,12 +18899,12 @@ Underfull \hbox (badness 7685) in paragraph at lines 8443--8445
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8443--8445
- []\TU/Shlomo(1)/bx/n/9 וְאֶת־הַדָּ֣ם יָצַ֔ק אֶל־יְס֖וֹד הַמִּזְבֵּֽחַ׃[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶת־הַדָּ֣ם יָצַ֔ק אֶל־יְֿס֖וֹד הַמִּזְבֵּֽחַ׃[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8443--8445
- []\TU/Shlomo(1)/bx/n/9 וְאֶת־הַבָּשָׂ֖ר וְאֶת־הָע֑וֹר שָׂרַ֣ף בָּאֵ֔שׁ[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶת־הַבָּשָׂ֖ר וְֿאֶת־הָע֑וֹר שָׂרַ֣ף בָּאֵ֔שׁ[] 
  []
 
 
@@ -18880,47 +18914,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 8443--8445
 
 
 Underfull \hbox (badness 6625) in paragraph at lines 8443--8445
- []\TU/Shlomo(1)/bx/n/9 וַ֠יַּמְצִ֠אוּ בְּנֵ֨י אַֽהֲרֹ֤ן אֵלָיו֙ אֶת־הַדָּ֔ם[] 
+ []\TU/Shlomo(1)/bx/n/9 וַ֠יַּמְצִ֠אוּ בְּֿנֵ֨י אַֽהֲרֹ֤ן אֵלָיו֙ אֶת־הַדָּ֔ם[] 
  []
 
 
 Underfull \hbox (badness 7012) in paragraph at lines 8443--8445
- []\TU/Shlomo(1)/bx/n/9 הִמְצִ֧יאוּ אֵלָ֛יו לִנְתָחֶ֖יהָ וְאֶת־הָרֹ֑אשׁ[] 
+ []\TU/Shlomo(1)/bx/n/9 הִמְצִ֧יאוּ אֵלָ֛יו לִנְתָחֶ֖יהָ וְֿאֶת־הָרֹ֑אשׁ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8443--8445
- []\TU/Shlomo(1)/bx/n/9 וְאֶת־הַכְּרָעָ֑יִם וַיַּקְטֵ֥ר עַל־הָֽעֹלָ֖ה[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶת־הַכְּֿרָעָ֑יִם וַיַּקְטֵ֥ר עַל־הָֽעֹלָ֖ה[] 
  []
 
 
-Underfull \hbox (badness 7981) in paragraph at lines 8446--8450
- []\TU/Shlomo(1)/bx/n/9 וַיְדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ דַּבֵּ֞ר[] 
- []
-
-
-Underfull \hbox (badness 5460) in paragraph at lines 8446--8450
- []\TU/Shlomo(1)/bx/n/9 נִדַּ֥ת דְּוֹתָ֖הּ תִּטְמָֽא׃ וּבַיּ֖וֹם הַשְּׁמִינִ֑י[] 
- []
-
-
-Underfull \hbox (badness 7433) in paragraph at lines 8446--8450
- []\TU/Shlomo(1)/bx/n/9 יִמּ֖וֹל בְּשַׂ֥ר עָרְלָתֽוֹ׃ וּשְׁלֹשִׁ֥ים יוֹם֙[] 
- []
-
-
-Underfull \hbox (badness 7326) in paragraph at lines 8446--8450
- []\TU/Shlomo(1)/bx/n/9 וּשְׁלֹ֣שֶׁת יָמִ֔ים תֵּשֵׁ֖ב בִּדְמֵ֣י טָֽהֳרָ֑ה[] 
- []
-
-
-Underfull \hbox (badness 5637) in paragraph at lines 8446--8450
- []\TU/Shlomo(1)/bx/n/9 לְבַת֒ תָּבִ֞יא כֶּ֤בֶשׂ בֶּן־שְׁנָתוֹ֙ לְעֹלָ֔ה[] 
- []
-
-
-Underfull \hbox (badness 7433) in paragraph at lines 8446--8450
- []\TU/Shlomo(1)/bx/n/9 וּבֶן־יוֹנָ֥ה אוֹ־תֹ֖ר לְחַטָּ֑את אֶל־פֶּ֥תַח[] 
+Underfull \hbox (badness 7944) in paragraph at lines 8446--8450
+ []\TU/Shlomo(1)/bx/n/9 טׇׇׇׇׇׇׇָֽהֳרָֽהּ׃  \TU/FreeSans(0)/m/n/8 (\TU/FreeSans(
+0)/bx/n/8 לוי\TU/FreeSans(0)/m/n/8 )  \TU/Shlomo(1)/bx/n/9 וְֿאִם־נְקֵבָ֣ה תֵלֵ
+֔ד[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18933,57 +18944,57 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [310]
 Underfull \hbox (badness 10000) in paragraph at lines 8451--8453
- []\TU/Shlomo(1)/bx/n/9 אֶל־הַכֹּהֵֽן׃ וְיָצָא֙ הַכֹּהֵ֔ן אֶל־מִח֖וּץ[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶל־הַכֹּהֵֽן׃ וְֿיָצָא֙ הַכֹּהֵ֔ן אֶל־מִח֖וּץ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8451--8453
- []\TU/Shlomo(1)/bx/n/9 לַֽמַּֽחֲנֶ֑ה וְרָאָה֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה נִרְפָּ֥א[] 
+ []\TU/Shlomo(1)/bx/n/9 לַֽמַּֽחֲנֶ֑ה וְֿרָאָה֙ הַכֹּהֵ֔ן וְֿהִנֵּ֛ה נִרְפָּ֥א[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8451--8453
- []\TU/Shlomo(1)/bx/n/9 וְלָקַ֧ח לַמִּטַּהֵ֛ר שְׁתֵּֽי־צִפֳּרִ֥ים חַיּ֖וֹת[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿלָקַ֧ח לַמִּטַּהֵ֛ר שְֿׁתֵּֽי־צִפֳּרִ֥ים חַיּ֖וֹת[] 
  []
 
 
 Underfull \hbox (badness 5741) in paragraph at lines 8451--8453
- []\TU/Shlomo(1)/bx/n/9 שִׁבְעַ֥ת יָמִֽים׃ וְהָיָה֩ בַיּ֨וֹם הַשְּׁבִיעִ֜י[] 
+ []\TU/Shlomo(1)/bx/n/9 שִׁבְעַ֥ת יָמִֽים׃ וְֿהָיָה֩ בַיּ֨וֹם הַשְּֿׁבִיעִ֜י[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8451--8453
- []\TU/Shlomo(1)/bx/n/9 שְׁנֵֽי־כְבָשִׂים֙ תְּמִימִ֔ם וְכַבְשָׂ֥ה אַחַ֛ת[] 
+ []\TU/Shlomo(1)/bx/n/9 שְֿׁנֵֽי־כְֿבָשִׂים֙ תְּֿמִימִ֔ם וְֿכַבְשָׂ֥ה אַחַ֛ת[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8454--8456
- []\TU/Shlomo(1)/bx/n/9 מִבֵּ֖ית לַפָּרֹ֑כֶת אֶל־פְּנֵ֨י הַכַּפֹּ֜רֶת[] 
+ []\TU/Shlomo(1)/bx/n/9 מִבֵּ֖ית לַפָּרֹ֑כֶת אֶל־פְּֿנֵ֨י הַכַּפֹּ֜רֶת[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8454--8456
- []\TU/Shlomo(1)/bx/n/9 אֶל־הַקֹּ֑דֶשׁ בְּפַ֧ר בֶּן־בָּקָ֛ר לְחַטָּ֖את[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶל־הַקֹּ֑דֶשׁ בְּֿפַ֧ר בֶּן־בָּקָ֛ר לְֿחַטָּ֖את[] 
  []
 
 
 Underfull \hbox (badness 7704) in paragraph at lines 8454--8456
- []\TU/Shlomo(1)/bx/n/9 עִזִּ֖ים לְחַטָּ֑את וְאַ֥יִל אֶחָ֖ד לְעֹלָֽה׃[] 
+ []\TU/Shlomo(1)/bx/n/9 עִזִּ֖ים לְֿחַטָּ֑את וְֿאַ֥יִל אֶחָ֖ד לְֿעֹלָֽה׃[] 
  []
 
 
 Underfull \hbox (badness 6396) in paragraph at lines 8454--8456
- []\TU/Shlomo(1)/bx/n/9 יְיָ֔ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ וְנָתַ֧ן אַֽהֲרֹ֛ן[] 
+ []\TU/Shlomo(1)/bx/n/9 יְיָ֔ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ וְֿנָתַ֧ן אַֽהֲרֹ֛ן[] 
  []
 
 
 Underfull \hbox (badness 7064) in paragraph at lines 8454--8456
- []\TU/Shlomo(1)/bx/n/9 אֶת־הַכַּפֹּ֛רֶת אֲשֶׁ֥ר עַל־הָֽעֵד֖וּת וְלֹ֥א[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־הַכַּפֹּ֛רֶת אֲשֶׁ֥ר עַל־הָֽעֵד֖וּת וְֿלֹ֥א[] 
  []
 
 
 Underfull \hbox (badness 6978) in paragraph at lines 8454--8456
- []\TU/Shlomo(1)/bx/n/9 וְהֵבִיא֙ אֶת־דָּמ֔וֹ אֶל־מִבֵּ֖ית לַפָּרֹ֑כֶת[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿהֵבִיא֙ אֶת־דָּמ֔וֹ אֶל־מִבֵּ֖ית לַפָּרֹ֑כֶת[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -18996,43 +19007,43 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [311]
 Underfull \hbox (badness 7981) in paragraph at lines 8457--8459
- []\TU/Shlomo(1)/bx/n/9 וַיְדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ דַּבֵּ֞ר[] 
+ []\TU/Shlomo(1)/bx/n/9 וַיְֿדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ דַּבֵּ֞ר[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8457--8459
- []\TU/Shlomo(1)/bx/n/9 אֶל־כׇּל־עֲדַ֧ת בְּנֵֽי־יִשְׂרָאֵ֛ל וְאָֽמַרְתָּ֥[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶל־כׇּל־עֲדַ֧ת בְּֿנֵֽי־יִשְׂרָאֵ֛ל וְֿאָֽמַרְתָּ֥[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8457--8459
  []\TU/FreeSans(0)/m/n/8 (\TU/FreeSans(0)/bx/n/8 ישראל\TU/FreeSans(0)/m/n/8 )  
-\TU/Shlomo(1)/bx/n/9 לֹ֖א תִּגְנֹ֑בוּ וְלֹֽא־תְכַֽחֲשׁ֥וּ[] 
+\TU/Shlomo(1)/bx/n/9 לֹ֖א תִּגְנֹ֑בוּ וְֿלֹֽא־תְֿכַֽחֲשׁ֥וּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8460--8462
- []\TU/Shlomo(1)/bx/n/9 בְּנֵ֣י אַֽהֲרֹ֑ן וְאָֽמַרְתָּ֣ אֲלֵהֶ֔ם לְנֶ֥פֶשׁ[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿנֵ֣י אַֽהֲרֹ֑ן וְֿאָֽמַרְתָּ֣ אֲלֵהֶ֔ם לְֿנֶ֥פֶשׁ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8460--8462
- []\TU/Shlomo(1)/bx/n/9 לֹֽא־יִטַּמָּ֖א בְּעַמָּֽיו׃ כִּ֚י אִם־לִשְׁאֵר֔וֹ[] 
+ []\TU/Shlomo(1)/bx/n/9 לֹֽא־יִטַּמָּ֖א בְּֿעַמָּֽיו׃ כִּ֚י אִם־לִשְׁאֵר֔וֹ[] 
  []
 
 
 Underfull \hbox (badness 7740) in paragraph at lines 8460--8462
- []\TU/Shlomo(1)/bx/n/9 הַקָּרֹ֖ב אֵלָ֑יו לְאִמּ֣וֹ וּלְאָבִ֔יו וְלִבְנ֥וֹ[] 
+ []\TU/Shlomo(1)/bx/n/9 הַקָּרֹ֖ב אֵלָ֑יו לְֿאִמּ֣וֹ וּלְאָבִ֔יו וְֿלִבְנ֥וֹ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8460--8462
- []\TU/Shlomo(1)/bx/n/9 וּלְבִתּ֖וֹ וּלְאָחִֽיו׃ וְלַֽאֲחֹת֤וֹ הַבְּתוּלָה֙[] 
+ []\TU/Shlomo(1)/bx/n/9 וּלְבִתּ֖וֹ וּלְאָחִֽיו׃ וְֿלַֽאֲחֹת֤וֹ הַבְּֿתוּלָה֙[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8460--8462
- []\TU/Shlomo(1)/bx/n/9 וּמִלֵּ֣א אֶת־יָד֔וֹ לִלְבֹּ֖שׁ אֶת־הַבְּגָדִ֑ים[] 
+ []\TU/Shlomo(1)/bx/n/9 וּמִלֵּ֣א אֶת־יָד֔וֹ לִלְבֹּ֖שׁ אֶת־הַבְּֿגָדִ֑ים[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19045,12 +19056,12 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [312]
 Underfull \hbox (badness 6559) in paragraph at lines 8463--8465
- []\TU/Shlomo(1)/bx/n/9 שָׁנִ֖ים שֶׁ֣בַע פְּעָמִ֑ים וְהָי֣וּ לְךָ֗ יְמֵי֙[] 
+ []\TU/Shlomo(1)/bx/n/9 שָׁנִ֖ים שֶׁ֣בַע פְּֿעָמִ֑ים וְֿהָי֣וּ לְֿךָ֗ יְֿמֵי֙[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8463--8465
- []\TU/Shlomo(1)/bx/n/9 אֵ֣ת שְׁנַ֤ת הַֽחֲמִשִּׁים֙ שָׁנָ֔ה וּקְרָאתֶ֥ם[] 
+ []\TU/Shlomo(1)/bx/n/9 אֵ֣ת שְֿׁנַ֤ת הַֽחֲמִשִּׁים֙ שָׁנָ֔ה וּקְרָאתֶ֥ם[] 
  []
 
 
@@ -19060,22 +19071,22 @@ Underfull \hbox (badness 7722) in paragraph at lines 8463--8465
 
 
 Underfull \hbox (badness 5231) in paragraph at lines 8467--8469
- []\TU/Shlomo(1)/bx/n/9 פִּרְיֽוֹ׃ וְהִשִּׂ֨יג לָכֶ֥ם דַּ֨יִשׁ֙ אֶת־בָּצִ֔יר[] 
+ []\TU/Shlomo(1)/bx/n/9 פִּרְיֽוֹ׃ וְֿהִשִּׂ֨יג לָכֶ֥ם דַּ֨יִשׁ֙ אֶת־בָּצִ֔יר[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8467--8469
- []\TU/Shlomo(1)/bx/n/9 בְּתֽוֹכֲכֶ֑ם וְלֹֽא־תִגְעַ֥ל נַפְשִׁ֖י אֶתְכֶֽם׃[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿתֽוֹכֲכֶ֑ם וְֿלֹֽא־תִגְעַ֥ל נַפְשִׁ֖י אֶתְכֶֽם׃[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8467--8469
- []\TU/Shlomo(1)/bx/n/9 וְהִתְהַלַּכְתִּי֙ בְּת֣וֹכֲכֶ֔ם וְהָיִ֥יתִי לָכֶ֖ם[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿהִתְהַלַּכְתִּי֙ בְּֿת֣וֹכֲכֶ֔ם וְֿהָיִ֥יתִי לָכֶ֖ם[] 
  []
 
-Requested font "Shlomo/OT" at 8.99997pt
+Requested font "Shlomo/OT" at 11.99997pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
-Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
+Requested font "Shlomo/OT:script=hebr;language=;" at 12.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 Requested font "Shlomo/OT" at 8.99997pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
@@ -19083,53 +19094,53 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [313]
 Underfull \hbox (badness 10000) in paragraph at lines 8470--8472
- []\TU/Shlomo(1)/bx/n/9 וַיְדַבֵּ֨ר יְיָ֧ אֶל־מֹשֶׁ֛ה בְּמִדְבַּ֥ר סִינַ֖י[] 
+ []\TU/Shlomo(1)/bx/n/9 וַיְֿדַבֵּ֨ר יְיָ֧ אֶל־מֹשֶׁ֛ה בְּֿמִדְבַּ֥ר סִינַ֖י[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8470--8472
- []\TU/Shlomo(1)/bx/n/9 לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר[] 
+ []\TU/Shlomo(1)/bx/n/9 לְֿמִשְׁפְּֿחֹתָ֖ם לְֿבֵ֣ית אֲבֹתָ֑ם בְּֿמִסְפַּ֣ר[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8473--8475
- []\TU/Shlomo(1)/bx/n/9 וַיְדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ נָשׂ֗א[] 
+ []\TU/Shlomo(1)/bx/n/9 וַיְֿדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ נָשׂ֗א[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8473--8475
- []\TU/Shlomo(1)/bx/n/9 עֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃ זֹ֣את עֲבֹדַ֔ת[] 
+ []\TU/Shlomo(1)/bx/n/9 עֲבֹדָ֖ה בְּֿאֹ֥הֶל מוֹעֵֽד׃ זֹ֣את עֲבֹדַ֔ת[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8473--8475
- []\TU/Shlomo(1)/bx/n/9 מִשְׁפְּחֹ֖ת הַגֵּֽרְשֻׁנִּ֑י לַֽעֲבֹ֖ד וּלְמַשָּֽׂא׃[] 
+ []\TU/Shlomo(1)/bx/n/9 מִשְׁפְּֿחֹ֖ת הַגֵּֽרְֿשֻׁנִּ֑י לַֽעֲבֹ֖ד וּלְמַשָּֽׂא׃[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8473--8475
  []\TU/FreeSans(0)/m/n/8 (\TU/FreeSans(0)/bx/n/8 לוי\TU/FreeSans(0)/m/n/8 )  \T
-U/Shlomo(1)/bx/n/9 וְנָ֨שְׂא֜וּ אֶת־יְרִיעֹ֤ת הַמִּשְׁכָּן֙[] 
+U/Shlomo(1)/bx/n/9 וְֿנָ֨שְֿׂא֜וּ אֶת־יְֿרִיעֹ֤ת הַמִּשְׁכָּן֙[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8473--8475
- []\TU/Shlomo(1)/bx/n/9 וְעַל־הַמִּזְבֵּ֨חַ֙ סָבִ֔יב וְאֵת֙ מֵֽיתְרֵיהֶ֔ם[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿעַל־הַמִּזְבֵּ֨חַ֙ סָבִ֔יב וְֿאֵת֙ מֵֽיתְֿרֵיהֶ֔ם[] 
  []
 
 
 Underfull \hbox (badness 6220) in paragraph at lines 8473--8475
- []\TU/Shlomo(1)/bx/n/9 יֵֽעָשֶׂ֛ה לָהֶ֖ם וְעָבָֽדוּ׃ עַל־פִּ֩י אַֽהֲרֹ֨ן[] 
+ []\TU/Shlomo(1)/bx/n/9 יֵֽעָשֶׂ֛ה לָהֶ֖ם וְֿעָבָֽדוּ׃ עַל־פִּ֩י אַֽהֲרֹ֨ן[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8473--8475
- []\TU/Shlomo(1)/bx/n/9 עֲלֵהֶם֙ בְּמִשְׁמֶ֔רֶת אֵ֖ת כׇּל־מַשָּׂאָֽם׃[] 
+ []\TU/Shlomo(1)/bx/n/9 עֲלֵהֶם֙ בְּֿמִשְׁמֶ֔רֶת אֵ֖ת כׇּל־מַשָּׂאָֽם׃[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8473--8475
- []\TU/Shlomo(1)/bx/n/9 זֹ֣את עֲבֹדַ֗ת מִשְׁפְּחֹ֛ת בְּנֵ֥י הַגֵּֽרְשֻׁנִּ֖י[] 
+ []\TU/Shlomo(1)/bx/n/9 זֹ֣את עֲבֹדַ֗ת מִשְׁפְּֿחֹ֛ת בְּֿנֵ֥י הַגֵּֽרְֿשֻׁנִּ֖י[] 
  []
 
 
@@ -19139,7 +19150,17 @@ Underfull \hbox (badness 7851) in paragraph at lines 8473--8475
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8473--8475
- []\TU/Shlomo(1)/bx/n/9 וְעַמּוּדָ֥יו וַֽאֲדָנָֽיו׃ וְעַמּוּדֵי֩ הֶֽחָצֵ֨ר[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿעַמּוּדָ֥יו וַֽאֲדָנָֽיו׃ וְֿעַמּוּדֵי֩ הֶֽחָצֵ֨ר[] 
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 8478--8479
+ []\TU/Shlomo(1)/bx/n/9 אֶת־בְּֿנֵ֣י הַקְּֿהָתִ֑י לְֿמִשְׁפְּֿחֹתָ֖ם וּלְבֵ֥ית[] 
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 8478--8479
+ []\TU/Shlomo(1)/bx/n/9 אֲבֹתָֽם׃ מִבֶּ֨ן שְֿׁלשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19151,38 +19172,29 @@ Requested font "Shlomo/OT" at 8.99997pt
 Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [314]
-Underfull \hbox (badness 6477) in paragraph at lines 8478--8479
- []\TU/Shlomo(1)/bx/n/9 אֶת־בְּנֵ֣י הַקְּהָתִ֑י לְמִשְׁפְּחֹתָ֖ם וּלְבֵ֥ית[] 
- []
-
-
-Underfull \hbox (badness 5954) in paragraph at lines 8478--8479
- []\TU/Shlomo(1)/bx/n/9 אֲבֹתָֽם׃ מִבֶּ֨ן שְׁלשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה[] 
- []
-
-
 Underfull \hbox (badness 7981) in paragraph at lines 8481--8485
- []\TU/Shlomo(1)/bx/n/9 וַיְדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ דַּבֵּר֙[] 
+ []\TU/Shlomo(1)/bx/n/9 וַיְֿדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ דַּבֵּר֙[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8481--8485
- []\TU/Shlomo(1)/bx/n/9 אֶֽל־אַֽהֲרֹ֔ן וְאָֽמַרְתָּ֖ אֵלָ֑יו בְּהַֽעֲלֹֽתְךָ֙[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶֽל־אַֽהֲרֹ֔ן וְֿאָֽמַרְתָּ֖ אֵלָ֑יו בְּֿהַֽעֲלֹֽתְֿךָ֙[
+] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8481--8485
- []\TU/Shlomo(1)/bx/n/9 בֶן־בָּקָ֖ר תִּקַּ֥ח לְחַטָּֽאת׃ וְהִקְרַבְתָּ֙[] 
+ []\TU/Shlomo(1)/bx/n/9 בֶן־בָּקָ֖ר תִּקַּ֥ח לְֿחַטָּֽאת׃ וְֿהִקְרַבְתָּ֙[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8481--8485
- []\TU/Shlomo(1)/bx/n/9 בְנֵֽי־יִשְׂרָאֵ֛ל אֶת־יְדֵיהֶ֖ם עַל־הַֽלְוִיִּֽם׃[] 
+ []\TU/Shlomo(1)/bx/n/9 בְֿנֵֽי־יִשְׂרָאֵ֛ל אֶת־יְֿדֵיהֶ֖ם עַל־הַֽלְוִיִּֽם׃[] 
  []
 
 
 Underfull \hbox (badness 5985) in paragraph at lines 8481--8485
- []\TU/Shlomo(1)/bx/n/9 יְיָ׃ וְהַֽלְוִיִּם֙ יִסְמְכ֣וּ אֶת־יְדֵיהֶ֔ם עַ֖ל[] 
+ []\TU/Shlomo(1)/bx/n/9 יְיָ׃ וְֿהַֽלְוִיִּם֙ יִסְמְכ֣וּ אֶת־יְֿדֵיהֶ֔ם עַ֖ל[] 
  []
 
 
@@ -19192,12 +19204,12 @@ Underfull \hbox (badness 5696) in paragraph at lines 8486--8488
 
 
 Underfull \hbox (badness 5475) in paragraph at lines 8486--8488
- []\TU/Shlomo(1)/bx/n/9 דָ֔ן עַמִּיאֵ֖ל בֶּן־גְּמַלִּֽי׃ לְמַטֵּ֣ה אָשֵׁ֔ר[] 
+ []\TU/Shlomo(1)/bx/n/9 דָ֔ן עַמִּיאֵ֖ל בֶּן־גְּֿמַלִּֽי׃ לְֿמַטֵּ֣ה אָשֵׁ֔ר[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8486--8488
- []\TU/Shlomo(1)/bx/n/9 וְהִ֨תְחַזַּקְתֶּ֔ם וּלְקַחְתֶּ֖ם מִפְּרִ֣י הָאָ֑רֶץ[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿהִ֨תְחַזַּקְתֶּ֔ם וּלְקַחְתֶּ֖ם מִפְּֿרִ֣י הָאָ֑רֶץ[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19210,7 +19222,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [315]
 Underfull \hbox (badness 10000) in paragraph at lines 8492--8498
- []\TU/Shlomo(1)/bx/n/9 שֶׁ֥בַע פְּעָמִֽים׃ וְשָׂרַ֥ף אֶת־הַפָּרָ֖ה[] 
+ []\TU/Shlomo(1)/bx/n/9 שֶׁ֥בַע פְּֿעָמִֽים׃ וְֿשָׂרַ֥ף אֶת־הַפָּרָ֖ה[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19228,22 +19240,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 8502--8507
 
 
 Underfull \hbox (badness 6876) in paragraph at lines 8502--8507
- []\TU/Shlomo(1)/bx/n/9 אֶת־חֲמָתִי֙ מֵעַ֣ל בְּנֵֽי־יִשְׂרָאֵ֔ל בְּקַנְא֥וֹ[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־חֲמָתִי֙ מֵעַ֣ל בְּֿנֵֽי־יִשְׂרָאֵ֔ל בְּֿקַנְא֥וֹ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8502--8507
- []\TU/Shlomo(1)/bx/n/9 אֶת־קִנְאָתִ֖י בְּתוֹכָ֑ם וְלֹֽא־כִלִּ֥יתִי[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־קִנְאָתִ֖י בְּֿתוֹכָ֑ם וְֿלֹֽא־כִלִּ֥יתִי[] 
  []
 
 
 Underfull \hbox (badness 6961) in paragraph at lines 8502--8507
- []\TU/Shlomo(1)/bx/n/9 וַיְדַבֵּ֨ר מֹשֶׁ֜ה וְאֶלְעָזָ֧ר הַכֹּהֵ֛ן אֹתָ֖ם[] 
+ []\TU/Shlomo(1)/bx/n/9 וַיְֿדַבֵּ֨ר מֹשֶׁ֜ה וְֿאֶלְעָזָ֧ר הַכֹּהֵ֛ן אֹתָ֖ם[] 
  []
 
-Requested font "Shlomo/OT" at 8.99997pt
+Requested font "Shlomo/OT" at 11.99997pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
-Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
+Requested font "Shlomo/OT:script=hebr;language=;" at 12.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 Requested font "Shlomo/OT" at 8.99997pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
@@ -19251,47 +19263,48 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [317]
 Underfull \hbox (badness 6364) in paragraph at lines 8509--8511
- []\TU/Shlomo(1)/bx/n/9 וְהֶֽחֱרִ֣ישׁ לָ֑הּ וְקָ֣מוּ נְדָרֶ֗יהָ וֶֽאֱסָרֶ֛הָ[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿהֶֽחֱרִ֣ישׁ לָ֑הּ וְֿקָ֣מוּ נְֿדָרֶ֗יהָ וֶֽאֱסָרֶ֛הָ[] 
+
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8509--8511
- []\TU/Shlomo(1)/bx/n/9 עַל־נַפְשָׁ֖הּ יָק֥וּם עָלֶֽיהָ׃ וְאִם־בֵּ֥ית[] 
+ []\TU/Shlomo(1)/bx/n/9 עַל־נַפְשָׁ֖הּ יָק֥וּם עָלֶֽיהָ׃ וְֿאִם־בֵּ֥ית[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8512--8514
- []\TU/Shlomo(1)/bx/n/9 אֵ֜לֶּה מַסְעֵ֣י בְנֵֽי־יִשְׂרָאֵ֗ל אֲשֶׁ֥ר[] 
+ []\TU/Shlomo(1)/bx/n/9 אֵ֜לֶּה מַסְעֵ֣י בְֿנֵֽי־יִשְׂרָאֵ֗ל אֲשֶׁ֥ר[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8512--8514
- []\TU/Shlomo(1)/bx/n/9 יָֽצְא֛וּ מֵאֶ֥רֶץ מִצְרַ֖יִם לְצִבְאֹתָ֑ם[] 
+ []\TU/Shlomo(1)/bx/n/9 יָֽצְֿא֛וּ מֵאֶ֥רֶץ מִצְרַ֖יִם לְֿצִבְאֹתָ֑ם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8512--8514
- []\TU/Shlomo(1)/bx/n/9 בְּיַד־מֹשֶׁ֖ה וְאַֽהֲרֹֽן׃ וַיִּכְתֹּ֨ב מֹשֶׁ֜ה[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿיַד־מֹשֶׁ֖ה וְֿאַֽהֲרֹֽן׃ וַיִּכְתֹּ֨ב מֹשֶׁ֜ה[] 
  []
 
 
 Underfull \hbox (badness 7667) in paragraph at lines 8512--8514
- []\TU/Shlomo(1)/bx/n/9 אֶת־מוֹצָֽאֵיהֶ֛ם לְמַסְעֵיהֶ֖ם עַל־פִּ֣י יְיָ֑[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־מוֹצָֽאֵיהֶ֛ם לְֿמַסְעֵיהֶ֖ם עַל־פִּ֣י יְיָ֑[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8512--8514
- []\TU/Shlomo(1)/bx/n/9 וְאֵ֥לֶּה מַסְעֵיהֶ֖ם לְמוֹצָֽאֵיהֶֽם׃ וַיִּסְע֤וּ[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֵ֥לֶּה מַסְעֵיהֶ֖ם לְֿמוֹצָֽאֵיהֶֽם׃ וַיִּסְע֤וּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8515--8517
- []\TU/Shlomo(1)/bx/n/9 אֵ֣לֶּה הַדְּבָרִ֗ים אֲשֶׁ֨ר דִּבֶּ֤ר מֹשֶׁה֙[] 
+ []\TU/Shlomo(1)/bx/n/9 אֵ֣לֶּה הַדְּֿבָרִ֗ים אֲשֶׁ֨ר דִּבֶּ֤ר מֹשֶׁה֙[] 
  []
 
 
 Underfull \hbox (badness 5756) in paragraph at lines 8515--8517
- []\TU/Shlomo(1)/bx/n/9 בְּאֶחָ֣ד לַחֹ֑דֶשׁ דִּבֶּ֤ר מֹשֶׁה֙ אֶל־בְּנֵ֣י[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿאֶחָ֣ד לַחֹ֑דֶשׁ דִּבֶּ֤ר מֹשֶׁה֙ אֶל־בְּֿנֵ֣י[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19304,7 +19317,8 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [318]
 Underfull \hbox (badness 10000) in paragraph at lines 8518--8521
- []\TU/Shlomo(1)/bx/n/9 אֶ֨ת־גָּדְלְךָ֔ וְאֶת־יָֽדְךָ֖ הַֽחֲזָקָ֑ה אֲשֶׁ֤ר[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶ֨ת־גָּדְֿלְֿךָ֔ וְֿאֶת־יָֽדְֿךָ֖ הַֽחֲזָקָ֑ה אֲשֶׁ֤ר[] 
+
  []
 
 
@@ -19314,7 +19328,7 @@ Underfull \hbox (badness 6268) in paragraph at lines 8518--8521
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8518--8521
- []\TU/Shlomo(1)/bx/n/9 כְמַֽעֲשֶׂ֖יךָ וְכִגְבֽוּרֹתֶֽךָ׃ אֶעְבְּרָה־נָּ֗א[] 
+ []\TU/Shlomo(1)/bx/n/9 כְֿמַֽעֲשֶׂ֖יךָ וְֿכִגְבֽוּרֹתֶֽךָ׃ אֶעְבְּֿרָה־נָּ֗א[] 
  []
 
 
@@ -19329,7 +19343,7 @@ Underfull \hbox (badness 5817) in paragraph at lines 8522--8525
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8522--8525
- []\TU/Shlomo(1)/bx/n/9 יְיָ֣ אֱלֹהֶ֔יךָ לְפַרְעֹ֖ה וּלְכׇל־מִצְרָֽיִם׃[] 
+ []\TU/Shlomo(1)/bx/n/9 יְיָ֣ אֱלֹהֶ֔יךָ לְֿפַרְעֹ֖ה וּלְכׇל־מִצְרָֽיִם׃[] 
  []
 
 
@@ -19339,12 +19353,12 @@ Underfull \hbox (badness 5592) in paragraph at lines 8522--8525
 
 
 Underfull \hbox (badness 5533) in paragraph at lines 8522--8525
- []\TU/Shlomo(1)/bx/n/9 יְיָ֤ אֱלֹהֶ֨יךָ֙ לְכׇל־הָ֣עַמִּ֔ים אֲשֶׁר־אַתָּ֥ה[] 
+ []\TU/Shlomo(1)/bx/n/9 יְיָ֤ אֱלֹהֶ֨יךָ֙ לְֿכׇל־הָ֣עַמִּ֔ים אֲשֶׁר־אַתָּ֥ה[] 
  []
 
 
 Underfull \hbox (badness 6445) in paragraph at lines 8522--8525
- []\TU/Shlomo(1)/bx/n/9 הֽוּא׃ וְלֹֽא־תָבִ֤יא תֽוֹעֵבָה֙ אֶל־בֵּיתֶ֔ךָ[] 
+ []\TU/Shlomo(1)/bx/n/9 הֽוּא׃ וְֿלֹֽא־תָבִ֤יא תֽוֹעֵבָה֙ אֶל־בֵּיתֶ֔ךָ[] 
  []
 
 
@@ -19362,7 +19376,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [319]
 Underfull \hbox (badness 6691) in paragraph at lines 8526--8532
- []\TU/Shlomo(1)/bx/n/9 וּקְלָלָֽה׃ אֶת־הַבְּרָכָ֑ה אֲשֶׁ֣ר תִּשְׁמְע֗וּ[] 
+ []\TU/Shlomo(1)/bx/n/9 וּקְלָלָֽה׃ אֶת־הַבְּֿרָכָ֑ה אֲשֶׁ֣ר תִּשְׁמְע֗וּ[] 
  []
 
 
@@ -19371,23 +19385,23 @@ Underfull \hbox (badness 7047) in paragraph at lines 8526--8532
  []
 
 
-Underfull \hbox (badness 6493) in paragraph at lines 8526--8532
- []\TU/Shlomo(1)/bx/n/9 כִּ֤י אַתֶּם֙ עֹֽבְרִ֣ים אֶת־הַיַּרְדֵּ֔ן לָבֹא֙[] 
+Underfull \hbox (badness 6658) in paragraph at lines 8526--8532
+ []\TU/Shlomo(1)/bx/n/9 כִּ֤י אַתֶּם֙ עֹֽבְֿרִ֣ים אֶת־הַיַּרְדֵּ֔ן לָבֹא֙[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8526--8532
- []\TU/Shlomo(1)/bx/n/9 חַיִּ֖ים עַל־הָֽאֲדָמָֽה׃ אַבֵּ֣ד תְּ֠אַבְּד֠וּן[] 
+ []\TU/Shlomo(1)/bx/n/9 חַיִּ֖ים עַל־הָֽאֲדָמָֽה׃ אַבֵּ֣ד תְּֿ֠אַבְּֿד֠וּן[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8526--8532
- []\TU/Shlomo(1)/bx/n/9 וְשִׁבַּרְתֶּם֙ אֶת־מַצֵּ֣בֹתָ֔ם וַֽאֲשֵֽׁרֵיהֶם֙[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿשִׁבַּרְתֶּם֙ אֶת־מַצֵּ֣בֹתָ֔ם וַֽאֲשֵֽׁרֵיהֶם֙[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8526--8532
- []\TU/Shlomo(1)/bx/n/9 לֹא־תַֽעֲשׂ֣וּן כֵּ֔ן לַֽיְיָ֖ אֱלֹֽהֵיכֶֽם׃ כִּ֠י[] 
+ []\TU/Shlomo(1)/bx/n/9 לֹא־תַֽעֲשׂ֣וּן כֵּ֔ן לַֽיְֿיָ֖ אֱלֹֽהֵיכֶֽם׃ כִּ֠י[] 
  []
 
 
@@ -19397,12 +19411,12 @@ Underfull \hbox (badness 7362) in paragraph at lines 8526--8532
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8526--8532
- []\TU/Shlomo(1)/bx/n/9 וַֽהֲבֵאתֶ֣ם שָׁ֗מָּה עֹלֹֽתֵיכֶם֙ וְזִבְחֵיכֶ֔ם[] 
+ []\TU/Shlomo(1)/bx/n/9 וַֽהֲבֵאתֶ֣ם שׇׇׇָׁ֗מָּה עֹלֹֽתֵיכֶם֙ וְֿזִבְחֵיכֶ֔ם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8526--8532
- []\TU/Shlomo(1)/bx/n/9 עַד־עָ֑תָּה אֶל־הַמְּנוּחָה֙ וְאֶל־הַֽנַּֽחֲלָ֔ה[] 
+ []\TU/Shlomo(1)/bx/n/9 עַד־עׇׇׇָ֑תָּה אֶל־הַמְּֿנוּחָה֙ וְֿאֶל־הַֽנַּֽחֲלָ֔ה[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19424,17 +19438,17 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
  [321]
 Underfull \hbox (badness 10000) in paragraph at lines 8541--8547
- []\TU/Shlomo(1)/bx/n/9 בֵּיתֶ֑ךָ וְגִלְּחָה֙ אֶת־רֹאשָׁ֔הּ וְעָֽשְׂתָ֖ה[] 
+ []\TU/Shlomo(1)/bx/n/9 בֵּיתֶ֑ךָ וְֿגִלְּֿחָה֙ אֶת־רֹאשָׁ֔הּ וְֿעָֽשְֿׂתָ֖ה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8541--8547
- []\TU/Shlomo(1)/bx/n/9 אֶת־צִפָּרְנֶֽיהָ׃ וְהֵסִ֩ירָה֩ אֶת־שִׂמְלַ֨ת[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־צִפָּרְֿנֶֽיהָ׃ וְֿהֵסִ֩ירָה֩ אֶת־שִׂמְלַ֨ת[] 
  []
 
 
 Underfull \hbox (badness 7273) in paragraph at lines 8541--8547
- []\TU/Shlomo(1)/bx/n/9 לְנַפְשָׁ֔הּ וּמָכֹ֥ר לֹֽא־תִמְכְּרֶ֖נָּה בַּכָּ֑סֶף[] 
+ []\TU/Shlomo(1)/bx/n/9 לְֿנַפְשָׁ֔הּ וּמָכֹ֥ר לֹֽא־תִמְכְּֿרֶ֖נָּה בַּכָּ֑סֶף[] 
  []
 
 
@@ -19444,13 +19458,13 @@ Underfull \hbox (badness 7558) in paragraph at lines 8548--8554
 
 
 Underfull \hbox (badness 5388) in paragraph at lines 8548--8554
- []\TU/Shlomo(1)/bx/n/9 וְאֶת־עֲמָלֵ֖נוּ וְאֶֽת־לַֽחֲצֵֽנוּ׃ וַיּֽוֹצִאֵ֤נוּ יְיָ֙[]
- 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאֶת־עֲמָלֵ֖נוּ וְֿאֶֽת־לַֽחֲצֵֽנוּ׃ וַיּֽוֹצִאֵ֤נוּ יְיָ֙
+[] 
  []
 
 
 Underfull \hbox (badness 7168) in paragraph at lines 8548--8554
- []\TU/Shlomo(1)/bx/n/9 הַקֹּ֣דֶשׁ מִן־הַבַּ֗יִת וְגַ֨ם נְתַתִּ֤יו לַלֵּוִי֙[] 
+ []\TU/Shlomo(1)/bx/n/9 הַקֹּ֣דֶשׁ מִן־הַבַּ֗יִת וְֿגַ֨ם נְֿתַתִּ֤יו לַלֵּוִי֙[] 
  []
 
 
@@ -19460,7 +19474,7 @@ Underfull \hbox (badness 6725) in paragraph at lines 8548--8554
 
 
 Underfull \hbox (badness 7667) in paragraph at lines 8548--8554
- []\TU/Shlomo(1)/bx/n/9 קָדְשְׁךָ֜ מִן־הַשָּׁמַ֗יִם וּבָרֵ֤ךְ אֶֽת־עַמְּךָ֙[] 
+ []\TU/Shlomo(1)/bx/n/9 קׇדְשְׁךָ֜ מִן־הַשָּׁמַ֗יִם וּבָרֵ֤ךְ אֶֽת־עַמְּֿךָ֙[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19500,27 +19514,27 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 10000) in paragraph at lines 8606--8612
- []\TU/Shlomo(1)/bx/n/9 וַיְהִ֡י בְּיוֹם֩ כַּלּ֨וֹת מֹשֶׁ֜ה לְהָקִ֣ים[] 
+ []\TU/Shlomo(1)/bx/n/9 וַיְֿהִ֡י בְּֿיוֹם֩ כַּלּ֨וֹת מֹשֶׁ֜ה לְֿהָקִ֣ים[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8606--8612
- []\TU/Shlomo(1)/bx/n/9 אֶת־הַמִּשְׁכָּ֗ן וַיִּמְשַׁ֨ח אֹת֜וֹ וַיְקַדֵּ֤שׁ[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־הַמִּשְׁכָּ֗ן וַיִּמְשַׁ֨ח אֹת֜וֹ וַיְֿקַדֵּ֤שׁ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8606--8612
- []\TU/Shlomo(1)/bx/n/9 אֹתוֹ֙ וְאֶת־כׇּל־כֵּלָ֔יו וְאֶת־הַמִּזְבֵּ֖חַ[] 
+ []\TU/Shlomo(1)/bx/n/9 אֹתוֹ֙ וְֿאֶת־כׇּל־כֵּלָ֔יו וְֿאֶת־הַמִּזְבֵּ֖חַ[] 
  []
 
 
 Underfull \hbox (badness 5862) in paragraph at lines 8606--8612
- []\TU/Shlomo(1)/bx/n/9 הַנְּשִׂיאִ֛ם אֶת־קָרְבָּנָ֖ם לִפְנֵ֥י הַמִּזְבֵּֽחַ׃[] 
+ []\TU/Shlomo(1)/bx/n/9 הַנְּֿשִׂיאִ֛ם אֶת־קָרְֿבָּנָ֖ם לִפְנֵ֥י הַמִּזְבֵּֽחַ׃[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8606--8612
- []\TU/Shlomo(1)/bx/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
+ []\TU/Shlomo(1)/bx/n/9 שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד לְֿחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19533,57 +19547,57 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [325]
 Underfull \hbox (badness 10000) in paragraph at lines 8617--8620
- []\TU/Shlomo(1)/bx/n/9 נְשִׂ֖יא יִשָּׂשׂכָֽר׃ הִקְרִ֨ב אֶת־קָרְבָּנ֜וֹ[] 
+ []\TU/Shlomo(1)/bx/n/9 נְֿשִׂ֖יא יִשָּׂשׂכָֽר׃ הִקְרִ֨ב אֶת־קָרְֿבָּנ֜וֹ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8617--8620
- []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
+ []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְֿׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
 Underfull \hbox (badness 6063) in paragraph at lines 8617--8620
- []\TU/Shlomo(1)/bx/n/9 לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃[] 
+ []\TU/Shlomo(1)/bx/n/9 לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד לְֿחַטָּֽאת׃[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8617--8620
- []\TU/Shlomo(1)/bx/n/9 זְבוּלֻ֑ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃ קָרְבָּנ֜וֹ[] 
+ []\TU/Shlomo(1)/bx/n/9 זְֿבוּלֻ֑ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃ קָרְֿבָּנ֜וֹ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8617--8620
- []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
+ []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְֿׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8617--8620
- []\TU/Shlomo(1)/bx/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
+ []\TU/Shlomo(1)/bx/n/9 שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד לְֿחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8625--8627
- []\TU/Shlomo(1)/bx/n/9 בֶּן־חֵלֹֽן׃ קָרְבָּנ֜וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת[] 
+ []\TU/Shlomo(1)/bx/n/9 בֶּן־חֵלֹֽן׃ קָרְֿבָּנ֜וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת[] 
  []
 
 
 Underfull \hbox (badness 7221) in paragraph at lines 8625--8627
- []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
+ []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
 Underfull \hbox (badness 5563) in paragraph at lines 8625--8627
- []\TU/Shlomo(1)/bx/n/9 בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְבַּ֥ן אֱלִיאָ֖ב[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְֿבַּ֥ן אֱלִיאָ֖ב[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8625--8627
- []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
+ []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְֿׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8625--8627
- []\TU/Shlomo(1)/bx/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
+ []\TU/Shlomo(1)/bx/n/9 שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד לְֿחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19596,17 +19610,17 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [326]
 Underfull \hbox (badness 7221) in paragraph at lines 8632--8634
- []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
+ []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8632--8634
- []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
+ []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְֿׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8632--8634
- []\TU/Shlomo(1)/bx/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
+ []\TU/Shlomo(1)/bx/n/9 שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד לְֿחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 
@@ -19616,27 +19630,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 8642--8644
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8642--8644
- []\TU/Shlomo(1)/bx/n/9 שְׁלֻֽמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃ קָרְבָּנ֜וֹ[] 
+ []\TU/Shlomo(1)/bx/n/9 שְֿׁלֻֽמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃ קָרְֿבָּנ֜וֹ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8642--8644
- []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
+ []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְֿׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
 Underfull \hbox (badness 6063) in paragraph at lines 8642--8644
- []\TU/Shlomo(1)/bx/n/9 לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃[] 
+ []\TU/Shlomo(1)/bx/n/9 לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד לְֿחַטָּֽאת׃[] 
  []
 
 
 Underfull \hbox (badness 7221) in paragraph at lines 8642--8644
- []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
+ []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
 Underfull \hbox (badness 5711) in paragraph at lines 8642--8644
- []\TU/Shlomo(1)/bx/n/9 בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְבַּ֥ן אֶלְיָסָ֖ף[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְֿבַּ֥ן אֶלְיָסָ֖ף[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19649,42 +19663,42 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [327]
 Underfull \hbox (badness 7221) in paragraph at lines 8652--8653
- []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
+ []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
 Underfull \hbox (badness 5711) in paragraph at lines 8652--8653
- []\TU/Shlomo(1)/bx/n/9 בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְבַּ֥ן אֶלְיָסָ֖ף[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְֿבַּ֥ן אֶלְיָסָ֖ף[] 
  []
 
 
 Underfull \hbox (badness 6893) in paragraph at lines 8661--8664
- [][]\TU/Shlomo(1)/bx/n/9 בַּיּוֹם֙ הַשְּׁבִיעִ֔י נָשִׂ֖יא לִבְנֵ֣י אֶפְרָ֑יִם[] 
+ [][]\TU/Shlomo(1)/bx/n/9 בַּיּוֹם֙ הַשְּֿׁבִיעִ֔י נָשִׂ֖יא לִבְנֵ֣י אֶפְרָ֑יִם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8661--8664
- []\TU/Shlomo(1)/bx/n/9 אֱלִֽישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃ קָרְבָּנ֜וֹ[] 
+ []\TU/Shlomo(1)/bx/n/9 אֱלִֽישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃ קָרְֿבָּנ֜וֹ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8661--8664
- []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
+ []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְֿׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
 Underfull \hbox (badness 6063) in paragraph at lines 8661--8664
- []\TU/Shlomo(1)/bx/n/9 לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃[] 
+ []\TU/Shlomo(1)/bx/n/9 לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד לְֿחַטָּֽאת׃[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8661--8664
- []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
+ []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְֿׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8661--8664
- []\TU/Shlomo(1)/bx/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
+ []\TU/Shlomo(1)/bx/n/9 שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד לְֿחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19697,47 +19711,47 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [328]
 Underfull \hbox (badness 7221) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
+ []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 בִנְיָמִ֑ן אֲבִידָ֖ן בֶּן־גִּדְעֹנִֽי׃ קָרְבָּנ֜וֹ[] 
+ []\TU/Shlomo(1)/bx/n/9 בִנְיָמִ֑ן אֲבִידָ֖ן בֶּן־גִּדְעֹנִֽי׃ קָרְֿבָּנ֜וֹ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
+ []\TU/Shlomo(1)/bx/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְֿׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
+ []\TU/Shlomo(1)/bx/n/9 שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד לְֿחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 
 Underfull \hbox (badness 7221) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
+ []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
 Underfull \hbox (badness 7221) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
+ []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
 Underfull \hbox (badness 7221) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
+ []\TU/Shlomo(1)/bx/n/9 בֶּן־שְׁנָת֖וֹ לְֿעֹלָֽה׃ שְֿׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
 Underfull \hbox (badness 5417) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְבַּ֥ן אֲחִירַ֖ע[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְֿבַּ֥ן אֲחִירַ֖ע[] 
  []
 
 
 Underfull \hbox (badness 5008) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 זָהָ֖ב שְׁתֵּ֥ים עֶשְׂרֵֽה׃ שְׁלֹשִׁ֣ים וּמֵאָ֗ה[] 
+ []\TU/Shlomo(1)/bx/n/9 זָהָ֖ב שְֿׁתֵּ֥ים עֶשְׂרֵֽה׃ שְֿׁלֹשִׁ֣ים וּמֵאָ֗ה[] 
  []
 
 
@@ -19752,12 +19766,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 8669--8675
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 לָֽעֹלָ֜ה שְׁנֵ֧ים עָשָׂ֣ר פָּרִ֗ים אֵילִ֤ם[] 
+ []\TU/Shlomo(1)/bx/n/9 לָֽעֹלָ֜ה שְֿׁנֵ֧ים עָשָׂ֣ר פָּרִ֗ים אֵילִ֤ם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8669--8675
- []\TU/Shlomo(1)/bx/n/9 שְׁנֵים־עָשָׂר֙ כְּבָשִׂ֧ים בְּנֵֽי־שָׁנָ֛ה שְׁנֵ֥ים[] 
+ []\TU/Shlomo(1)/bx/n/9 שְֿׁנֵים־עָשָׂר֙ כְּֿבָשִׂ֧ים בְּֿנֵֽי־שָׁנָ֛ה שְֿׁנֵ֥ים[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19780,7 +19794,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 8685--8690
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8685--8690
- []\TU/Shlomo(1)/bx/n/9 בִּרְפִידִֽם׃ וַיֹּ֨אמֶר מֹשֶׁ֤ה אֶל־יְהוֹשֻׁ֨עַ֙[] 
+ []\TU/Shlomo(1)/bx/n/9 בִּרְפִידִֽם׃ וַיֹּ֨אמֶר מֹשֶׁ֤ה אֶל־יְֿהוֹשֻׁ֨עַ֙[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8685--8690
+ []\TU/Shlomo(1)/bx/n/9 אֶת־עֲמָלֵ֥ק וְֿאֶת־עַמּ֖וֹ לְֿפִי־חָֽרֶב׃ פ[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19802,32 +19821,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 8710--8713
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8710--8713
- []\TU/Shlomo(1)/bx/n/9 וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה עֹלָה֙ לַֽיְיָ֔ פָּרִ֧ים[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה עֹלָה֙ לַֽיְֿיָ֔ פָּרִ֧ים[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8710--8713
- []\TU/Shlomo(1)/bx/n/9 הָֽאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃ וּשְׂעִ֥יר[] 
+ []\TU/Shlomo(1)/bx/n/9 הָֽאֶחָ֑ד לְֿשִׁבְעַ֖ת הַכְּֿבָשִֽׂים׃ וּשְׂעִ֥יר[] 
  []
 
 
 Underfull \hbox (badness 7981) in paragraph at lines 8710--8713
- []\TU/Shlomo(1)/bx/n/9 עֹלַ֣ת הַבֹּ֔קֶר אֲשֶׁ֖ר לְעֹלַ֣ת הַתָּמִ֑יד[] 
+ []\TU/Shlomo(1)/bx/n/9 עֹלַ֣ת הַבֹּ֔קֶר אֲשֶׁ֖ר לְֿעֹלַ֣ת הַתָּמִ֑יד[] 
  []
 
 
 Underfull \hbox (badness 5203) in paragraph at lines 8714--8722
- []\TU/Shlomo(1)/bx/n/9 אֶבְיֹֽנְךָ֖ בְּרִיבֽוֹ׃ מִדְּבַר־שֶׁ֖קֶר תִּרְחָ֑ק[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶבְיֹֽנְֿךָ֖ בְּֿרִיבֽוֹ׃ מִדְּֿבַר־שֶׁ֖קֶר תִּרְחָ֑ק[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8714--8722
- []\TU/Shlomo(1)/bx/n/9 אֶת־תְּבֽוּאָתָֽהּ׃ וְהַשְּׁבִיעִ֞ת תִּשְׁמְטֶ֣נָּה[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־תְּֿבֽוּאָתָֽהּ׃ וְֿהַשְּֿׁבִיעִ֞ת תִּשְׁמְטֶ֣נָּה[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8714--8722
- []\TU/Shlomo(1)/bx/n/9 אֲשֶׁר־אָמַ֥רְתִּי אֲלֵיכֶ֖ם תִּשָּׁמֵ֑רוּ וְשֵׁ֨ם[] 
+ []\TU/Shlomo(1)/bx/n/9 אֲשֶׁר־אָמַ֥רְתִּי אֲלֵיכֶ֖ם תִּשָּׁמֵ֑רוּ וְֿשֵׁ֨ם[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19840,17 +19859,17 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [331]
 Underfull \hbox (badness 10000) in paragraph at lines 8725--8731
- []\TU/Shlomo(1)/bx/n/9 אֶ֨ת־הַדְּבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ עַל־הַלֻּחֹ֥ת[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶ֨ת־הַדְּֿבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ עַל־הַלֻּחֹ֥ת[] 
  []
 
 
 Underfull \hbox (badness 8132) in paragraph at lines 8725--8731
- []\TU/Shlomo(1)/bx/n/9 עִמָּ֔ךְ וְגַם־אִ֥ישׁ אַל־יֵרָ֖א בְּכׇל־הָהָ֑ר[] 
+ []\TU/Shlomo(1)/bx/n/9 עִמָּ֔ךְ וְֿגַם־אִ֥ישׁ אַל־יֵרָ֖א בְּֿכׇל־הָהָ֑ר[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8725--8731
- []\TU/Shlomo(1)/bx/n/9 אֶת־מִזְבְּחֹתָם֙ תִּתֹּצ֔וּן וְאֶת־מַצֵּֽבֹתָ֖ם[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־מִזְבְּֿחֹתָם֙ תִּתֹּצ֔וּן וְֿאֶת־מַצֵּֽבֹתָ֖ם[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19862,18 +19881,18 @@ Requested font "Shlomo/OT" at 8.99997pt
 Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [332]
-Underfull \hbox (badness 5274) in paragraph at lines 8734--8741
- []\TU/Shlomo(1)/bx/n/9 הָֽרִאשׁ֖וֹן לֵאמֹֽר׃ וְיַֽעֲשׂ֧וּ בְנֵֽי־יִשְׂרָאֵ֛ל[] 
+Underfull \hbox (badness 5475) in paragraph at lines 8734--8741
+ []\TU/Shlomo(1)/bx/n/9 הָֽרִאשׁ֖וֹן לֵאמֹֽר׃ וְֿיַֽעֲשׂ֧וּ בְֿנֵֽי־יִשְׂרָאֵ֛ל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8734--8741
- []\TU/Shlomo(1)/bx/n/9 בְּמֹֽעֲד֑וֹ כְּכׇל־חֻקֹּתָ֥יו וּכְכׇל־מִשְׁפָּטָ֖יו[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿמֹֽעֲד֑וֹ כְּֿכׇל־חֻקֹּתָ֥יו וּכְכׇל־מִשְׁפָּטָ֖יו[] 
  []
 
 
 Underfull \hbox (badness 8170) in paragraph at lines 8734--8741
- []\TU/Shlomo(1)/bx/n/9 תַּֽעֲשׂ֥וּ אֹתֽוֹ׃ וַיְדַבֵּ֥ר מֹשֶׁ֛ה אֶל־בְּנֵ֥י[] 
+ []\TU/Shlomo(1)/bx/n/9 תַּֽעֲשׂ֥וּ אֹתֽוֹ׃ וַיְֿדַבֵּ֥ר מֹשֶׁ֛ה אֶל־בְּֿנֵ֥י[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19900,33 +19919,33 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 10000) in paragraph at lines 8764--8767
- []\TU/Shlomo(1)/bx/n/9 שְׁנֵ֥ים עָשָׂ֖ר אֵילִ֣ם שְׁנָ֑יִם כְּבָשִׂ֧ים[] 
+ []\TU/Shlomo(1)/bx/n/9 שְֿׁנֵ֥ים עָשָׂ֖ר אֵילִ֣ם שְֿׁנָ֑יִם כְּֿבָשִׂ֧ים[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8764--8767
- []\TU/Shlomo(1)/bx/n/9 עַשְׁתֵּי־עָשָׂ֖ר אֵילִ֣ם שְׁנָ֑יִם כְּבָשִׂ֧ים[] 
+ []\TU/Shlomo(1)/bx/n/9 עַשְׁתֵּי־עָשָׂ֖ר אֵילִ֣ם שְֿׁנָ֑יִם כְּֿבָשִׂ֧ים[] 
  []
 
 
 Underfull \hbox (badness 6461) in paragraph at lines 8768--8770
- []\TU/Shlomo(1)/bx/n/9 תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
+ []\TU/Shlomo(1)/bx/n/9 תְּֿמִימִֽם׃ וּמִנְחָתָ֣ם וְֿנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8777--8780
  [][]\TU/FreeSans(0)/m/n/8 (\TU/FreeSans(0)/bx/n/8 רביעי\TU/FreeSans(0)/m/n/8 )
-  \TU/Shlomo(1)/bx/n/9 וּבַיּ֧וֹם הַשְּׁלִישִׁ֛י פָּרִ֥ים[] 
+  \TU/Shlomo(1)/bx/n/9 וּבַיּ֧וֹם הַשְּֿׁלִישִׁ֛י פָּרִ֥ים[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8777--8780
- []\TU/Shlomo(1)/bx/n/9 עַשְׁתֵּי־עָשָׂ֖ר אֵילִ֣ם שְׁנָ֑יִם כְּבָשִׂ֧ים[] 
+ []\TU/Shlomo(1)/bx/n/9 עַשְׁתֵּי־עָשָׂ֖ר אֵילִ֣ם שְֿׁנָ֑יִם כְּֿבָשִׂ֧ים[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8777--8780
- []\TU/Shlomo(1)/bx/n/9 תְּמִימִֽם׃ מִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
+ []\TU/Shlomo(1)/bx/n/9 תְּֿמִימִֽם׃ מִנְחָתָ֣ם וְֿנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19941,32 +19960,32 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 8781--8783
- []\TU/Shlomo(1)/bx/n/9 תְּמִימִֽם׃ מִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
+ []\TU/Shlomo(1)/bx/n/9 תְּֿמִימִֽם׃ מִנְחָתָ֣ם וְֿנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8790--8793
- []\TU/Shlomo(1)/bx/n/9 הַתָּמִ֔יד מִנְחָתָ֖הּ וְנִסְכָּֽהּ׃ ס וּבַיּ֧וֹם[] 
+ []\TU/Shlomo(1)/bx/n/9 הַתָּמִ֔יד מִנְחָתָ֖הּ וְֿנִסְכָּֽהּ׃ ס וּבַיּ֧וֹם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8790--8793
- []\TU/Shlomo(1)/bx/n/9 וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים לָֽאֵילִ֧ם[] 
+ []\TU/Shlomo(1)/bx/n/9 וּמִנְחָתָ֣ם וְֿנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים לָֽאֵילִ֧ם[] 
  []
 
 
 Underfull \hbox (badness 7631) in paragraph at lines 8790--8793
- []\TU/Shlomo(1)/bx/n/9 חַטָּ֖את אֶחָ֑ד מִלְּבַד֙ עֹלַ֣ת הַתָּמִ֔יד[] 
+ []\TU/Shlomo(1)/bx/n/9 חַטָּ֖את אֶחָ֑ד מִלְּֿבַד֙ עֹלַ֣ת הַתָּמִ֔יד[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8794--8796
- []\TU/Shlomo(1)/bx/n/9 תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּהֶ֡ם לַ֠פָּרִ֠ים[] 
+ []\TU/Shlomo(1)/bx/n/9 תְּֿמִימִֽם׃ וּמִנְחָתָ֣ם וְֿנִסְכֵּהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 
 Underfull \hbox (badness 6461) in paragraph at lines 8806--8807
- []\TU/Shlomo(1)/bx/n/9 תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
+ []\TU/Shlomo(1)/bx/n/9 תְּֿמִימִֽם׃ וּמִנְחָתָ֣ם וְֿנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 Requested font "Shlomo/OT" at 11.99997pt
@@ -19979,17 +19998,17 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 [336]
 Underfull \hbox (badness 6461) in paragraph at lines 8808--8811
- []\TU/Shlomo(1)/bx/n/9 תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
+ []\TU/Shlomo(1)/bx/n/9 תְּֿמִימִֽם׃ וּמִנְחָתָ֣ם וְֿנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 
 Underfull \hbox (badness 6461) in paragraph at lines 8812--8814
- []\TU/Shlomo(1)/bx/n/9 תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
+ []\TU/Shlomo(1)/bx/n/9 תְּֿמִימִֽם׃ וּמִנְחָתָ֣ם וְֿנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8818--8821
- []\TU/Shlomo(1)/bx/n/9 עָשָׂ֖ר תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם[] 
+ []\TU/Shlomo(1)/bx/n/9 עָשָׂ֖ר תְּֿמִימִֽם׃ וּמִנְחָתָ֣ם וְֿנִסְכֵּיהֶ֡ם[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -19998,27 +20017,27 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 10000) in paragraph at lines 8829--8835
- []\TU/Shlomo(1)/bx/n/9 בָּאָ֑רֶץ וְהִשְׁחַתֶּ֗ם וַֽעֲשִׂ֤יתֶם פֶּ֨סֶל֙[] 
+ []\TU/Shlomo(1)/bx/n/9 בָּאָ֑רֶץ וְֿהִשְׁחַתֶּ֗ם וַֽעֲשִׂ֤יתֶם פֶּ֨סֶל֙[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8829--8835
- []\TU/Shlomo(1)/bx/n/9 אֱלֹהֶ֖יךָ לְהַכְעִיסֽוֹ׃ הַֽעִידֹ֩תִי֩ בָכֶ֨ם[] 
+ []\TU/Shlomo(1)/bx/n/9 אֱלֹהֶ֖יךָ לְֿהַכְעִיסֽוֹ׃ הַֽעִידֹ֩תִי֩ בָכֶ֨ם[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8829--8835
- []\TU/Shlomo(1)/bx/n/9 עֹֽבְרִ֧ים אֶת־הַיַּרְדֵּ֛ן שָׁ֖מָּה לְרִשְׁתָּ֑הּ[] 
+ []\TU/Shlomo(1)/bx/n/9 עֹֽבְֿרִ֧ים אֶת־הַיַּרְדֵּ֛ן שׇׇׇָׁ֖מָּה לְֿרִשְׁתָּ֑הּ[] 
  []
 
 
 Underfull \hbox (badness 5161) in paragraph at lines 8829--8835
- []\TU/Shlomo(1)/bx/n/9 תִּשָּֽׁמֵדֽוּן׃ וְהֵפִ֧יץ יְיָ֛ אֶתְכֶ֖ם בָּֽעַמִּ֑ים[] 
+ []\TU/Shlomo(1)/bx/n/9 תִּשָּֽׁמֵדֽוּן׃ וְֿהֵפִ֧יץ יְיָ֛ אֶתְכֶ֖ם בָּֽעַמִּ֑ים[] 
  []
 
 
 Underfull \hbox (badness 5288) in paragraph at lines 8829--8835
- []\TU/Shlomo(1)/bx/n/9 וְלֹ֥א יְרִיחֻֽן׃ וּבִקַּשְׁתֶּ֥ם מִשָּׁ֛ם אֶת־יְיָ֥[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿלֹ֥א יְֿרִיחֻֽן׃ וּבִקַּשְׁתֶּ֥ם מִשָּׁ֛ם אֶת־יְֿיָ֥[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -20036,52 +20055,52 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 5622) in paragraph at lines 8842--8844
- []\TU/Shlomo(1)/bx/n/9 מֵֽאֲנ֥וּ דַֽעַת־אוֹתִ֖י נְאֻם־יְיָ׃ לָכֵ֗ן כֹּ֤ה[] 
+ []\TU/Shlomo(1)/bx/n/9 מֵֽאֲנ֥וּ דַֽעַת־אוֹתִ֖י נְֿאֻם־יְֿיָ׃ לָכֵ֗ן כֹּ֤ה[] 
  []
 
 
-Underfull \hbox (badness 5771) in paragraph at lines 8842--8844
- []\TU/Shlomo(1)/bx/n/9 נַפְשִֽׁי׃ עַל־הֶ֨הָרִ֜ים אֶשָּׂ֧א בְכִ֣י וָנֶ֗הִי[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8842--8844
- []\TU/Shlomo(1)/bx/n/9 וְעַל־נְא֤וֹת מִדְבָּר֙ קִינָ֔ה כִּ֤י נִצְּתוּ֙[] 
+Underfull \hbox (badness 5939) in paragraph at lines 8842--8844
+ []\TU/Shlomo(1)/bx/n/9 נַפְשִֽׁי׃ עַל־הֶ֨הָרִ֜ים אֶשָּׂ֧א בְֿכִ֣י וָנֶ֗הִי[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8842--8844
- []\TU/Shlomo(1)/bx/n/9 מִבְּלִי־אִ֣ישׁ עֹבֵ֔ר וְלֹ֥א שָֽׁמְע֖וּ ק֣וֹל[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿעַל־נְא֤וֹת מִדְבָּר֙ קִינָ֔ה כִּ֤י נִצְּֿתוּ֙[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8842--8844
- []\TU/Shlomo(1)/bx/n/9 הָלָֽכוּ׃ וְנָֽתַתִּ֧י אֶת־יְרֽוּשָׁלַ֛םִ לְגַלִּ֖ים[] 
+ []\TU/Shlomo(1)/bx/n/9 מִבְּֿלִי־אִ֣ישׁ עֹבֵ֔ר וְֿלֹ֥א שָֽׁמְֿע֖וּ ק֣וֹל[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8842--8844
- []\TU/Shlomo(1)/bx/n/9 מְע֣וֹן תַּנִּ֑ים וְאֶת־עָרֵ֧י יְהוּדָ֛ה אֶתֵּ֥ן[] 
+ []\TU/Shlomo(1)/bx/n/9 הָלָֽכוּ׃ וְֿנָֽתַתִּ֧י אֶת־יְֿרֽוּשָׁלַ֛םִ לְֿגַלִּ֖ים[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8842--8844
- []\TU/Shlomo(1)/bx/n/9 וְיָבֵ֣ן אֶת־זֹ֔את וַֽאֲשֶׁ֨ר דִּבֶּ֧ר פִּֽי־יְיָ֛[] 
+ []\TU/Shlomo(1)/bx/n/9 מְֿע֣וֹן תַּנִּ֑ים וְֿאֶת־עָרֵ֧י יְֿהוּדָ֛ה אֶתֵּ֥ן[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8842--8844
- []\TU/Shlomo(1)/bx/n/9 לַמְקוֹנְנ֖וֹת וּתְבוֹאֶ֑ינָה וְאֶל־הַֽחֲכָמ֥וֹת[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿיָבֵ֣ן אֶת־זֹ֔את וַֽאֲשֶׁ֨ר דִּבֶּ֧ר פִּֽי־יְֿיָ֛[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8842--8844
+ []\TU/Shlomo(1)/bx/n/9 לַמְקוֹנְֿנ֖וֹת וּתְבוֹאֶ֑ינָה וְֿאֶל־הַֽחֲכָמ֥וֹת[] 
  []
 
 
 Underfull \hbox (badness 5954) in paragraph at lines 8842--8844
- []\TU/Shlomo(1)/bx/n/9 קִינָֽה׃ כִּי־עָ֤לָה מָ֨וֶת֙ בְּחַלּוֹנֵ֔ינוּ בָּ֖א[] 
+ []\TU/Shlomo(1)/bx/n/9 קִינָֽה׃ כִּי־עָ֤לָה מָ֨וֶת֙ בְּֿחַלּוֹנֵ֔ינוּ בָּ֖א[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8842--8844
- []\TU/Shlomo(1)/bx/n/9 בְּאַרְמְנוֹתֵ֑ינוּ לְהַכְרִ֤ית עוֹלָל֙ מִח֔וּץ[] 
+ []\TU/Shlomo(1)/bx/n/9 בְּֿאַרְמְנוֹתֵ֑ינוּ לְֿהַכְרִ֤ית עוֹלָל֙ מִח֔וּץ[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -20099,17 +20118,18 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 5288) in paragraph at lines 8851--8856
- []\TU/Shlomo(1)/bx/n/9 לָמָ֤ה יְיָ֙ יֶֽחֱרֶ֤ה אַפְּךָ֙ בְּעַמֶּ֔ךָ אֲשֶׁ֤ר[] 
+ []\TU/Shlomo(1)/bx/n/9 לָמָ֤ה יְיָ֙ יֶֽחֱרֶ֤ה אַפְּֿךָ֙ בְּֿעַמֶּ֔ךָ אֲשֶׁ֤ר[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8851--8856
- []\TU/Shlomo(1)/bx/n/9 לְזַֽרְעֲכֶ֔ם וְנָֽחֲל֖וּ לְעֹלָֽם׃ וַיִּנָּ֖חֶם יְיָ֑[] 
+ []\TU/Shlomo(1)/bx/n/9 לְֿזַֽרְעֲכֶ֔ם וְֿנָֽחֲל֖וּ לְֿעֹלָֽם׃ וַיִּנָּ֖חֶם יְיָ֑[
+] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8851--8856
- []\TU/Shlomo(1)/bx/n/9 עַל־הַלֻּחֹ֔ת אֶ֨ת־הַדְּבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ[] 
+ []\TU/Shlomo(1)/bx/n/9 עַל־הַלֻּחֹ֔ת אֶ֨ת־הַדְּֿבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ[] 
  []
 
 
@@ -20132,27 +20152,28 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 7203) in paragraph at lines 8863--8865
- []\TU/Shlomo(1)/bx/n/9 וְיָשֹׁ֤ב אֶל־יְיָ֙ וִירַֽחֲמֵ֔הוּ וְאֶל־אֱלֹהֵ֖ינוּ[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿיָשֹׁ֤ב אֶל־יְֿיָ֙ וִירַֽחֲמֵ֔הוּ וְֿאֶל־אֱלֹהֵ֖ינוּ[] 
+
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8863--8865
- []\TU/Shlomo(1)/bx/n/9 אֲשֶׁ֥ר שְׁלַחְתִּֽיו׃ כִּֽי־בְשִׂמְחָ֣ה תֵצֵ֔אוּ[] 
+ []\TU/Shlomo(1)/bx/n/9 אֲשֶׁ֥ר שְֿׁלַחְתִּֽיו׃ כִּֽי־בְֿשִׂמְחָ֣ה תֵצֵ֔אוּ[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8863--8865
- []\TU/Shlomo(1)/bx/n/9 וּבְשָׁל֖וֹם תּֽוּבָל֑וּן הֶֽהָרִ֣ים וְהַגְּבָע֗וֹת[] 
+ []\TU/Shlomo(1)/bx/n/9 וּבְשָׁל֖וֹם תּֽוּבָל֑וּן הֶֽהָרִ֣ים וְֿהַגְּֿבָע֗וֹת[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8863--8865
- []\TU/Shlomo(1)/bx/n/9 כִּֽי־קְרוֹבָ֤ה יְשֽׁוּעָתִי֙ לָב֔וֹא וְצִדְקָתִ֖י[] 
+ []\TU/Shlomo(1)/bx/n/9 כִּֽי־קְֿרוֹבָ֤ה יְֿשֽׁוּעָתִי֙ לָב֔וֹא וְֿצִדְקָתִ֖י[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8863--8865
- []\TU/Shlomo(1)/bx/n/9 לְהִגָּלֽוֹת׃ אַשְׁרֵ֤י אֱנוֹשׁ֙ יַֽעֲשֶׂה־זֹּ֔את[] 
+ []\TU/Shlomo(1)/bx/n/9 לְֿהִגָּלֽוֹת׃ אַשְׁרֵ֤י אֱנוֹשׁ֙ יַֽעֲשֶׂה־זֹּ֔את[] 
  []
 
 
@@ -20162,22 +20183,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 8863--8865
 
 
 Underfull \hbox (badness 6961) in paragraph at lines 8863--8865
- []\TU/Shlomo(1)/bx/n/9 וְאַל־יֹאמַ֣ר בֶּן־הַנֵּכָ֔ר הַנִּלְוָ֤ה אֶל־יְיָ֙[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿאַל־יֹאמַ֣ר בֶּן־הַנֵּכָ֔ר הַנִּלְוָ֤ה אֶל־יְֿיָ֙[] 
  []
 
 
 Underfull \hbox (badness 6300) in paragraph at lines 8863--8865
- []\TU/Shlomo(1)/bx/n/9 אֶת־שַׁבְּתוֹתַ֔י וּבָֽחֲר֖וּ בַּֽאֲשֶׁ֣ר חָפָ֑צְתִּי[] 
+ []\TU/Shlomo(1)/bx/n/9 אֶת־שַׁבְּֿתוֹתַ֔י וּבָֽחֲר֖וּ בַּֽאֲשֶׁ֣ר חָפָ֑צְֿתִּי[] 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 8863--8865
- []\TU/Shlomo(1)/bx/n/9 כׇּל־שֹׁמֵ֤ר שַׁבָּת֙ מֵֽחַלְּל֔וֹ וּמַֽחֲזִיקִ֖ים[] 
+ []\TU/Shlomo(1)/bx/n/9 כׇּל־שֹׁמֵ֤ר שַׁבָּת֙ מֵֽחַלְּֿל֔וֹ וּמַֽחֲזִיקִ֖ים[] 
  []
 
 
 Underfull \hbox (badness 6559) in paragraph at lines 8863--8865
- []\TU/Shlomo(1)/bx/n/9 וְשִׂמַּחְתִּים֙ בְּבֵ֣ית תְּפִלָּתִ֔י עוֹלֹתֵיהֶ֧ם[] 
+ []\TU/Shlomo(1)/bx/n/9 וְֿשִׂמַּחְתִּים֙ בְּֿבֵ֣ית תְּֿפִלָּתִ֔י עוֹלֹתֵיהֶ֧ם[] 
  []
 
 Requested font "Shlomo/OT" at 8.99997pt
@@ -20195,7 +20216,7 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 9.0pt
  -> C:/Users/nkasimer/AppData/Local/Microsoft/Windows/Fonts/Shlomo.ttf
 
 Underfull \hbox (badness 6893) in paragraph at lines 8872--8883
- []\TU/Shlomo(1)/bx/n/9 לַֽיְיָ׃ פ וּבְיוֹם֙ הַשַּׁבָּ֔ת שְׁנֵֽי־כְבָשִׂ֥ים[] 
+ []\TU/Shlomo(1)/bx/n/9 לַֽיְֿיָ׃ פ וּבְיוֹם֙ הַשַּׁבָּ֔ת שְֿׁנֵֽי־כְֿבָשִׂ֥ים[] 
  []
 
 Requested font "Shlomo/OT" at 10.94997pt
@@ -20312,10 +20333,10 @@ Requested font "Shlomo/OT:script=hebr;language=;" at 10.95pt
 Here is how much of TeX's memory you used:
  47565 strings out of 427232
  958863 string characters out of 3140718
- 1009459 words of memory out of 3000000
+ 1011075 words of memory out of 3000000
  51461 multiletter control sequences out of 15000+200000
  539236 words of font info for 130 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 70i,12n,105p,3979b,2146s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 70i,12n,105p,4138b,2146s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on olat_tamid_converted.pdf (353 pages).
